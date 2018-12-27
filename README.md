@@ -27,5 +27,11 @@ $ python3 run.py
 ```
 
 Copy the local address and paste it to any web browser you have and press "enter" then you are welcome to explore any functionality of our product. 
-
+  
+ ### Contributor
+Andy
+Emily
+Jack
+Jiyad
+Lava
 
