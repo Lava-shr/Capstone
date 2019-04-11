@@ -1,0 +1,70 @@
+0:setting-182
+1:tablet-172
+2:touch-169
+3:nexus guidebook-159
+4:app-132
+5:google now-129
+6:screen-116
+7:application-76
+8:open-71
+9:account-67
+10:change-65
+11:turn-64
+12:icon-63
+13:information-60
+14:re-58
+15:use google-55
+16:wi fi-54
+17:device-54
+18:google play-53
+19:home screen-52
+20:data-52
+21:go settings-51
+22:add-50
+23:option-50
+24:key-49
+25:use-48
+26:user-47
+27:back-46
+28:set-46
+29:time-45
+30:want-45
+31:card-43
+32:search-42
+33:guidebook use-40
+34:gmail-40
+35:location-40
+36:one-39
+37:text-39
+38:now search-38
+39:connect-38
+40:see-37
+41:widget-37
+42:talkback-36
+43:list-36
+44:google account-35
+45:name-35
+46:google-34
+47:check-33
+48:android-32
+49:content-32
+50:control-31
+51:screen touch-31
+52:show-31
+53:type-31
+54:manage-30
+55:detail-30
+56:double tap-30
+57:using-30
+58:view-29
+59:accessibility-28
+60:touch hold-28
+61:wireless network-28
+62:delete-28
+63:image-28
+64:available-27
+65:email-27
+66:location history-27
+67:lock screen-27
+68:location access-26
+69:need-26

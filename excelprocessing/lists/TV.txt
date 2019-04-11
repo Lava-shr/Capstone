@@ -1,0 +1,22 @@
+Evolution
+DISPLAY -> Screen resolution -> 1920x1080
+DISPLAY -> Screen size -> 46in
+DISPLAY -> Display technology -> LED-backlit LCD
+DISPLAY -> Display aspect ratio -> 0.6729166666666666
+DISPLAY -> Contrast ratio -> 
+Revolution-G1
+AUDIO AND SPEAKERS -> Audio type -> Stereo
+AUDIO AND SPEAKERS -> Number of speakers -> 
+Processor -> Processor type -> 
+POWER -> Power rating -> 120w
+REMOTE CONTROL -> Remote control -> 
+WIRED CONNECTIONS -> Number of HDMI ports -> 4.0
+WIRED CONNECTIONS -> Number of USB 2.0 ports -> 2.0
+WIRED CONNECTIONS -> Wired Terminals / Ports -> Component, Composite, Digital audio, Ethernet, HDMI, USB 2.0, VGA (D-sub)
+WIRELESS CONNECTIONS -> Wi-Fi (wireless networking) -> yes
+WIRELESS CONNECTIONS -> Wireless technology supported -> Wireless 802.11n
+Webcam  -> resolution -> 
+Revolution-G2
+DISPLAY -> Maximum refresh rate (motion handling) -> 200Hz
+DISPLAY -> Viewing Angles -> 178, 178
+DISPLAY -> 3D capable -> Yes

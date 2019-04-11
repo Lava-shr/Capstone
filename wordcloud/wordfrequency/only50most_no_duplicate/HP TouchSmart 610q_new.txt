@@ -1,0 +1,35 @@
+0:computer-170
+1:screen-48
+2:use-40
+3:system recovery-39
+4:software-38
+5:using-37
+6:tap-33
+7:mouse-31
+8:tap start-29
+9:start key-28
+10:window-27
+11:power-26
+12:system-24
+13:information-23
+14:program-22
+15:hard disk-21
+16:see-19
+17:file-18
+18:internet-17
+19:support-16
+20:audio-15
+21:keyboard-14
+22:set-13
+23:doe-12
+24:th-11
+25:medium-10
+26:drive-9
+27:box-8
+28:product-7
+29:service-6
+30:copyright-5
+31:document-4
+32:equipment-3
+33:started-2
+34:license-1

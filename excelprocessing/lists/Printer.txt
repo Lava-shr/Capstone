@@ -1,0 +1,44 @@
+Evolution
+DISPLAY -> Features -> tilt
+Revolution-G1
+GENERAL -> Device Type -> Printer / copier / scanner
+GENERAL -> Printing Technology -> Laser - monochrome
+GENERAL -> Monthly Duty Cycle (max) -> 20000 pages
+GENERAL -> Office Machine Features -> Document send function, save to USB flash drive, scan to e-mail, scan to network, Google Cloud Print ready, HP ePrint, HP Auto Wireless Connect, built-in 802.11 b/g access point
+
+GENERAL -> Display Features -> Touch screen
+GENERAL -> Fax Type -> Plain paper
+
+GENERAL -> Display Diagonal Size -> 4.3"
+PRINTER -> AirPrint Enabled -> 
+PRINTER -> Inkjet Technology -> HP PageWide
+PRINTER -> Ink Cartridge Configuration -> 4 cartridges (1 each: cyan, magenta, yellow, black)
+PRINTER -> Technology -> Ink-jet
+PRINTER -> Connectivity Technology -> Wired
+COPYING -> Copying Features -> ID Card Copy
+MISCELLANEOUS -> Compliant Standards -> CCC, FCC Part 15, ICES-003, ISO 7779, RoHS
+MISCELLANEOUS -> Color Category -> black
+POWER -> Power Consumption Sleep -> 3 Watt
+POWER -> Power Consumption Standby -> 75 Watt
+POWER -> Power Consumption Operational -> 270 Watt
+ENVIRONMENTAL STANDARDS -> EPEAT Compliant -> EPEAT Bronze
+ENVIRONMENTAL STANDARDS -> ENERGY STAR Qualified -> Yes
+PRINTING -> Max Printing Resolution -> Up to 600 x 600 dpi
+PRINTING -> Max Printing Speed -> Up to 21 ppm
+PRINTING -> Max Resolution B/W -> 600 x 600 dpi
+PRINTING -> Printer Drivers / Emulations -> SPL, XPS
+PRINTING -> Max Printing Speed B/W (ppm) -> 21 ppm
+ENVIRONMENTAL PARAMETERS -> Sound Emission -> 27 dBA (idle) / 52 dBA (operating)
+ENVIRONMENTAL PARAMETERS -> Sound Emission (Idle) -> 27 dBA
+ENVIRONMENTAL PARAMETERS -> Sound Emission (Operating) -> 52 dBA
+ENVIRONMENTAL PARAMETERS -> Min Operating Temperature -> 50 °F
+ENVIRONMENTAL PARAMETERS -> Max Operating Temperature -> 89.6 °F
+ENVIRONMENTAL PARAMETERS -> Humidity Range Operating -> 20 - 80%
+CONNECTIONS -> Interfaces -> 2 x USB host - 4 pin USB Type A
+1 x USB 2.0 - 4 pin USB Type B
+1 x LAN - RJ-45
+CONNECTIONS -> Security Protocols & Features -> SSL, Apple Bonjour, LEAP, TLS, 802.1x
+CONNECTIONS -> Operating System Support -> Linux, MS Windows 7, MS Windows XP SP3, MS Windows 7 64-bit Edition, MS Windows Vista, MS Windows Vista (64-bit versions), Apple Mac OS X 10.6, Apple Mac OS X 10.7, Apple Mac OS X 10.8, Windows 8, Windows 8 64-bit
+SCANNING -> Gray Scale Depth -> 8 bit
+SCANNING -> Color Depth -> 24 bit
+Revolution-G2

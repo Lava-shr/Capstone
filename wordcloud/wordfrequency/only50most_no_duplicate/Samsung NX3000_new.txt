@@ -1,0 +1,50 @@
+0:camera-497
+1:image-232
+2:function-171
+3:set-148
+4:subject-118
+5:select-116
+6:use-114
+7:lens-112
+8:smart phone-107
+9:memory card-105
+10:autofocus-102
+11:battery-96
+12:may-89
+13:screen-84
+14:video-83
+15:setting-80
+16:using-75
+17:shutter speed-74
+18:shooting-64
+19:shooting mode-62
+20:press-61
+21:mode-57
+22:time-56
+23:automatically-52
+24:size-48
+25:color-47
+26:capture image-45
+27:auto-44
+28:exposure-43
+29:capture-42
+30:information-41
+31:computer-39
+32:image video-38
+33:mode press-37
+34:change-36
+35:device-35
+36:type-34
+37:quality-32
+38:number-31
+39:connect-30
+40:recommended-29
+41:flash-28
+42:high-27
+43:normal-26
+44:shot-25
+45:result-24
+46:ensure-23
+47:data-22
+48:accessory-21
+49:without-20

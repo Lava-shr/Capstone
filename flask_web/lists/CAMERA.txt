@@ -1,0 +1,84 @@
+Evolution
+Display -> Display Format -> 
+BATTERY -> Details -> 
+Revolution-G1
+Image/ Sensor Resolution -> 36.3 (36) Megapixel (mp) -> 
+Enclosure Material -> magnesium alloy -> 
+Enclosure Material -> Optical Sensor Type -> 
+Enclosure Material -> Optical Sensor Size -> 
+Enclosure Material -> Sensor Dust Reduction -> 
+Enclosure Material -> Sensor Features -> 
+Enclosure Material -> System -> TTL contrast and phase detection
+Enclosure Material -> Auto Focus Points (Zones) Qty -> 35.0
+Enclosure Material -> AE/AF Control -> Face-priority AF, Subject-tracking AF
+Enclosure Material -> Manufacturer -> 
+ENVIRONMENTAL PARAMETERS -> Humidity Range Operating -> 5 - 85%
+EXPOSURE & WHITE BALANCE -> Exposure Metering -> center-weighted, multi-segment, spot
+
+EXPOSURE & WHITE BALANCE -> Exposure Modes -> aperture-priority, automatic, bulb, manual, program, shutter-priority
+
+EXPOSURE & WHITE BALANCE -> White Balance -> automatic, custom, presets
+EXPOSURE & WHITE BALANCE -> White Balance Presets -> cloudy, daylight, flash, fluorescent light (daylight white), fluorescent light (natural white), fluorescent light (warm white), tungsten light
+
+EXPOSURE & WHITE BALANCE -> Exposure Compensation -> 
+EXPOSURE & WHITE BALANCE -> Auto Exposure Bracketing -> 
+EXPOSURE & WHITE BALANCE ->  White Balance Bracketing -> 
+EXPOSURE & WHITE BALANCE -> Exposure Range -> 
+FLASH -> Guide Number (m / ISO 100) -> 
+FLASH -> Red Eye Reduction -> 
+FLASH -> Flash Modes -> 
+LENS SYSTEM -> Lens Included -> NX 20-50mm lens
+MISCELLANEOUS -> Microsoft Certification -> 
+MEMORY / STORAGE -> Supported Memory Cards -> microSD Card, microSDHC Card, microSDHC UHS-I Card, microSDXC Card, microSDXC UHS-I Card
+MEMORY / STORAGE -> Image Storage -> 
+MEMORY / STORAGE -> Video Capture -> H.264 - 1920 x 1080 - 30 fps
+H.264 - 1920 x 1080 - 25 fps
+H.264 - 1280 x 720 - 30 fps
+H.264 - 1280 x 720 - 25 fps
+H.264 - 640 x 480 - 30 fps
+H.264 - 640 x 480 - 25 fps
+H.264 - 320 x 240 - 30 fps
+H.264 - 320 x 240 - 25 fps
+
+ADDITIONAL FEATURES -> Features -> Baby Monitor mode, Dynamic Range Adjustment, USB charging, audio recording, brightness control, digital image rotation, histogram display, i-Function control, in-camera movie editing, in-camera red-eye removal, saturation control, sharpness control, HDR image enhancement technology, Lens Distortion Compensation (LDC), Lens Distortion Correction, Live Panorama function, Multi Motion Capture, RGB primary color filter, Smart AUTO, Tag & Go (NFC/Wi-Fi)
+
+VIEWFINDER -> Viewfinder Type -> 
+VIEWFINDER -> Viewfinder Colour Support -> 
+VIEWFINDER -> Optical Viewfinder Field Coverage -> 
+VIEWFINDER -> Optical Viewfinder Magnification -> 
+VIEWFINDER -> Optical Viewfinder Dioptric Correction Range -> 
+VIEWFINDER -> Viewfinder Frames -> none
+CONNECTIONS -> Memory Card Slot -> microSD card
+CONNECTIONS -> Qty -> 
+CONNECTIONS -> Connector Type -> 
+SHUTTER -> X-sync Speed -> 1/4000 sec
+MICROPHONE -> Microphone Operation Mode -> stereo
+SYSTEM REQUIREMENTS FOR PC CONNECTION -> Peripheral Devices -> 
+HEADER -> Brand -> 
+HEADER -> Product Line -> 
+HEADER -> Model -> 
+HEADER -> Packaged Quantity -> 
+VIDEO INPUT -> Image Processor -> 
+VIDEO INPUT -> Face Detection Detalis -> Wink Self-timer, face-priority AF function
+VIDEO INPUT -> Digital Video Format -> H.264
+VIDEO INPUT -> Image Recording Format -> JPEG, RAW, RAW + JPEG
+VIDEO INPUT -> AV Interfaces -> HDMI, USB 2.0
+VIDEO INPUT -> Light Sensitivity -> ISO 100, ISO 12800, ISO 1600, ISO 200, ISO 25600, ISO 3200, ISO 400, ISO 6400, ISO 800, ISO auto
+VIDEO INPUT -> Special Effects -> Calm, Cartoon, Oil Paint, Portrait, Retro, Sketch, Soft Focus, Vignetting, Vivid, Zooming Shot, cross filter, Classic, Cool, Custom Effect, Fisheye, Forest, Ink Painting, Landscape, Miniature
+
+VIDEO INPUT -> Type -> 
+VIDEO INPUT -> Continuous Shooting Speed -> 
+VIDEO INPUT -> Self Timer Delay -> 2 - 30 sec
+
+VIDEO INPUT -> Flash Terminal -> hot shoe
+VIDEO INPUT -> Digital Camera Type -> mirrorless system
+VIDEO INPUT -> SLR Enhanced Functionality -> 
+VIDEO INPUT -> ISO (Max) -> 25600.0
+VIDEO INPUT -> High Definition Video Support -> 1080p
+VIDEO INPUT -> Face Detection -> 
+VIDEO INPUT -> Lens Mounting Type -> 
+Revolution-G2
+Display -> Display Form Factor -> 
+BATTERY -> Battery Type -> lithium ion
+BATTERY -> Battery Form Factor -> 
+BATTERY -> Manufacturer Battery Name -> 

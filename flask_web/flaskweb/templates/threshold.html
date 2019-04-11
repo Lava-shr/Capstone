@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html class="no-js" lang="">
+    <head>
+    <meta charset="UTF-8">
+    
+
+    <link href='https://fonts.googleapis.com/css?family=Pacifico|Raleway' rel='stylesheet' type='text/css'>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>CategorySelection</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,900,700,600,200" rel="stylesheet">
+    <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,900,700,600,200'>
+    <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
+    <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css'>
+
+
+    <link rel="stylesheet" type="text/css"  href="{{ url_for('static', filename='reset.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='normalize.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='dropdown.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='buttons.css')}}">
+
+    <style>
+        div.screen1left {
+            position: absolute;
+            top: 320px;
+            left: 450px;
+            width: 345px;
+            height: 50px;
+            border: 3px solid #73AD21;
+            font-size: 1.2rem
+        }
+        #object{
+            top: 100px;
+            left:450px;
+            width:350px;   
+        }
+        #submit{
+            position: relative;
+            top: 100px;
+            left:450px;
+            width:350px;   
+        }
+       
+        .list_ul {
+            text-align: center;
+            padding: 10px;
+        }
+        #visibility {
+            visibility: hidden;
+        }
+    </style>
+</head>
+<body>
+
+    <!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <header>
+        <!-- header used for placing the idea studio banner -->	
+    </header>
+    <!-- END HEADER STUFF -->
+    
+    <!-- start navigation bar -->
+    <nav>
+        <ul>
+            <li><a href="{{url_for('reference_product_selection')}}">Home</a>             </li>                
+        </ul>
+    </nav>
+
+    <div class="wrapper typo">
+        <br>
+        <form action="/display_similar_products" method = "post">
+            <ul class="list_ul">
+
+                <br>
+                <!-- Need to options for threshold between 0 and 1-->
+                    <br>
+                    Please select the limit between 0 and 1
+                    <br>
+                    <br>
+                    Lower limit
+                    {{form.lowerlimit}}
+                    <br>
+                    Upper limit
+                    {{form.upperlimit}}
+                    <br>
+                    <br>
+                    {{reason}}
+                
+                <!-- don't change this line  -->
+                {% for product in selection %}
+                <select name="original" id = "visibility">
+                    <option value = "{{product}}"></option>
+                </select> 
+                {% endfor %}
+                <!-- don't change this line  -->
+                <div class="nextbutton">
+                    <button type="submit" class="button"> Next </button>
+                </div>
+            </ul>
+        <br><br>
+        </form>
+    </div>
+    
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js'></script>
+
+    <script src="{{ url_for('static', filename='index.js')}}"></script>
+
+
+    <div class="previousbutton">
+        <button  onclick="history.back(-1)" class="button"> Prev </button>
+    <!--<a href="{{url_for('reference_product_selection')}}" class="button">Previous</a>-->
+    </div>
+   
+
+
+
+        <!-- START FOOTER -->
+        <footer>
+                <ul>
+                    <li><a href="{{url_for('sitemap')}}">Site Map</a></li>
+                    <li><a href="{{url_for('aboutus')}}">About Us</a>    </li>
+                    <li><a href="{{url_for('contactus')}}">Contact</a>    </li>
+                    <li><a href="{{url_for('faq')}}">FAQ</a>    </li>
+                    <li><a href="{{url_for('feedback')}}">Feedback</a>    </li>
+                    <li><a href="{{url_for('privacypolicy')}}">Privacy Policy</a>  </li>
+                </ul>
+        </footer>
+
+        
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='https://www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+        </script>    
+
+</body>
+</html>
+

@@ -1,0 +1,292 @@
+html {
+    /*width: 800px;
+    margin-left: auto;
+    margin-right: auto;*/
+    min-height: 100%;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+body {
+	background-color: #e8e8ff;
+}
+
+/* HEADER, NAV and FOOTER */
+header {
+    overflow: hidden;
+    background-image: url("img/banner-magic.JPG");
+    background-size: cover;
+    background-position: left 25%;
+    height: 240px;
+}
+header h1 {
+    float: left;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 20px;
+    margin: 0;
+    font-size: 50px;
+	font-weight: bold;
+}
+header a, header a:hover, nav a, nav a:hover, footer a, footer a:hover {
+    color: white;
+    text-decoration: none;
+}
+header div {
+    float: right;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+header div a {
+    display: block;
+    padding: 10px 15px;
+    margin: 0px 25px 0px 0px;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    background-color: #E8411C;
+}
+header div a:hover {
+	background-color: #E8855A;
+}
+footer {
+    background-color: #000026;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+}
+footer li {
+    display: inline-block;
+    text-align: left;
+    position: relative;
+}
+footer ul a {
+    display: block;
+    text-decoration: none;
+    color: #CCCCDD;
+    padding: 8px 16px;
+}
+footer ul a:hover {
+    background-color: #222255;
+}
+
+nav {
+    background-color: #E8411C;
+    width: 100%;
+}
+nav ul {
+	list-style-type:none;
+	position:relative;
+	margin:0;
+	padding:0;
+    text-align:center;
+}
+nav ul li
+{
+    display: inline-block;
+	position:relative;
+	margin:0;
+	padding:0;
+    text-align:left;
+}
+nav ul a
+{
+	display: block;
+	text-decoration: none;
+    background-color: #E8411C;
+    color: #FFFFFF;
+    padding: 8px 16px;
+    margin: 0;
+}
+nav ul a:hover {
+    background-color: #E8855A;
+}
+nav ul ul {
+	display:none;
+	position:absolute;
+	top:100%;
+	left:0;
+	padding:0;
+	z-index: 1;
+}
+nav ul ul li {
+	float:none;
+	width:200px;
+}
+nav ul ul ul {
+	top:0;
+	left:100%;
+}
+nav ul li:hover > ul {
+	display:block;
+}
+/* OTHER STUFF */
+section {
+    padding: 20px;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+section a {
+	color: #E8411C;
+	text-decoration: none;
+}
+section a:hover {
+	color: #E8855A;
+	text-decoration: underline;
+}
+section h1 {
+	font-size: 3em;
+	margin: 0.67em 0;
+	text-align: center;
+	font-weight: bold;
+}
+section h2 {
+	font-size: 2em;
+	margin: 0.87em 0;
+	color: #E8411C;
+}
+section h3 {
+	font-size: 1.5em;
+	margin: 0.87em 0;
+}
+section p, section ul, section ol {
+	margin: 1em 1em;
+
+    line-height: 150%;
+}
+section ul {
+    list-style: disc;
+}
+section ol {
+    list-style: decimal;
+}
+section ul, section ol {
+    margin: 1em 2em;
+}
+
+iframe {
+	padding: 10px 0;
+}
+
+/* Homepage */
+
+#homepageImage {
+
+	height : 0 auto;
+	left : 40px;
+	width : 100%;
+}
+.homepagebox {
+	 background-color : lightgrey;
+	 width : 350px;
+	 height: 240px;
+	 padding : 10px;
+	 margin: 10px;
+	 display: inline-block;
+	 float: none;
+	 vertical-align: top;
+	 margin-top : 20px;
+
+
+}
+.homepageColumn {
+    float: left;
+    width: 80%;
+}
+#latestNews {
+	color : black;
+
+}
+.newsColumn {
+    float: right;
+    width: 20%;
+    height: 100%;
+
+}
+.newsAside {
+	padding : 10px 20px;
+	height : auto;
+	min-height: 960px;
+	width : 100%;
+	background-color : lightgray;
+}
+
+
+
+/* end of homepage */
+
+
+.thumbnail {
+  float: left;
+  width: 300px;
+  padding-right: 20px;
+  position: relative;
+}
+
+.content {
+  float: left;
+  width: 500px;
+  margin: 10px;
+}
+
+.heading {
+  font-size: 25px;
+  color: #000000;
+  margin-top: 0px;
+}
+
+.image {
+  width: 310px;
+  height: auto;
+}
+
+/* <------ SWTICHES ------- */
+
+
+/* <------ SWTICHES END ------- */
+
+
+
+
+input.colour, select {
+	position: relative;
+	left: 200px;
+}
+
+label {
+	width: 226px;
+	position: absolute;
+}
+
+.spacesite {
+	width: 250px;
+	margin-bottom: 20px
+}
+
+.sitemap {
+	width: 800px;
+	margin: 0 auto 2em;
+	font-family: Helvetica !Important;
+}
+
+.nobullet {
+	padding: 0;
+	list-style-type: none;
+	color: rgb(109,109,109) !important;
+}
+.subheading {
+	color: rgb(109,109,109) !important;
+	width: 500px;
+}

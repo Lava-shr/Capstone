@@ -1,0 +1,70 @@
+0:console-82
+1:device-43
+2:use-41
+3:connect-39
+4:microsoft-38
+5:xbox-36
+6:battery-36
+7:disc-34
+8:xbox console-32
+9:hard drive-31
+10:controller-30
+11:tv-25
+12:xbox liv-24
+13:power supply-24
+14:headset-20
+15:play-20
+16:power-20
+17:www xbox-20
+18:xbox com-20
+19:xbox accessory-19
+20:game-18
+21:information-18
+22:warranty-16
+23:audio-16
+24:instruction-16
+25:manual-15
+26:network-15
+27:power cord-15
+28:set-14
+29:including-14
+30:screen-14
+31:wireless-14
+32:make sure-13
+33:video game-13
+34:cable-12
+35:equipment-12
+36:interference-12
+37:key-12
+38:one-12
+39:right-12
+40:visit www-12
+41:av-11
+42:cause-11
+43:clean-11
+44:com support-11
+45:radio-11
+46:supply unit-11
+47:wireless controller-11
+48:usb-10
+49:allow-10
+50:child-10
+51:condition-10
+52:damage-10
+53:home network-10
+54:place-10
+55:port-10
+56:product-10
+57:remove-10
+58:turn console-10
+59:video-10
+60:xbox guide-9
+61:connector-9
+62:copyright-9
+63:cord-9
+64:experience-9
+65:input-9
+66:law-9
+67:playing-9
+68:position-9
+69:see-9

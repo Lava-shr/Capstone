@@ -1,0 +1,50 @@
+0:tap-429
+1:phone-356
+2:home screen-330
+3:device-327
+4:screen tap-279
+5:use-255
+6:allow-252
+7:screen-231
+8:application-230
+9:setting-207
+10:contact-201
+11:call-193
+12:message-186
+13:using-175
+14:information-173
+15:page-161
+16:option-142
+17:information refer-138
+18:wi fi-137
+19:select-120
+20:may-119
+21:will-116
+22:location-114
+23:view-112
+24:image-108
+25:note-106
+26:video-104
+27:set-103
+28:samsung-100
+29:account-98
+30:press-96
+31:list-94
+32:battery-91
+33:feature-89
+34:enter-88
+35:time-86
+36:data-84
+37:add-83
+38:product-73
+39:file-72
+40:access-71
+41:icon-69
+42:new-68
+43:software-67
+44:used-66
+45:menu-65
+46:display-64
+47:network-63
+48:want-62
+49:text-60

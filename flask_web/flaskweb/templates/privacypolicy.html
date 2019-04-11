@@ -1,0 +1,99 @@
+<!doctype html>
+<!-- START HEADER STUFF -->
+<html class="no-js" lang="">
+    <head>
+        <link href='https://fonts.googleapis.com/css?family=Pacifico|Raleway' rel='stylesheet' type='text/css'>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        
+        <link rel="stylesheet" type="text/css"  href="{{ url_for('static', filename='reset.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='normalize.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='buttons.css')}}">
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <header>
+            <!-- header used for placing the idea studio banner -->	
+        </header>
+        
+        <!-- END HEADER STUFF -->
+		
+		<!-- start navigation bar -->
+        <nav>
+            <ul>
+                <li><a href="{{url_for('reference_product_selection')}}">Home</a>             </li>                
+            </ul>
+        </nav>
+		<!-- end navigation bar -->
+
+        <!-- START PAGE CONTENT -->
+
+      <!-- Here is where main content of the page goes. Don't change anything before this unless your adding something to navigation bar -->
+		<section>
+			<h1>Privacy Policy</h1>
+			<p>The Idea Studio Privacy Policy was updated on 20 August 2018</p>
+			<section class="subheading">
+				<p>This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.</p>
+			</section>
+			<h2><b>Is this webpage and idea patented?</b></h2>
+			<p>Yes</p>			
+			<h2><b>How do we use your information?</b></h2>
+			<p>We may use the information we collect from you in the following ways:</p>
+			<ul>
+				<li>To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.</li>
+				<li>To improve our website in order to better serve you.</li>
+			</ul>
+			<h2><b>How do we protect visitor information?</b></h2>
+			<p>We do not use vulnerability scanning and/or scanning to PCI standards.<br>We only provide articles and information. We never ask for personal or private information like names, bail addresses or credit card numbers.<br>We do not use Malware Scanning.<br>We do not use an SSL certificate.</p>
+			<h2><b>Do we use 'cookies'?</b></h2>
+			<p>Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systbs to recognize your browser and capture and rbbber certain information.They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</p>
+			<h2><b>Third-Party disclosure</b></h2>
+			<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.</p>
+			<h2><b>Third-Party links</b></h2>
+			<p>We do not include or offer third-party products or services on our website.</p>
+			<h2><b>How does our site handle do not track signals?</b></h2>
+			<p>We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.</p>
+			<h2><b>Does our site allow third-party behavioral tracking?</b></h2>
+			<p>It's also important to note that we do not allow third-party behavioral tracking</p>
+			
+
+			<!-- information created using https://www.freeprivacypolicy.com -->
+		</section>
+
+        <!-- END PAGE CONTENT -->
+
+        <!-- START FOOTER -->
+        <footer>
+            <ul>
+				<li><a href="{{url_for('sitemap')}}">Site Map</a></li>
+                <li><a href="{{url_for('aboutus')}}">About Us</a>    </li>
+                <li><a href="{{url_for('contactus')}}">Contact</a>    </li>
+                <li><a href="{{url_for('faq')}}">FAQ</a>    </li>
+                <li><a href="{{url_for('feedback')}}">Feedback</a>    </li>
+                <li><a href="{{url_for('privacypolicy')}}">Privacy Policy</a>  </li>
+            </ul>
+        </footer>
+
+        
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='https://www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+        </script>
+    </body>
+</html>
+<!-- END FOOTER -->

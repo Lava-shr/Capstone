@@ -1,0 +1,70 @@
+0:screen-240
+1:setting-57
+2:image-46
+3:use-43
+4:brightness-37
+5:adjust-31
+6:power-29
+7:stand-28
+8:function-27
+9:figure-26
+10:menu-24
+11:mm inch-24
+12:cable-21
+13:input-21
+14:select-21
+15:dvi-20
+16:osd-20
+17:key-20
+18:note-19
+19:condition-19
+20:ha-19
+21:product-19
+22:power cord-18
+23:position-17
+24:video-17
+25:monitor-16
+26:automatically-16
+27:colour-16
+28:mode-16
+29:information-15
+30:sensor-15
+31:ac adapter-14
+32:allow-14
+33:auto brightness-14
+34:display solutions-14
+35:please-14
+36:change-14
+37:control-14
+38:following-14
+39:front-14
+40:signal-14
+41:system-14
+42:english-13
+43:osd control-13
+44:brightness level-13
+45:carbon footprint-13
+46:equipment-13
+47:screen card-13
+48:standard-13
+49:computer-12
+50:inch inch-12
+51:mm mm-12
+52:signal cable-12
+53:turn-12
+54:using-12
+55:displayport-11
+56:energy-11
+57:image persistence-11
+58:nec display-11
+59:cause-11
+60:full-11
+61:one-11
+62:set-11
+63:user-11
+64:human sensing-10
+65:multisync-10
+66:size-10
+67:cabinet-10
+68:color-10
+69:level-10

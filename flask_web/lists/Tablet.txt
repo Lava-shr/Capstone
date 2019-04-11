@@ -1,0 +1,43 @@
+Evolution
+NETWORK -> Technology -> No cellular connectivity
+LAUNCH -> Announced -> 2012, October
+LAUNCH -> Status -> Available. Released 2012, November
+BODY -> Dimensions -> 263.9 x 177.6 x 8.9 mm (10.39 x 6.99 x 0.35 in)
+BODY -> Weight -> 603 g (1.33 lb)
+BODY -> SIM -> 
+DISPLAY -> Type -> Super PLS TFT capacitive touchscreen, 16M colors
+DISPLAY -> Size -> 10.1 inches (~63.1% screen-to-body ratio)
+DISPLAY -> Resolution -> 2560 x 1600 pixels (~299 ppi pixel density)
+DISPLAY -> Multitouch -> 
+DISPLAY -> Protection -> Corning Gorilla Glass 2
+PLATFORM -> OS -> Android OS, v4.2 (Jelly Bean), upgradable to v5.1 (Lollipop)
+PLATFORM -> Chipset -> Exynos 5250 Dual
+PLATFORM -> CPU -> Dual-core 1.7 GHz Cortex-A15
+PLATFORM -> GPU -> Mali-T604 MP4
+MEMORY -> Card slot -> 
+MEMORY -> Internal -> 16/32 GB, 2 GB RAM
+CAMERA -> Primary -> 5 MP, autofocus, LED flash, check quality
+CAMERA -> Features -> Geo-tagging, touch focus, face detection
+CAMERA -> Video -> 1080p@30fps, check quality
+CAMERA -> Secondary -> 1.9 MP
+SOUND -> Alert types -> Vibration; MP3, WAV ringtones
+SOUND -> 3.5mm jack -> Yes
+COMMS -> WLAN -> Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA
+COMMS -> Bluetooth -> v3.0, A2DP
+COMMS -> GPS -> Yes, with GLONASS
+COMMS -> NFC -> Yes, dual side
+COMMS -> Radio -> 
+COMMS -> USB -> microUSB v2.0
+FEATURES -> Sensors -> Accelerometer, gyro, proximity, compass, barometer
+FEATURES -> Messaging -> Email, Push Email, IM
+FEATURES -> Browser -> HTML5
+FEATURES -> Java -> No
+BATTERY -> Talk time -> Up to 9 h (multimedia)
+MISC -> Colors -> 
+MISC -> SAR EU -> 1.38 W/kg (body)    
+MISC -> Price group -> 6/10
+TESTS -> Loudspeaker -> 
+TESTS -> Display -> Contrast ratio: 878 (nominal)
+TESTS -> Audio quality -> Noise -82.3dB / Crosstalk -81.4dB
+Revolution-G1
+Revolution-G2

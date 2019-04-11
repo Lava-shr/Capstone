@@ -1,0 +1,1324 @@
+product*Desktop Computers
+computer:170
+screen:48
+use:40
+System Recovery:39
+Getting Started:38
+software:38
+using:37
+tap:33
+mouse:31
+Tap Start:29
+Start key:28
+Window:27
+key tap:27
+Press:26
+power:26
+System:24
+device:24
+select:24
+information:23
+setting:23
+HP TouchSmart:22
+program:22
+hard disk:21
+recovery medium:19
+see:19
+Recovery Manager:18
+application:18
+file:18
+flash drive:18
+update:18
+Internet:17
+NOTE:17
+USB flash:17
+back:17
+connect:17
+disk drive:17
+driver:17
+tap Program:17
+Programs tap:16
+cable:16
+disc:16
+support:16
+turn computer:16
+audio:15
+hp com:15
+tap Next:15
+www hp:15
+check:14
+keyboard:14
+wireless:14
+Beat:13
+Ensure:13
+TouchSmart PC:13
+clean:13
+mode:13
+new:13
+one:13
+page:13
+restart computer:13
+set:13
+DVD:12
+Microsoft Windows:12
+Troubleshooting maintenance:12
+doe:12
+image:12
+keyboard mouse:12
+model:12
+network:12
+step:12
+Volume:11
+connector:11
+create recovery:11
+follow onscreen:11
+installed:11
+move:11
+onscreen instruction:11
+receiver:11
+recovery disc:11
+remove:11
+software program:11
+source:11
+speaker:11
+th:11
+turn:11
+HDMI:10
+ISP:10
+com support:10
+maintenance Getting:10
+medium:10
+operating system:10
+plug:10
+work:10
+Find:9
+Manager tap:9
+USB:9
+creating:9
+drive:9
+following:9
+gaming:9
+hardware:9
+prompted:9
+visit www:9
+Display TouchSmart:8
+Get:8
+Magic Canvas:8
+PC model:8
+System Restore:8
+Troubleshooting:8
+appear:8
+blank:8
+box:8
+cleaning:8
+connection:8
+factory:8
+headphone:8
+insert:8
+key keyboard:8
+memory module:8
+might:8
+open program:8
+reinstall:8
+roller ball:8
+run:8
+side:8
+try:8
+want:8
+Easy Transfer:7
+HP:7
+Sleep:7
+TouchSmart Edition:7
+User Guide:7
+additional:7
+complete:7
+connecting:7
+created:7
+data:7
+desktop:7
+external:7
+full:7
+game console:7
+gaming mode:7
+icon:7
+keep:7
+left:7
+outlet:7
+place:7
+power cord:7
+product:7
+re:7
+right:7
+second:7
+setup:7
+solution:7
+sound:7
+time:7
+touch:7
+touch screen:7
+uninstall:7
+used:7
+video:7
+wa:7
+wall:7
+within:7
+Control Panel:6
+Guide:6
+HP Display:6
+Make:6
+Make sure:6
+PIP:6
+Recovery Media:6
+Safety Comfort:6
+SymptomPossible solution:6
+WARNING:6
+arrow key:6
+available system:6
+back file:6
+carousel:6
+choose:6
+cloth:6
+create:6
+delete:6
+example:6
+feature might:6
+important:6
+included:6
+input:6
+might available:6
+mouse cable:6
+must:6
+open:6
+option:6
+position:6
+problem:6
+protection:6
+responding:6
+service:6
+shipped without:6
+still:6
+surface:6
+system shipped:6
+tap Yes:6
+task:6
+type:6
+version Microsoft:6
+virus:6
+wall mounting:6
+website:6
+wipe:6
+without version:6
+CAUTION:5
+Center:5
+Close:5
+Control:5
+Esc:5
+Internet service:5
+NOTE feature:5
+Next:5
+PC mode:5
+Press Ctrl:5
+Recovery:5
+Shut:5
+Start Menu:5
+Windows Easy:5
+access:5
+adjust:5
+adjust screen:5
+audio connector:5
+automatically:5
+body:5
+connected:5
+continue:5
+copyright:5
+correct:5
+error:5
+hardware driver:5
+help immediately:5
+immediately tap:5
+install:5
+let:5
+list:5
+lock:5
+message:5
+need help:5
+number:5
+orientation:5
+perform System:5
+performance:5
+peripheral device:5
+process:5
+purchased:5
+replace:5
+return:5
+shoulder:5
+simultaneously:5
+size:5
+storage:5
+sure:5
+toggle:5
+tool:5
+tray:5
+warranty:5
+CD DVD:4
+CDs DVD:4
+Close open:4
+Comfort Guide:4
+Connecting game:4
+DL:4
+DVD RW:4
+Hewlett Packard:4
+Keeping:4
+Media Creation:4
+Mute:4
+Online:4
+Otherwise:4
+PIP menu:4
+Picture Picture:4
+Transfer:4
+User:4
+Welcome screen:4
+another:4
+backup:4
+bottom:4
+capability:4
+capacity:4
+card:4
+cleaner:4
+co mputer:4
+console port:4
+contains:4
+damage:4
+document:4
+doe work:4
+equal byte:4
+external speaker:4
+feature:4
+follow:4
+free:4
+go:4
+high quality:4
+hold:4
+important data:4
+include:4
+initial:4
+instruction:4
+internal speaker:4
+issue:4
+key:4
+line:4
+memory:4
+network adapter:4
+port:4
+preinstalled:4
+procedure:4
+reconnect:4
+reinstallation:4
+remote:4
+resolution:4
+restore point:4
+safety:4
+speaker connected:4
+surge protection:4
+tab:4
+unplug:4
+unplug reconnect:4
+vent:4
+verify:4
+view:4
+website shortcut:4
+white:4
+Action Center:3
+Beats AudioŽ:3
+Company:3
+Ctrl Alt:3
+Cursor:3
+Disconnect peripheral:3
+Ethernet:3
+Finish restart:3
+GB:3
+Maintain:3
+Protecting:3
+Recover without:3
+Refer:3
+Security:3
+Setup documentation:3
+Transferring file:3
+Unauthorized:3
+Yes allow:3
+active:3
+advertised:3
+allow:3
+antenna:3
+antivirus:3
+ball cover:3
+battery powered:3
+begin:3
+black slot:3
+boot:3
+brightness contrast:3
+bu tton:3
+came:3
+case:3
+change:3
+com ergo:3
+completely:3
+contact:3
+copy:3
+damaged:3
+data removable:3
+debris:3
+designed:3
+detected:3
+directly:3
+dirt heat:3
+documentation included:3
+dust dirt:3
+either:3
+en:3
+enabled:3
+equipment:3
+er:3
+except keyboard:3
+experience:3
+favorite:3
+file done:3
+firewall:3
+first recommended:3
+fix:3
+fr om:3
+free dust:3
+ha:3
+height:3
+high:3
+incoming video:3
+inside:3
+internal:3
+light:3
+logo:3
+low:3
+magnet:3
+manufacturer:3
+music:3
+neck:3
+need:3
+non:3
+optimized:3
+order:3
+original:3
+paper:3
+part:3
+partition:3
+password:3
+powered vacuum:3
+prevent:3
+proper:3
+provide:3
+provided:3
+purchase:3
+recording:3
+reduce:3
+removable disc:3
+repair:3
+resume:3
+ring:3
+risk:3
+roller:3
+running:3
+save:3
+save change:3
+selected:3
+shortcut:3
+sign:3
+skip:3
+small:3
+sold separately:3
+specific:3
+spray:3
+stand:3
+store:3
+stored hard:3
+supply:3
+tapping:3
+technology:3
+telephone:3
+text:3
+tile:3
+two:3
+upper:3
+us:3
+vacuum cleaner:3
+vary:3
+without backing:3
+wizard:3
+yo:3
+AC:2
+Add:2
+Adjusting incoming:2
+Always:2
+Assistant:2
+Bring:2
+CA:2
+Conn ect:2
+Corporation:2
+Default:2
+Del:2
+Diagnostic:2
+Digital:2
+Disconnect:2
+Dr Dre:2
+Enter:2
+F11:2
+FZRead:2
+Guidelines installing:2
+HPTouchSmart:2
+LAN:2
+LED:2
+Label:2
+Monthly:2
+Num:2
+Panel:2
+Properties:2
+Read:2
+Repeat:2
+Restore:2
+Search:2
+Sharing:2
+ShutDown:2
+Started:2
+TV:2
+Troubleshoot:2
+Updating:2
+Web:2
+Writer:2
+able:2
+accessory:2
+account:2
+added:2
+adjustment:2
+affect:2
+along:2
+andthen:2
+appearance:2
+approximately:2
+area:2
+assistance:2
+authorized Macrovision:2
+away:2
+background:2
+ball:2
+base:2
+battery:2
+beep:2
+binary:2
+built:2
+cap:2
+click:2
+cm inch:2
+co:2
+configuration:2
+conn:2
+connec:2
+content:2
+contrast gamma:2
+cool:2
+cord:2
+corner:2
+counterclockwise:2
+decimal:2
+degree:2
+detail:2
+detect:2
+different:2
+direction:2
+disable:2
+door:2
+dry:2
+electrical:2
+electrical mechanical:2
+enable:2
+era:2
+ergonomic:2
+established:2
+every:2
+existing account:2
+fan:2
+feel discomfort:2
+finished:2
+first:2
+fo:2
+folder:2
+format:2
+frequently:2
+gamma color:2
+gigabyte:2
+glare:2
+graphic show:2
+habit:2
+hand:2
+health:2
+help:2
+herein:2
+highlighted:2
+ho ld:2
+however:2
+improve:2
+increasing:2
+informationWhere:2
+ing:2
+installation:2
+installing:2
+instead:2
+interaction:2
+interface:2
+isopropyl rubbing:2
+keyboa rd:2
+keypad:2
+know:2
+launch:2
+limited:2
+lint:2
+located:2
+location:2
+lowering:2
+megabyte:2
+menu:2
+method:2
+minimum:2
+month:2
+mounted:2
+moving:2
+muted:2
+necessary:2
+needed:2
+ng:2
+normal:2
+numbering:2
+optical:2
+pad:2
+partial:2
+performing:2
+playlist:2
+plugged properly:2
+po wer:2
+point manually:2
+powered:2
+printer:2
+prog ram:2
+protec:2
+provider:2
+pull:2
+push:2
+range:2
+rear:2
+reco:2
+recove ry:2
+red:2
+reformat:2
+region:2
+registered trademark:2
+registration:2
+required:2
+respond:2
+result:2
+revert earlier:2
+rollback:2
+rotate:2
+rubbing alcohol:2
+safe:2
+scroll:2
+secure:2
+shock:2
+show:2
+signal:2
+simple:2
+slot:2
+smaller:2
+smoothly:2
+soft:2
+space:2
+specifically:2
+specification:2
+standard:2
+startup:2
+state:2
+stop flashing:2
+switch:2
+technical:2
+ted:2
+tell:2
+third:2
+three:2
+tilted:2
+top:2
+touching:2
+track:2
+trademark:2
+trial:2
+underside:2
+usage:2
+utility:2
+viewing:2
+visible:2
+wait:2
+water:2
+way:2
+well:2
+working:2
+written:2
+10Chapter:1
+11Using:1
+11n:1
+12Chapter:1
+13HP:1
+14Chapter:1
+154Troubleshooting:1
+16Chapter:1
+18Chapter:1
+19Keyboard:1
+1Getting:1
+1Type:1
+22Chapter:1
+23Gaming:1
+24Chapter:1
+25Microsoft:1
+26Chapter:1
+27Virus:1
+28Chapter:1
+29NOTE:1
+2Chapter:1
+30Chapter:1
+31If:1
+3234If:1
+32Chapter:1
+32Features:1
+33Choosing:1
+34Chapter:1
+3Setting:1
+3Œ6:1
+4Chapter:1
+5Connecting:1
+640b:1
+6Chapter:1
+7Connecting:1
+8Chapter:1
+95015Œ4010:1
+9Computer:1
+AB3:1
+AC3:1
+Administrator:1
+Alt:1
+Apply:1
+AudioOutTV:1
+AudioŽSelect:1
+BIOS:1
+Bl:1
+Blu:1
+C20Chapter:1
+CD:1
+Cleanup:1
+Compaq:1
+Cupertino:1
+Customize:1
+DTS:1
+December:1
+DefragmentationRun:1
+Defragmenter:1
+Detached:1
+Development:1
+Dolby:1
+Double:1
+Download:1
+Edition:1
+EditionSelect:1
+End:1
+English:1
+Erase:1
+Explorer:1
+FDISK:1
+FZConnect:1
+FZDownload:1
+FZFollow:1
+FZLook:1
+FZPlace:1
+Gently:1
+Interact:1
+InternetSteps:1
+Invalid:1
+Iovine:1
+Jimmy:1
+Learn:1
+License:1
+Loading:1
+Locate:1
+Log:1
+MB:1
+MagnetsDrag:1
+MaintenanceIt:1
+MemorySymptomPossible:1
+Movie:1
+NIC:1
+Nothing:1
+OffOnConnect:1
+PCM:1
+Personalization:1
+Pin:1
+Power17Keyboard:1
+PowerSymptomPossible:1
+Quick:1
+ROM:1
+Reach:1
+Recover:1
+RecoveryIn:1
+Regulatory:1
+Reset:1
+RestoreIf:1
+Reverse:1
+Rinse:1
+Servicing:1
+Sometime:1
+Squeeze:1
+Status:1
+Stereo:1
+Sub:1
+SubIR:1
+Suppor:1
+Suspend:1
+Switches:1
+Sy:1
+Table:1
+Test:1
+Tr:1
+Tutorial:1
+UPS:1
+USA:1
+Understanding:1
+United:1
+UpdateRun:1
+Upgrade:1
+Upgrading:1
+UserGuides:1
+VESA:1
+WLAN:1
+Watching:1
+Weekly:1
+Yearly:1
+abrasive:1
+accessed:1
+accessible:1
+accompanying:1
+accumulate:1
+accumulated:1
+activate:1
+activity:1
+actual:1
+adapt:1
+adjustable:1
+air:1
+allŠprograms:1
+almost:1
+already:1
+amount:1
+ansfer:1
+appli:1
+appropriately:1
+arency:1
+arm:1
+around:1
+arrange:1
+arrow:1
+asked:1
+asks:1
+assumes:1
+attached:1
+attack:1
+attempt:1
+ature:1
+automated:1
+avoid:1
+ayer:1
+ba:1
+backing:1
+balance:1
+balanced:1
+bar:1
+beam:1
+beforehand:1
+bett:1
+beyond:1
+blanket:1
+blocked:1
+bogged:1
+bookmark:1
+browse:1
+browser:1
+bug:1
+build:1
+buildup:1
+burner:1
+butto:1
+cabling:1
+calendar:1
+called:1
+catch:1
+cation:1
+caught:1
+cause:1
+caused:1
+cavity:1
+ce:1
+changed:1
+channel:1
+character:1
+ckup:1
+cl:1
+clea:1
+cleanupThoroughly:1
+cleanupUse:1
+clear:1
+clicki:1
+closer:1
+closing:1
+color:1
+come:1
+comfortBefore:1
+comfortable:1
+comfortably:1
+command:1
+common:1
+communicate:1
+community:1
+compon:1
+component:1
+comput:1
+condition:1
+connecti:1
+consent:1
+consoleSelect:1
+constituting:1
+construed:1
+consumer:1
+contained:1
+containing:1
+contents1:1
+continually:1
+continuously:1
+copied:1
+cotton:1
+countries:1
+country:1
+covery:1
+crisp:1
+critical:1
+damp:1
+dampened:1
+dataUse:1
+date:1
+dedicated:1
+defaul:1
+defect:1
+definition:1
+deleting:1
+depending:1
+depends:1
+described:1
+describes:1
+desired:1
+desktopPress:1
+deter:1
+di:1
+diagnosticSometimes:1
+difference:1
+direct:1
+disassembly:1
+displayed:1
+drop:1
+due:1
+earthed:1
+easiest:1
+easily:1
+ection:1
+ector:1
+ed:1
+edge:1
+editorial:1
+effect:1
+effectively:1
+electr:1
+electric:1
+electrocution:1
+electronic:1
+eliminates:1
+enclosure:1
+encounter:1
+encourage:1
+endorse:1
+engineering:1
+enough:1
+ents:1
+environment:1
+ex:1
+exceedingly:1
+exposure:1
+express:1
+extended:1
+failing:1
+faster:1
+fe:1
+filter:1
+finger:1
+fingerprint:1
+fire:1
+foot:1
+forth:1
+forum:1
+four:1
+fourth:1
+framed:1
+fu:1
+function:1
+furnished:1
+furniture:1
+fuzzy:1
+game:1
+glass:1
+going:1
+good:1
+graffiti:1
+gray:1
+green:1
+groove:1
+grounded:1
+grounding:1
+group:1
+guided:1
+hair:1
+hardwa:1
+hardwaredevicesAfter:1
+harm:1
+head:1
+hear:1
+hinder:1
+home:1
+horizontal:1
+hot:1
+ical:1
+identification:1
+iiiivGetting:1
+illegal:1
+illustration:1
+inSubIR:1
+inactivity:1
+including:1
+incorporates:1
+incorrect:1
+increase:1
+indicator:1
+infect:1
+initially:1
+injury:1
+installable:1
+intellectual:1
+intended:1
+interference:1
+iou:1
+item:1
+junk:1
+ke:1
+labeled:1
+landscape:1
+language:1
+large:1
+laser:1
+last:1
+later:1
+law:1
+lawful:1
+le:1
+least:1
+leave:1
+lem:1
+lens:1
+level:1
+liable:1
+licensed:1
+life:1
+ligh:1
+link:1
+listed:1
+local:1
+locked:1
+longer:1
+ly:1
+mail:1
+making:1
+mart:1
+match:1
+matching:1
+maximize:1
+mber:1
+measuring:1
+mediaCAUTION:1
+mediaRecovery:1
+mediaTo:1
+meter:1
+mild:1
+minimize:1
+minute:1
+mishandling:1
+mo:1
+modeSymptomPossible:1
+moisture:1
+mostŠnot:1
+motion:1
+mount:1
+moved:1
+movement:1
+much:1
+multiple:1
+muscle:1
+navigate:1
+nctioning:1
+ne:1
+networking:1
+nnection:1
+notation:1
+notice:1
+now:1
+nt:1
+nu:1
+object:1
+occurs:1
+oducts:1
+offer:1
+omission:1
+onboard:1
+ongoing:1
+onto:1
+opening:1
+operated:1
+orhorizontally:1
+originally:1
+orvisit:1
+ose:1
+others:1
+outIR:1
+outLANTVin1:1
+outinLAN3:1
+output:1
+outside:1
+overheat:1
+owner:1
+pand:1
+particle:1
+party:1
+patent:1
+peak:1
+perform:1
+period:1
+permitted:1
+personal:1
+pet:1
+photocopied:1
+pl:1
+placed:1
+placement:1
+placing:1
+playback:1
+played:1
+player:1
+plugging:1
+plus:1
+po:1
+portion:1
+portrait:1
+positioning:1
+possible:1
+posture:1
+powering:1
+pr:1
+predefined:1
+present:1
+preset:1
+pressed:1
+pressing:1
+prev:1
+printed:1
+prior:1
+prob:1
+proceeding:1
+produce:1
+produced:1
+productivity:1
+progra:1
+prohibited:1
+prolong:1
+prompt:1
+pronged:1
+properly:1
+property:1
+proprietary:1
+protected:1
+purchasing:1
+purpose:1
+pyright:1
+question:1
+quirements:1
+quit:1
+rail:1
+ray:1
+reactivate:1
+reader:1
+ready:1
+reats:1
+recognition:1
+recognized:1
+recommended:1
+recommends:1
+recoveri:1
+reflective:1
+rein:1
+reinstal:1
+reinstalling:1
+rejected:1
+relaxed:1
+relaxing:1
+release:1
+reless:1
+reliability:1
+removing:1
+repeatedly:1
+replaced:1
+report:1
+reported:1
+reproduced:1
+require:1
+requirement:1
+resolve:1
+response:1
+responsibility:1
+restarting:1
+restoring:1
+rface:1
+righ:1
+riskComputer:1
+ro:1
+room:1
+rout:1
+router:1
+satisfactory:1
+saving:1
+sc:1
+scan:1
+scanPerform:1
+scheduling:1
+screenFollow:1
+scrolled:1
+scrolling:1
+se:1
+section:1
+securityWindows:1
+seems:1
+sensor:1
+separa:1
+separate:1
+separately:1
+separation:1
+serious:1
+session:1
+several:1
+shall:1
+sheet:1
+shown:1
+similar:1
+simultaneous:1
+slide:1
+slider:1
+sliding:1
+slim:1
+slipped:1
+slow:1
+slowly:1
+soap:1
+solve:1
+soon:1
+soot:1
+sound21SymptomPossible:1
+soundSymptomPossible:1
+spacebar:1
+special:1
+spring:1
+stall:1
+starting:1
+stated:1
+statement:1
+stationary:1
+stem:1
+stepped:1
+stick:1
+stop:1
+sture:1
+su:1
+subject:1
+submenu:1
+subwoofer:1
+supportvideos:1
+swab:1
+swiveled:1
+synchronization:1
+synchronize:1
+take:1
+tart:1
+teleph:1
+televisi:1
+television:1
+tely:1
+temperature:1
+temporary:1
+term:1
+thef:1
+therefore:1
+thes:1
+ti:1
+tilting:1
+ting:1
+translated:1
+transp:1
+tuner:1
+turned:1
+typically:1
+typing:1
+uetooth:1
+ugh:1
+uninterruptible:1
+unless:1
+unnoticed:1
+unobstructed:1
+unplugging:1
+unsatisfactory:1
+unstable:1
+unti:1
+updatesUse:1
+upright:1
+upside:1
+ur:1
+variety:1
+ventilation:1
+ventsAir:1
+vertically:1
+virusesAntivirus:1
+voltage:1
+walkway:1
+ware:1
+warm:1
+webcam:1
+week:1
+whether:1
+wi:1
+widescreen:1
+win7:1
+wired:1
+workstation:1
+write:1
+Œ5:1
+ﬁburnﬂ:1

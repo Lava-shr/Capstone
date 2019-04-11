@@ -1,0 +1,50 @@
+0:ipod nano-394
+1:tap-175
+2:itune-110
+3:song-100
+4:use-81
+5:see-78
+6:set-75
+7:screen tap-72
+8:control-67
+9:computer-60
+10:home screen-59
+11:video-58
+12:image-56
+13:battery-51
+14:information-50
+15:chapter-48
+16:radio-45
+17:device-43
+18:sync-42
+19:workout-39
+20:playlist-36
+21:time-34
+22:photos-33
+23:choose-31
+24:setting-30
+25:recording-28
+26:music-27
+27:content-26
+28:pause key-25
+29:connected-24
+30:may-23
+31:icon-22
+32:connect-21
+33:turn-20
+34:menu-19
+35:station-18
+36:create-17
+37:add-16
+38:listen-15
+39:play-14
+40:screen-13
+41:disconnect-12
+42:return-11
+43:favorite-10
+44:syncing-9
+45:fitness-8
+46:preference-7
+47:collection-6
+48:step-5
+49:glance-4

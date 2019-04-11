@@ -1,0 +1,31 @@
+Evolution
+MEMORY -> Max Supported Size -> 
+Revolution-G1
+PROCESSOR / CHIPSET -> CPU -> Intel Corei7 / 2.93 GHz
+PROCESSOR / CHIPSET -> Number of Cores -> 
+PROCESSOR / CHIPSET -> 64-bit Computing -> 
+PROCESSOR / CHIPSET -> Chipset Type -> 
+CACHE MEMORY -> Cache Per Processor -> 
+RAM -> Installed Size -> 8 GB
+RAM -> Technology -> 
+RAM -> Features -> 
+RAM -> Configuration Features -> 
+AUDIO & VIDEO -> Memory Allocation Technology -> 
+HARD DRIVE -> Interface Class -> 
+HARD DRIVE -> Capacity -> 1.5 TB(5600rmp)
+STORAGE CONTROLLER -> Interface Type -> 
+COMMUNICATIONS -> Wirless Protocol -> 
+OPTICAL STORAGE -> Drive Type -> 
+GRAPHICS CONTROLLER -> Graphic Processor -> 1GB ATI Radeon HD 5570
+GRAPHICS CONTROLLER -> Video Interface -> 
+DIMENSIONS & WEIGHT -> Width -> 
+DIMENSIONS & WEIGHT -> Depth -> 
+DIMENSIONS & WEIGHT -> Height -> 
+DIMENSIONS & WEIGHT -> Weight -> 
+AUDIO OUTPUT -> Form Factor -> 
+AUDIO OUTPUT -> Compliant Standards -> 
+AUDIO OUTPUT -> Sound Output Mode -> 
+OPERATING SYSTEM / SOFTWARE -> Type -> Windows 7 Home Premium 64-bit
+Revolution-G2
+NETWORKING -> Data Link Protocol -> 
+NETWORKING -> Wireless LAN Supported -> 

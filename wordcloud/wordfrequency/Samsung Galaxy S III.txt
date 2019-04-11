@@ -1,0 +1,4891 @@
+product*Mobile Phones
+Tap:429
+phone:372
+Home screen:330
+device:322
+screen tap:279
+use:255
+allow:251
+screen:231
+application:230
+Setting:207
+contact:201
+call:193
+message:186
+using:175
+information:173
+page:161
+option:141
+information refer:138
+Wi Fi:137
+select:120
+service:116
+location:114
+number:112
+view:112
+image:108
+Note:106
+video:104
+name:103
+set:103
+Samsung:100
+account:98
+mobile device:98
+tap Settings:98
+Press:96
+list:94
+battery:91
+delete:89
+feature:89
+Address Book:88
+data:88
+enter:88
+displayed:86
+time:86
+key:84
+add:83
+Product:73
+available:73
+file:72
+mode:72
+access:71
+change:71
+current:71
+field:69
+new:68
+Software:67
+icon:67
+network:66
+used:66
+menu:65
+Display:64
+turn:63
+want:62
+text:60
+ha:59
+Google:58
+allows set:58
+search:58
+sound:57
+appear:56
+default:56
+password:56
+see:55
+tap OK:55
+area:53
+automatically:51
+group:51
+SIM card:50
+content:50
+Bluetooth:49
+cell phone:49
+make:49
+Internet:48
+Show:48
+share:48
+Messaging:47
+SD card:47
+create:47
+entry:47
+music:47
+connection:45
+must:45
+one:45
+type:45
+camera:44
+email:44
+remove:44
+following option:43
+additional:42
+notification:42
+shortcut:42
+download:41
+memo:41
+update:41
+following:40
+provide:40
+tap Contact:40
+including:39
+place:39
+user:39
+Touch hold:38
+first:38
+Voice:37
+connected:37
+enable:37
+phone number:37
+window:37
+enabled:36
+help:36
+main Home:36
+level:35
+map:35
+playlist:35
+selected:35
+volume:35
+Play:34
+alarm:34
+back:34
+bookmark:34
+cause:34
+th:34
+Address:33
+THIRD PARTY:33
+another:33
+memory card:33
+section:33
+Auto:32
+Gmail:32
+Important:32
+connect:32
+equipment:32
+Google account:31
+folder:31
+go:31
+sync:31
+word:31
+favorite:30
+receive:30
+tab:30
+Clear:29
+damage:29
+like:29
+received:29
+website:29
+Music Player:28
+need:28
+provided:28
+send:28
+storage:28
+system:28
+wireless:28
+Call setting:27
+Clock:27
+Mute:27
+Navigation:27
+Tap Add:27
+activate:27
+adjust:27
+browser:27
+different:27
+event:27
+open:27
+Fi Direct:26
+PC:26
+choose:26
+continue:26
+example:26
+http www:26
+keypad:26
+lock:26
+medium:26
+move:26
+right:26
+take:26
+AllShare Play:25
+Calendar:25
+Lock screen:25
+displayed Tap:25
+either:25
+headset:25
+install:25
+power:25
+recording:25
+shall:25
+tap Done:25
+Limited Warranty:24
+PARTY APPLICATION:24
+Security:24
+control:24
+copy:24
+detail:24
+item:24
+log:24
+two:24
+App:23
+ChatON:23
+FCC:23
+Follow screen:23
+Warranty:23
+Widget:23
+active:23
+background:23
+computer:23
+create checkmark:23
+desired:23
+edit:23
+email account:23
+limit:23
+pause:23
+touch:23
+wallpaper:23
+within:23
+Adding:22
+Gallery:22
+Store:22
+accessory:22
+conversation:22
+include:22
+next:22
+operation:22
+part:22
+ringtone:22
+touch screen:22
+Media Hub:21
+Scroll:21
+chat:21
+configure:21
+downloaded:21
+email address:21
+installed:21
+light:21
+re:21
+recipient:21
+speaker:21
+stored:21
+us:21
+Read:20
+associated:20
+communication:20
+full:20
+function:20
+history:20
+missed call:20
+process:20
+screen instruction:20
+take image:20
+tapping:20
+top screen:20
+various:20
+web:20
+Creating:19
+Deleting:19
+Fi network:19
+PURCHASER:19
+Play Music:19
+Play Store:19
+Press hold:19
+Sign:19
+URL:19
+Volume key:19
+audio:19
+external:19
+follow step:19
+hearing aid:19
+hold:19
+prompt tap:19
+subject:19
+synchronize:19
+voicemail:19
+web page:19
+zoom:19
+Always:18
+Automatic:18
+Media Content:18
+Safety Information:18
+Swipe:18
+activated:18
+allows add:18
+condition:18
+date:18
+incoming call:18
+language:18
+normal:18
+option allow:18
+reset:18
+second:18
+setup:18
+single:18
+song:18
+status:18
+stop:18
+tap Next:18
+text message:18
+unlock:18
+without:18
+Contacts list:17
+Radio Frequency:17
+Samsung account:17
+Tap Save:17
+exit:17
+field tap:17
+hand:17
+image video:17
+interference:17
+many:17
+music file:17
+required:17
+term:17
+via:17
+Bluetooth device:16
+EULA:16
+Motion:16
+card:16
+certain:16
+doe:16
+emergency call:16
+even:16
+find:16
+form:16
+friend:16
+keyboard:16
+left:16
+mobile:16
+noise:16
+option available:16
+rating:16
+result:16
+screen keypad:16
+study:16
+tone:16
+vibration:16
+well:16
+wireless mobile:16
+GPS:15
+Health:15
+Image viewer:15
+Latitude:15
+Multimedia:15
+VPN:15
+action:15
+added:15
+advanced:15
+already:15
+bottom:15
+brightness:15
+calculator:15
+etc:15
+free:15
+law:15
+manage:15
+mark:15
+one following:15
+order:15
+prompt:15
+purchase:15
+require:15
+save:15
+scan:15
+viewing:15
+way:15
+webpage:15
+Bluetooth setting:14
+Changing Settings:14
+Google Map:14
+Health Safety:14
+Limited:14
+Picture:14
+TTY:14
+Tap slider:14
+Understanding Phone:14
+across:14
+active call:14
+assign:14
+box:14
+call hold:14
+category:14
+charge:14
+check:14
+driving:14
+effect:14
+end:14
+hear:14
+hour:14
+indicate:14
+instruction:14
+keypad enter:14
+last:14
+long:14
+made:14
+multiple:14
+now:14
+otherwise:14
+plan:14
+possible:14
+refer ﬁCreating:14
+service provider:14
+side:14
+standard:14
+state:14
+technology:14
+timer:14
+top:14
+transfer:14
+vehicle:14
+wait:14
+work:14
+Access Point:13
+Accessing:13
+Android:13
+Call log:13
+Fi hotspot:13
+Gmail account:13
+Kies air:13
+New Google:13
+Samsung keyboard:13
+Settings Security:13
+YouTube:13
+agree:13
+answer:13
+apply:13
+avoid:13
+based:13
+begin:13
+business:13
+caller:13
+character:13
+city:13
+end call:13
+get:13
+increase:13
+make call:13
+mode allows:13
+necessary:13
+please:13
+power saving:13
+previously:13
+record:13
+saved:13
+sharing:13
+size:13
+specific:13
+speed:13
+support:13
+switch:13
+tilt:13
+whether:13
+Call Function:12
+Confirm:12
+Home key:12
+Indicator:12
+LIMITATION:12
+Messenger:12
+Mobile network:12
+Never:12
+TV:12
+Warning:12
+Web storage:12
+Year:12
+add new:12
+alert:12
+allows access:12
+allows see:12
+color:12
+contain:12
+environment:12
+flash:12
+follow:12
+green:12
+icon displayed:12
+later:12
+local:12
+manually:12
+minute:12
+must first:12
+navigate:12
+option set:12
+people:12
+person:12
+prior:12
+quality:12
+review:12
+source:12
+thumbnail:12
+video image:12
+wa:12
+Accountﬂ page:11
+Camcorder:11
+Contacts SIM:11
+Depending:11
+Dialing Number:11
+Dock:11
+Enter new:11
+Google Play:11
+Hide:11
+Making:11
+Navigator:11
+Predictive Text:11
+Press activate:11
+Protection:11
+RF exposure:11
+Samsung Mobile:11
+Video Player:11
+activate main:11
+additional information:11
+around:11
+bar:11
+calling:11
+capture:11
+charging:11
+connecting:11
+consult:11
+day:11
+determine:11
+digital:11
+direction:11
+entered:11
+hearing device:11
+input method:11
+le:11
+let:11
+located right:11
+mail:11
+microphone:11
+multimedia message:11
+paired device:11
+pan:11
+period:11
+point:11
+power key:11
+pressing:11
+reduce:11
+regarding:11
+risk:11
+running:11
+selection:11
+start:11
+sweep:11
+time zone:11
+turning:11
+upload:11
+visible:11
+voice mail:11
+Accessibility:10
+Android Beam:10
+Application Menu:10
+Duration:10
+End User:10
+Google Accountﬂ:10
+ID:10
+International:10
+Language input:10
+Play Movies:10
+Portable Wi:10
+RF energy:10
+SAR:10
+Settings Sound:10
+Settingsﬂ page:10
+Speed dial:10
+Tap Start:10
+Text Input:10
+Total:10
+USB:10
+World Clock:10
+able:10
+additional option:10
+al:10
+allowed:10
+allows manage:10
+applicable:10
+application icon:10
+arbitration:10
+body:10
+bottom screen:10
+center:10
+claim:10
+close:10
+data usage:10
+deactivate:10
+destination:10
+every:10
+exchange:10
+exposure:10
+face:10
+finger:10
+first time:10
+folder contain:10
+forward:10
+game:10
+hands free:10
+high:10
+keep:10
+label:10
+left right:10
+link:10
+low:10
+manufacturer:10
+online:10
+operating:10
+original:10
+personal:10
+phone memory:10
+reject list:10
+related:10
+samsung com:10
+separate:10
+server:10
+site:10
+slider located:10
+small:10
+sub menu:10
+tap Accept:10
+title:10
+usage:10
+vibrate:10
+want add:10
+web browser:10
+ﬁCreating New:10
+Airplane mode:9
+Bluetooth headset:9
+Frequency RF:9
+Google Search:9
+Google Talk:9
+National:9
+Notice:9
+PIN:9
+PIN2 code:9
+Read information:9
+Remember:9
+Removing:9
+Sign Google:9
+Speakerphone:9
+Warranty Information:9
+Wireless Access:9
+activate feature:9
+addition:9
+address field:9
+allows choose:9
+become:9
+buddy:9
+certificate:9
+check mark:9
+click:9
+communicating:9
+compatible:9
+compatible device:9
+de vice:9
+detect:9
+dialer:9
+enable disable:9
+entering:9
+entire:9
+erase:9
+existing:9
+field turn:9
+gesture:9
+higher:9
+holding:9
+initially:9
+join:9
+known:9
+large:9
+launch:9
+letter:9
+listed:9
+location based:9
+memory:9
+message thread:9
+might:9
+pairing:9
+perform:9
+performance:9
+playing:9
+pop:9
+pr:9
+primary shortcut:9
+procedure:9
+range:9
+recent call:9
+recently:9
+reject:9
+restriction:9
+send receive:9
+sent:9
+shared:9
+shown:9
+signal:9
+slot:9
+space:9
+special:9
+step Home:9
+unless:9
+value:9
+voice typing:9
+wish:9
+ABC mode:8
+AGPS:8
+Book entry:8
+Camera Camcorder:8
+Cancel:8
+DISCLAIMER:8
+Developer option:8
+Direct:8
+Electronic:8
+Entering Text:8
+Exposure Radio:8
+General:8
+Google Voice:8
+Government:8
+Kies:8
+Merge:8
+PIN code:8
+Player:8
+Privacy Policy:8
+Recycling:8
+Report:8
+Save save:8
+Settings Language:8
+Sort:8
+Talk:8
+Terms Condition:8
+Text speech:8
+Tip:8
+Touch drag:8
+Travel Charger:8
+answering:8
+backup:8
+battery charger:8
+battery power:8
+brain cancer:8
+case:8
+checkmark appear:8
+code:8
+commercial:8
+created:8
+currently:8
+described:8
+designed:8
+dispute:8
+ear:8
+expressly:8
+format:8
+frequency energy:8
+hearing loss:8
+legal:8
+listing:8
+medical device:8
+non:8
+obtain:8
+operate:8
+particular:8
+plug:8
+policy:8
+position:8
+previous:8
+program:8
+properly:8
+purchased:8
+quickly:8
+real time:8
+send message:8
+several:8
+short:8
+shot:8
+speak:8
+taken:8
+turned:8
+upgrade:8
+vary:8
+ve:8
+via Bluetooth:8
+ŒTap:8
+Administration:7
+Android System:7
+Bluetooth active:7
+Book:7
+Bubble:7
+Call Waiting:7
+Changing:7
+Custom:7
+Desk clock:7
+DivX:7
+DivX video:7
+Done:7
+FDA:7
+Format SD:7
+Getting Started:7
+Group Cast:7
+However:7
+Inc:7
+Insert:7
+MM:7
+Make sure:7
+Navigating:7
+Notification Bar:7
+Press return:7
+SIM PIN:7
+SM:7
+Search Bar:7
+Software update:7
+Swype:7
+add another:7
+animation:7
+appear next:7
+application provider:7
+arbitrator:7
+basic:7
+best:7
+break:7
+capable device:7
+carrier:7
+caused:7
+charger:7
+checkmark activate:7
+come:7
+comply:7
+component:7
+configured:7
+connected Wi:7
+covered:7
+create new:7
+date time:7
+deleted:7
+directly:7
+displayed top:7
+dry:7
+easy:7
+ensure:7
+error:7
+external SD:7
+font:7
+found:7
+functionality:7
+handset:7
+icon next:7
+info:7
+internal:7
+issue:7
+list recent:7
+listen:7
+material:7
+meet:7
+model phone:7
+modify:7
+mounting:7
+moving:7
+new window:7
+offline:7
+onto:7
+opt:7
+others:7
+owner:7
+place checkmark:7
+playback:7
+pre:7
+print:7
+radio:7
+recommendation:7
+refer ﬁUsing:7
+rename:7
+return:7
+return main:7
+sale:7
+scale:7
+select one:7
+sensitive:7
+storage location:7
+style:7
+supported:7
+target:7
+text size:7
+three:7
+timeout:7
+tool:7
+typing:7
+voice input:7
+voice recording:7
+void:7
+want delete:7
+yo:7
+ﬁMedia Hubﬂ:7
+Accept continue:6
+Accounts sync:6
+AllShare:6
+Although:6
+Apps menu:6
+Autofocus:6
+Backup reset:6
+Beam Beam:6
+CA certificate:6
+CONTAINED:6
+Circles use:6
+DeviceHelp:6
+Dialing:6
+Drag icon:6
+EXCLUSION:6
+EXPRESS IMPLIED:6
+Email Gmail:6
+FDN:6
+Factory data:6
+Failure:6
+INCIDENTAL:6
+Input Mode:6
+Intellectual Property:6
+License:6
+Listening:6
+NFC capable:6
+Nearby device:6
+Numeric Mode:6
+OK complete:6
+Open Source:6
+PURPOSE:6
+Palm swipe:6
+Protocol:6
+RF signal:6
+Samsung Telecommunications:6
+Shake:6
+Silent mode:6
+Suggest:6
+Swap:6
+Switch mobile:6
+System Recovery:6
+Therefore:6
+Use GPS:6
+Verify Bluetooth:6
+Voice Recorder:6
+accordance:6
+activity:6
+amount:6
+amount time:6
+another NFC:6
+applicable law:6
+automatically saved:6
+availability:6
+available memory:6
+bring:6
+cable:6
+cancer:6
+certified device:6
+checkbox:6
+composing message:6
+conducted:6
+conserve:6
+cooky:6
+copied PC:6
+corresponding:6
+cover:6
+data reset:6
+delay:6
+dial:6
+drag:6
+drop:6
+emergency number:6
+entry wish:6
+existing contact:6
+factory:6
+following step:6
+found http:6
+free kit:6
+fully:6
+green checkmark:6
+green line:6
+hearing:6
+html:6
+immediately:6
+implantable medical:6
+included:6
+incognito:6
+injury:6
+installation:6
+liquid:6
+locate:6
+longer:6
+maximum:6
+member:6
+method:6
+model:6
+much:6
+music copied:6
+needed:6
+old:6
+optional:6
+played:6
+portrait:6
+prompted:6
+proper:6
+provides quick:6
+public:6
+pursuant:6
+question:6
+radiation:6
+recommended:6
+red:6
+refer ﬁGoogle:6
+registration:6
+regulation:6
+relating:6
+release:6
+rented Media:6
+replace:6
+responsible:6
+say:6
+section describes:6
+secure:6
+secured:6
+sensor:6
+set flash:6
+shooting mode:6
+slide:6
+slideshow:6
+solely:6
+soon:6
+sorted:6
+speaking:6
+stopwatch:6
+storing:6
+string:6
+taking:6
+taking image:6
+task:6
+temperature:6
+thread:6
+track:6
+transferred:6
+unit:6
+upon:6
+via Wi:6
+web based:6
+week:6
+wet:6
+wireless network:6
+Absorption Rate:5
+Activating:5
+Agreement:5
+Aid Compatibility:5
+Album:5
+American:5
+Association:5
+Customer Care:5
+Data roaming:5
+Desk:5
+DivX Certified:5
+EXTENT:5
+Edit Touch:5
+Enabling:5
+FCC RF:5
+Federal:5
+Fixed dialing:5
+Front:5
+GPS satellite:5
+Help web:5
+Hubﬂ page:5
+ISO:5
+Important Safety:5
+Inbox:5
+Internet calling:5
+KIND:5
+Kies via:5
+L2TP IPSec:5
+Landscape orientation:5
+Layer:5
+Learn:5
+License Agreement:5
+MAC:5
+Making Emergency:5
+Management:5
+Month:5
+Movie:5
+Multi Party:5
+NIOSH:5
+Outgoing:5
+PC wirelessly:5
+Playerﬂ page:5
+Point WAP:5
+Rate SAR:5
+Refresh:5
+Remove checkmark:5
+Repeat:5
+Repeat step:5
+Safe Mode:5
+Samsung Customer:5
+Samsung approved:5
+Saving Mode:5
+Settings Developer:5
+Snooze:5
+Symbol Numeric:5
+Telecommunications America:5
+Tethering portable:5
+USB cable:5
+USB tethering:5
+Verify:5
+active Displays:5
+affect:5
+air bag:5
+alarm sound:5
+along:5
+approved battery:5
+ar:5
+attorney fee:5
+audio file:5
+award:5
+away:5
+back forth:5
+backlight:5
+backup password:5
+battery charge:5
+blue:5
+browser window:5
+built:5
+calendar event:5
+call progress:5
+called:5
+camera take:5
+capability:5
+cellular:5
+check box:5
+checked:5
+checkmark disable:5
+checkmark enable:5
+child:5
+choice:5
+circuit:5
+clip:5
+complete:5
+complete process:5
+convenient:5
+cookie:5
+corporate email:5
+country:5
+credential:5
+damage resulting:5
+damaged:5
+day date:5
+de:5
+defect:5
+defect damage:5
+detected:5
+development:5
+devi ce:5
+device rated:5
+directory:5
+disable function:5
+disposal:5
+double:5
+driver:5
+driving direction:5
+ed:5
+edge:5
+empty:5
+en:5
+engine:5
+exceed:5
+except:5
+experience:5
+eye:5
+facility:5
+file stored:5
+fire:5
+follow instruction:5
+follow prompt:5
+force:5
+give:5
+guideline:5
+head:5
+headphone:5
+heat:5
+hold desired:5
+hundred:5
+individual:5
+login:5
+loss:5
+lower:5
+make emergency:5
+manual:5
+microSD:5
+minimize:5
+missed:5
+modification:5
+myAT:5
+normally:5
+notified:5
+object:5
+occur:5
+onscreen:5
+outside:5
+pair:5
+percentage:5
+pocket:5
+powered:5
+prediction:5
+preview:5
+printer:5
+problem:5
+produce:5
+profile:5
+providing:5
+quick access:5
+reach:5
+receiving:5
+refer ﬁAdding:5
+refer ﬁMedia:5
+refer ﬁS:5
+registered trademark:5
+rent purchase:5
+reply:5
+representation:5
+representative:5
+request:5
+research:5
+responsibility:5
+retrieve:5
+ring:5
+rotate phone:5
+route:5
+run:5
+satellite:5
+search engine:5
+search result:5
+section explains:5
+selecting:5
+serial number:5
+serious:5
+session:5
+shift key:5
+shooting:5
+showing:5
+similar:5
+single motion:5
+source license:5
+speak destination:5
+specifically:5
+specified:5
+st:5
+status bar:5
+still:5
+streaming:5
+substitution:5
+supplier:5
+synchronization:5
+tag:5
+temporarily:5
+together:5
+trash:5
+tutorial:5
+upper:5
+version:5
+watching:5
+witness fee:5
+working:5
+4G LTE:4
+AMERICA LLC:4
+ARISING:4
+Accept:4
+Adding Removing:4
+Apps tab:4
+Artist:4
+Auto Autofocus:4
+Auto reject:4
+Available space:4
+BUTTON:4
+CA:4
+CONSEQUENTIAL DAMAGES:4
+CPU:4
+Care Center:4
+Circle:4
+Co Ltd:4
+Commission:4
+Compose:4
+Configuring:4
+DISCLAIM:4
+DLNA certified:4
+Digital Living:4
+Displaying:4
+Drive:4
+Electronics Co:4
+English:4
+Export:4
+FDN list:4
+FITNESS PARTICULAR:4
+Finish:4
+Fo:4
+HD:4
+Handwriting:4
+IMPLIED WARRANTY:4
+IP address:4
+Installing Memory:4
+Institute:4
+Interphone:4
+JURISDICTION:4
+LED Indicator:4
+LED light:4
+LIABLE:4
+Liability:4
+Live:4
+Living Network:4
+Maintenance:4
+Media:4
+Motion activation:4
+NFC:4
+National Institute:4
+Near Field:4
+Network Alliance:4
+Network operator:4
+Newer:4
+Organization:4
+PARTICULAR PURPOSE:4
+PERMITTED:4
+Phoneﬂ:4
+Prevent:4
+Privacy:4
+Push message:4
+QWERTY:4
+Read Term:4
+Rejected:4
+Rule:4
+SIM:4
+SIM Management:4
+SIP:4
+Safe:4
+Scene:4
+Secondary Toolbar:4
+Self:4
+Skip:4
+Smart:4
+Sometimes:4
+Specific Absorption:4
+Switching:4
+Sym:4
+Synchronizing Account:4
+TV show:4
+TalkBack:4
+Task manager:4
+Textﬂ page:4
+Today:4
+UL:4
+Unlocking:4
+Unmount SD:4
+User License:4
+VOD:4
+Vibration intensity:4
+Vibration pattern:4
+WAP Displays:4
+WARRANTIES:4
+Wake Voice:4
+Welcome:4
+World:4
+YPmobile:4
+Yahoo:4
+Yes:4
+ability:4
+act:4
+activation:4
+advised:4
+aircraft:4
+already done:4
+anywhere:4
+appropriate:4
+arbitration provision:4
+assigned:4
+attached:4
+authority:4
+better:4
+biological effect:4
+board:4
+briefly:4
+browse:4
+browsing:4
+build number:4
+cache:4
+calendar day:4
+car:4
+card inserted:4
+carry:4
+charged:4
+chemical:4
+circumstance:4
+clipboard:4
+close together:4
+collect:4
+com:4
+com us:4
+compliance:4
+configuration:4
+connector:4
+consumer:4
+continuing:4
+copied SIM:4
+copyright:4
+correct:4
+correction:4
+cut:4
+debugging:4
+defined:4
+deliver:4
+description:4
+designated:4
+determined:4
+device administrator:4
+device rescan:4
+disable:4
+discomfort:4
+dispose:4
+downloading:4
+drag slider:4
+drawing:4
+dual:4
+electrical:4
+established:4
+ex:4
+exist:4
+expert witness:4
+extended:4
+facing camera:4
+failed:4
+fcc gov:4
+fee expert:4
+feedback:4
+filled:4
+finished:4
+fit:4
+forward voice:4
+forwarding:4
+four:4
+front facing:4
+grant:4
+granted:4
+greeting:4
+guarantee:4
+ha tested:4
+harmful interference:4
+hazard:4
+heating:4
+held:4
+herein:4
+homepage:4
+horizontally:4
+human:4
+identified:4
+improper:4
+incognito window:4
+incompatible:4
+industry:4
+info rmation:4
+initial:4
+inserting:4
+instant messaging:4
+interact:4
+interval:4
+ionizing radiation:4
+joined:4
+just:4
+know:4
+latest:4
+length time:4
+linked:4
+ll:4
+local business:4
+look:4
+manager:4
+map tile:4
+marked:4
+measure:4
+measurement:4
+megapixel camera:4
+metal:4
+metallic object:4
+microSD card:4
+microwave:4
+minute minute:4
+mount:4
+movement:4
+mute pause:4
+nd:4
+nearby:4
+non ionizing:4
+now appear:4
+number instead:4
+obtained:4
+offensive word:4
+often:4
+org:4
+orientation:4
+pattern:4
+pause enabled:4
+pay:4
+per:4
+permission:4
+personalized:4
+ph one:4
+place interest:4
+placed:4
+portable hotspot:4
+pose:4
+position current:4
+posted:4
+prohibited:4
+proximity:4
+put:4
+ready access:4
+record audio:4
+recycle:4
+redial:4
+reduce risk:4
+refer ﬁCall:4
+refer ﬁChanging:4
+refer ﬁGalleryﬂ:4
+reference:4
+reminder:4
+rented:4
+reported:4
+requirement:4
+restrict:4
+resulting:4
+right corner:4
+road:4
+scientific evidence:4
+se:4
+searching:4
+sec sec:4
+see registered:4
+send feedback:4
+seven home:4
+sh:4
+shielded:4
+signal strength:4
+slide right:4
+slider bar:4
+sole:4
+sound EQ:4
+source code:4
+speech output:4
+station:4
+subscribe:4
+successfully:4
+surface:4
+swiping:4
+synchronized:4
+te:4
+telephone:4
+term condition:4
+thing:4
+tissue:4
+together beam:4
+traffic:4
+try:4
+type destination:4
+typed:4
+user manual:4
+username password:4
+usually:4
+va:4
+variety:4
+video clip:4
+wake command:4
+weather condition:4
+white:4
+wish copied:4
+written:4
+www:4
+yo ur:4
+zoom pinch:4
+ŒI:4
+ﬁChanging Settingsﬂ:4
+ﬁGalleryﬂ page:4
+ﬁVideo Playerﬂ:4
+ﬁWi:4
+123Sym:3
+ACCURACY:3
+Abc ABC:3
+Alliance DLNA:3
+Anti Shake:3
+Audio output:3
+Bar pull:3
+Black:3
+Block:3
+CAREFULLY:3
+CONTRACT:3
+COSMOS study:3
+Callback:3
+Cancel cancel:3
+Care:3
+Caution:3
+Certified Travel:3
+Co ntact:3
+Compatibility HAC:3
+Core:3
+Creating Sending:3
+Customizing:3
+DEMAND:3
+DESIGN:3
+December:3
+Depending synchronization:3
+Desktop:3
+Desktop Backup:3
+Domain:3
+EXPRESS:3
+Editing Existing:3
+Encrypt:3
+Encryption:3
+FCC Rules:3
+FOREGOING:3
+Facebook:3
+Flipboard:3
+Focus:3
+Font size:3
+GB:3
+Gmailﬂ page:3
+Goog le:3
+HAC Regulations:3
+Haptic feedback:3
+IMPLIED WARRANTIES:3
+INDIRECT:3
+Installing:3
+Instant Upload:3
+Interface:3
+KIND WHATSOEVER:3
+LIABLE DAMAGES:3
+LLC:3
+Lab:3
+Layout:3
+Legal Notice:3
+Limit MMS:3
+Locking:3
+Locking Unlocking:3
+M3:3
+MOBI KIDS:3
+Macro:3
+Managing:3
+Market:3
+Market Market:3
+Messagesﬂ page:3
+Messenger fast:3
+NOTHING:3
+Near:3
+Notice Cautions:3
+Nuance:3
+ONChanging:3
+Paint:3
+Pointer:3
+Practices Driving:3
+Privacy Notice:3
+Property:3
+Putting:3
+QWERTY keyboard:3
+RESPECT:3
+RF:3
+Recorder:3
+Recovery:3
+Register:3
+Removing Primary:3
+SAFEŽ:3
+SEER:3
+SPECIFICATION:3
+Self portrait:3
+Sending Messagesﬂ:3
+Shortcutsﬂ page:3
+Shuffle:3
+Shutter sound:3
+Smart alert:3
+Started:3
+Stopping:3
+Stream get:3
+Texas:3
+Trace:3
+Trusted credential:3
+Tunneling Protocol:3
+United States:3
+Unknown source:3
+Unlike:3
+WAP:3
+WARRANT:3
+WHATSOEVER RESPECT:3
+WITHOUT LIMITATION:3
+WiFi:3
+Word completion:3
+Writing:3
+accessed:3
+accessible:3
+according:3
+acknowledge:3
+acknowledges agrees:3
+acti:3
+adequately:3
+adjacent entry:3
+affiliate:3
+allowing:3
+alongside entry:3
+already logged:3
+answering ending:3
+antenna:3
+appl:3
+applicat ion:3
+approved:3
+approximately:3
+ask:3
+assignment:3
+assistance:3
+attachment:3
+attempt:3
+auto fill:3
+automobile:3
+baseband version:3
+basic editing:3
+basis:3
+behind:3
+biological:3
+blink:3
+body worn:3
+boot:3
+broken:3
+cached:3
+calculation:3
+caller listed:3
+calling sequence:3
+capacity:3
+cause harmful:3
+cdc gov:3
+ce:3
+cell:3
+ch:3
+checkmark adjacent:3
+checkmark alongside:3
+class:3
+clear cache:3
+clearly:3
+combination:3
+common:3
+company:3
+confirmation:3
+consumer purchaser:3
+cont act:3
+contrast:3
+convenience anywhere:3
+counterclockwise Landscape:3
+country code:3
+coverage:3
+daily:3
+danger:3
+dangerous:3
+day week:3
+dealer:3
+detailed:3
+di:3
+dialed:3
+differ:3
+discover:3
+docked:3
+documentation:3
+doe cover:3
+don:3
+download updated:3
+downloadable:3
+drag vertically:3
+dropping:3
+earSmart:3
+earbud:3
+earpiece:3
+easier:3
+easily:3
+editing task:3
+emergency responder:3
+emission:3
+emit:3
+encrypted certificate:3
+ending:3
+energy:3
+entity:3
+epa:3
+equal:3
+everyone Circles:3
+excessive force:3
+experimental feature:3
+explode:3
+exposed:3
+exposure guideline:3
+extend:3
+extra:3
+fall:3
+fast messaging:3
+fee cost:3
+fire explosion:3
+frequency band:3
+frequently:3
+friend family:3
+friend lot:3
+friend visit:3
+fullest extent:3
+future:3
+ge:3
+generate:3
+glance:3
+gold star:3
+gov oet:3
+governed:3
+great:3
+guidance:3
+guided navigation:3
+handling:3
+hard:3
+heading:3
+health hazard:3
+health problem:3
+helpful:3
+hottest video:3
+ill:3
+illegal:3
+improperly:3
+improve:3
+include None:3
+index:3
+inform ation:3
+informatio:3
+ing:3
+initiate:3
+instantly download:3
+instruct:3
+inte:3
+interaction:3
+interfere:3
+ion:3
+jack:3
+knowledge:3
+large amount:3
+lead:3
+leading:3
+leakage:3
+leave:3
+licensed:3
+lightly:3
+line disappear:3
+list touc:3
+load:3
+loaded handset:3
+logged Samsung:3
+logo:3
+logo trademark:3
+lot easier:3
+loud sound:3
+magnify:3
+maintain:3
+mean:3
+memory allocation:3
+messaging everyone:3
+messaging offered:3
+meter:3
+middle:3
+mistake:3
+mock location:3
+mounted:3
+myAT myAT:3
+namecard:3
+namecard via:3
+ng:3
+noisy:3
+notification panel:3
+obey:3
+oet rfsafety:3
+offer:3
+offline viewing:3
+onboard:3
+opened:3
+optimized:3
+othe:3
+otherwise attempt:3
+outlet:3
+outline:3
+outwards zoom:3
+overview:3
+owned:3
+pad:3
+pdf:3
+performed:3
+permanently:3
+physical:3
+pinch outwards:3
+pinching:3
+po:3
+podcasts:3
+potential:3
+potentially explosive:3
+precaution:3
+present:3
+primary:3
+printed:3
+private album:3
+processor:3
+progress:3
+protect:3
+protected:3
+provider solution:3
+provision:3
+published:3
+quick:3
+quick ready:3
+rated:3
+reactivate:3
+reading:3
+recognition:3
+recognize:3
+reduce enlarge:3
+refer ﬁEntering:3
+refer ﬁMotionﬂ:3
+refer ﬁMusic:3
+registered:3
+relatively:3
+remain:3
+remaining:3
+removable:3
+rent thousand:3
+rental:3
+repair:3
+reserved:3
+response:3
+restricted right:3
+resume:3
+return previous:3
+reveal:3
+risk brain:3
+risk fire:3
+rotate:3
+saving:3
+scientific:3
+scrolling:3
+sentence:3
+short circuiting:3
+shuffled:3
+signed:3
+simple group:3
+sing:3
+soft:3
+sold:3
+solution provider:3
+specify:3
+standby:3
+step individual:3
+stop hottest:3
+street:3
+surfing:3
+surrounding:3
+symbol:3
+symbol emoticon:3
+tablet:3
+ted:3
+tell:3
+temporary hearing:3
+ter:3
+tested:3
+text template:3
+third parties:3
+thousand different:3
+thread accessible:3
+ticker:3
+tion:3
+together simple:3
+total length:3
+touc hold:3
+transmit:3
+twice:3
+unread:3
+updated:3
+upper left:3
+user interface:3
+verification:3
+version loaded:3
+vertically:3
+viewfinder:3
+viewing later:3
+virus:3
+visit Stream:3
+visit http:3
+visited:3
+visited website:3
+voice guided:3
+vulnerable:3
+wall:3
+watch convenience:3
+watch instantly:3
+weather:3
+wipe:3
+ŒDisplay:3
+ﬁCreating Sending:3
+ﬁEntering Textﬂ:3
+ﬁMotionﬂ page:3
+ﬁUsing Gmailﬂ:3
+102Creating:2
+127Ripple:2
+1280x720:2
+143Setting:2
+19Side:2
+204FCC:2
+3G:2
+3GP:2
+640x480:2
+64Using:2
+78Copying:2
+82AAC:2
+82Music:2
+88Camera:2
+92Camcorder:2
+AAA:2
+AAC:2
+AC:2
+ANSI C63:2
+APPROV ED:2
+Accessories:2
+Accountﬂ page13:2
+AccuWeather:2
+ActiveSync:2
+Agenda:2
+Archive:2
+Attractions:2
+Automated:2
+Beam:2
+Beamﬂ:2
+Block offensive:2
+Bookmarksﬂ:2
+Bookﬂ:2
+Broadcast CB:2
+Buddies:2
+CAPABILITIES:2
+CB:2
+CFR:2
+COLLECTIVELY:2
+CONSTRUED:2
+COURT:2
+Cardﬂ page43:2
+Cartoon:2
+Case Pouch:2
+Cast:2
+Centre:2
+Channel:2
+Claim Shield:2
+Claimﬂ:2
+Cleaning:2
+Cloudy Incandescent:2
+Co:2
+Combined:2
+Copying:2
+Correct Incorrect:2
+Creation:2
+Customized:2
+DCIM:2
+DISTRIBUTED:2
+DLNA compliant:2
+Daylight:2
+Daylight Cloudy:2
+Decline exit:2
+Directﬂ:2
+Disconnecting paired:2
+Drive Richardson:2
+Drug Administration:2
+Dust dirt:2
+ELECTRIC SHOCK:2
+ENJOYMENT:2
+ENTITIES:2
+EQ:2
+Editing:2
+EmailEmail:2
+Engineers IEEE:2
+Entries:2
+Entryﬂ page71:2
+Environmental:2
+Epidemiology:2
+European:2
+FAQ:2
+FINAL BINDING:2
+Face detection:2
+Facebook Twitter:2
+Far:2
+Fidelity:2
+Fiﬂ:2
+Flipboard Picasa:2
+Food Drug:2
+GNU:2
+Genres:2
+Geotagging:2
+Global Positioning:2
+GoogleŽ:2
+HDR:2
+HSDPA HSPA:2
+HSPA HSPA:2
+Handle:2
+Hot:2
+HubSamsung:2
+Hubﬂ page172:2
+ICNIRP:2
+IM:2
+IMEI MEID:2
+IMPLIED STATUTORY:2
+INABILITY:2
+IPSec PSK:2
+IPSec Xauth:2
+Ice:2
+Import Export:2
+Incandescent Fluorescent:2
+Institute ANSI:2
+Intern:2
+Inverted rendering:2
+Ionization:2
+JPEG format:2
+JavaScript:2
+Joining:2
+June:2
+Kernel version:2
+L2TP:2
+Lap:2
+Launching:2
+Lookout Drive:2
+M2:2
+M4:2
+MEID Serial:2
+MERCHANTABILITY:2
+MERCHANTABILITY FITNESS:2
+Melody:2
+MessengerMessenger:2
+Microsoft:2
+Misuse:2
+Mono:2
+Multi:2
+Musicﬂ:2
+NFCNFC Near:2
+Negative Black:2
+Networkﬂ:2
+Night:2
+None Negative:2
+ORAL WRITTEN:2
+OSHA:2
+Obtaining:2
+Occupational:2
+Older:2
+Openwave:2
+Opti ons:2
+PERFORMANCE SUITABILITY:2
+PM:2
+PPTP:2
+PROFITS:2
+PUNITIVE:2
+Pack:2
+Packet:2
+Palm:2
+Panning:2
+Photos:2
+Placing:2
+Platform:2
+Platform Locale:2
+Plaza:2
+Preload:2
+Protection Agency:2
+Push:2
+REFERRED:2
+RELIABILITY:2
+REMEDY:2
+RESOLVED:2
+RSA IPSec:2
+Rd:2
+Rear:2
+Relationship:2
+Repaired replaced:2
+Repeat weekly:2
+Restart:2
+Restaurants Cafes:2
+Restricted:2
+Restricting Children:2
+Retrieving:2
+Ripple effect:2
+Rock:2
+Rovi Corporation:2
+SAFEŽ APPROV:2
+SAR Certification:2
+SMARTPHONE:2
+SOFTWA:2
+SRS Labs:2
+SSID:2
+STA:2
+Screenﬂ page36:2
+Sepia Resolution:2
+Severability:2
+Smile:2
+Smith:2
+Spot:2
+SugarSync:2
+Suite:2
+Superfine Fine:2
+Suppression:2
+T4:2
+T9:2
+TERMINATION EULA:2
+TTS:2
+TX:2
+Threaded:2
+Topics:2
+Transit:2
+Transition:2
+Troubleshooting:2
+UNDO:2
+UTMS HSDPA:2
+Unhold:2
+United:2
+Unmounting:2
+Unmute:2
+Vlingo:2
+WORKMANSHIP:2
+Warning Performing:2
+Warrantyﬂ:2
+White balance:2
+XP:2
+XT9:2
+YP:2
+YPmobile Yellowpages:2
+abnormal:2
+accepted:2
+accident:2
+accidental:2
+accompanied:2
+achieve:2
+addition subtraction:2
+adequate:2
+adjustment:2
+administrative facility:2
+adult:2
+adverse:2
+advertising:2
+affected:2
+afte:2
+age:2
+aid cochlear:2
+aiming:2
+air:2
+alerted notified:2
+alphabet:2
+altered:2
+among:2
+animated:2
+ap plication:2
+approximate:2
+ar ithmetic:2
+aren ready:2
+arise:2
+arrived:2
+art:2
+assist:2
+assistive:2
+atom molecule:2
+att com:2
+attach:2
+audiology org:2
+author:2
+average:2
+aware:2
+backed:2
+bag inflates:2
+bank:2
+bed:2
+befo:2
+bending:2
+benefit:2
+beside:2
+blind:2
+blocking:2
+blocking recognized:2
+blur due:2
+brain tumor:2
+branded:2
+building tunnel:2
+busy:2
+buy eBookstore:2
+bypass:2
+calibrate:2
+cancelling headphone:2
+captured:2
+causing:2
+cellphone:2
+child teenager:2
+choosing:2
+clearer optimized:2
+client:2
+cochlear implant:2
+color saturation:2
+comma:2
+command:2
+comment:2
+compensate:2
+completed:2
+concerned:2
+conference:2
+configurable:2
+conjunction:2
+conne cted:2
+connec tion:2
+consecutive hour:2
+consider:2
+contac:2
+containing:2
+continually taking:2
+convert:2
+corner:2
+correctly:2
+corrode:2
+count:2
+countdown:2
+coupling:2
+creal:2
+cross reference:2
+ction:2
+deactivated:2
+decide:2
+decompile disassemble:2
+deleted reformatted:2
+derivative work:2
+desire:2
+destroy:2
+detaches:2
+developed:2
+differently:2
+digit:2
+digital magazine:2
+dimming:2
+dirt:2
+dis pute:2
+disability:2
+disagree:2
+disappear:2
+discharge:2
+disconnect:2
+disconnection:2
+discontinue:2
+discoverable:2
+discretion:2
+disp:2
+displa:2
+distance head:2
+distorted:2
+distribution:2
+drain:2
+drawn:2
+driven:2
+dryer:2
+due movement:2
+earing:2
+earphone:2
+easily restore:2
+edited:2
+effective:2
+effort:2
+electromagnetic:2
+elsewhere:2
+emitted:2
+employee:2
+encoding:2
+engage:2
+engineer decompile:2
+enjoy:2
+enough:2
+equalizer preset:2
+era:2
+essential:2
+establish:2
+etc ŒFeedback:2
+ever upgrade:2
+everything shared:2
+evidence:2
+excess:2
+exclusive attorney:2
+exclusively:2
+expand:2
+experienced:2
+explains:2
+explosive atmosphere:2
+expo sure:2
+extension:2
+extra vol:2
+extremely:2
+face downward:2
+fail:2
+fax:2
+fill:2
+find million:2
+firmware:2
+flat:2
+formation:2
+fuel:2
+functionality enhance:2
+furnished approved:2
+gas propane:2
+generated:2
+given:2
+glass surface:2
+gold:2
+good:2
+gov:2
+graph:2
+ground experimental:2
+grouped:2
+guide:2
+handheld:2
+haptic:2
+hardware:2
+high voltage:2
+highest certified:2
+highlight:2
+highlighted:2
+holster:2
+hotspot:2
+hronize:2
+htm:2
+identifies:2
+ii:2
+iii:2
+immune:2
+impact:2
+includ:2
+incoming:2
+incorporate:2
+ins:2
+inserted:2
+inside building:2
+int:2
+intense:2
+interpretation:2
+involve:2
+involving:2
+inwards:2
+ionize:2
+jury:2
+kernal:2
+keyword:2
+kg:2
+kilogram kg:2
+kit:2
+labeled:2
+launched:2
+leak:2
+leaking:2
+least:2
+library:2
+life:2
+lightweight:2
+locked:2
+looking:2
+lose:2
+lyric:2
+magazine everything:2
+maintained:2
+manual cross:2
+manufa cturer:2
+marking layer:2
+master:2
+merged:2
+met:2
+metallic:2
+microSDHC:2
+microSDŽ:2
+microwave oven:2
+migrate:2
+minimum:2
+mo:2
+monitoring:2
+motor vehicle:2
+moved:2
+multiplication division:2
+muted:2
+nature:2
+nearest:2
+neck:2
+newly:2
+nge:2
+nih gov:2
+ninety:2
+noise cancelling:2
+noise induced:2
+noted:2
+nu mber:2
+obligation:2
+observe:2
+offered:2
+official:2
+opening:2
+oper:2
+opposite:2
+opposite Pickup:2
+optimize:2
+orange:2
+order utilize:2
+output:2
+ownership:2
+paid:2
+paired:2
+panel:2
+parameter:2
+partial:2
+particle:2
+particularly:2
+partnership:2
+pas:2
+passage poor:2
+passkey:2
+past:2
+paused:2
+pausing:2
+pay bill:2
+pen:2
+per kilogram:2
+percent:2
+permanent:2
+personal feed:2
+personnel:2
+petroleum gas:2
+phrase:2
+physician:2
+pickup:2
+pinpoint:2
+plus minus:2
+poor weather:2
+portion:2
+post public:2
+pre fetch:2
+preferred:2
+premium:2
+preset:2
+principle:2
+proof:2
+propane butane:2
+proprietary:2
+prov:2
+pute resolution:2
+quality Superfine:2
+quiet:2
+quite:2
+randomly:2
+range 10x:2
+ray:2
+ready primetime:2
+reason:2
+reason believe:2
+reasonable attorney:2
+reboot:2
+rebuilt reconditioned:2
+receiver:2
+reception:2
+recharge:2
+recognized offensive:2
+recorded:2
+recyclingdirect:2
+regional:2
+regular:2
+regularly:2
+rejection:2
+remainder:2
+remo:2
+remote:2
+removable disk:2
+removed:2
+rent:2
+reporting:2
+represented:2
+requirement likely:2
+requiring:2
+reside:2
+responds best:2
+rest:2
+restore:2
+restored:2
+retain:2
+returned:2
+reverse engineer:2
+rewind:2
+ri ght:2
+ringer:2
+ringing ear:2
+room:2
+ry:2
+sand:2
+scientific community:2
+scr een:2
+script:2
+se ttings:2
+seal:2
+secondary:2
+securely:2
+sender:2
+separation:2
+servic:2
+shar:2
+shipping:2
+shock:2
+sible:2
+signing:2
+simply covering:2
+sitting:2
+six inch:2
+sleep:2
+slow:2
+social:2
+solicitation issued:2
+someone:2
+somewhere:2
+spam:2
+speech:2
+speech synthesis:2
+spent:2
+spoken:2
+square:2
+starting:2
+static electricity:2
+stay:2
+stay continually:2
+staying:2
+stereo:2
+stopped:2
+story personal:2
+stream:2
+streamed:2
+subscription:2
+subsidiary:2
+substantially:2
+subtraction multiplication:2
+sufficient:2
+suggestion:2
+sum:2
+sunlight bright:2
+suppress:2
+sure:2
+suspect:2
+switched:2
+table:2
+tailor:2
+talking:2
+tapped:2
+telecoil:2
+terminal:2
+terminate:2
+test:2
+testing ground:2
+texting:2
+tile ŒLocation:2
+took:2
+trademark:2
+transmission:2
+traveling:2
+treaty:2
+trying:2
+tunnel underground:2
+typically:2
+unauthorized:2
+uncheck:2
+underground passage:2
+understand:2
+unenforceable:2
+unmuting:2
+unpair:2
+unwanted:2
+uploaded:2
+useful:2
+username:2
+usin:2
+varies:2
+vehicle tinted:2
+vi deo:2
+viewable:2
+viewed:2
+viewer:2
+virtual:2
+virtual private:2
+visibility:2
+voic:2
+voltage electromagnetic:2
+watt per:2
+weak:2
+weight scientific:2
+whichever:2
+white Sepia:2
+wide:2
+wirelessly:2
+withstanding:2
+wo:2
+wrong:2
+x4 percent:2
+yet:2
+zoomed:2
+ŒAbout:2
+ŒCache:2
+ŒLabs testing:2
+ŒTerms Privacy:2
+ŒWhat:2
+ﬁAS:2
+ﬁAlarmﬂ:2
+ﬁAndroid:2
+ﬁB Designﬂ:2
+ﬁCalendarﬂ:2
+ﬁCall Functionsﬂ:2
+ﬁCameraﬂ:2
+ﬁChatONﬂ:2
+ﬁConnect:2
+ﬁContacts:2
+ﬁCustomizing:2
+ﬁFinding:2
+ﬁGoogle Talkﬂ:2
+ﬁI ACCEPTﬂ:2
+ﬁInternetﬂ:2
+ﬁKies airﬂ:2
+ﬁLocking Unlocking:2
+ﬁMemory Cardﬂ:2
+ﬁMessages Appﬂ:2
+ﬁMessagingﬂ:2
+ﬁMessengerﬂ:2
+ﬁMusic Playerﬂ:2
+ﬁMy Filesﬂ:2
+ﬁNFCﬂ page115:2
+ﬁNotification Barﬂ:2
+ﬁPlay:2
+ﬁPlay Moviesﬂ:2
+ﬁRemoving Installing:2
+ﬁS Voiceﬂ:2
+ﬁScreen lockﬂ:2
+ﬁStandard:2
+ﬁUsing Emailﬂ:2
+ﬁUsing Gesturesﬂ:2
+ﬁViewing:2
+0X:1
+100Gmail:1
+100Messaging:1
+100Signing:1
+102Signing:1
+103222Switching:1
+103Emergency:1
+103Google:1
+103Options:1
+104Signing:1
+104Types:1
+107Adding:1
+107Using:1
+1080p:1
+108Adding:1
+108Children:1
+108Message:1
+108Register:1
+10Battery:1
+110Charging:1
+110Section:1
+110Shortcuts:1
+113LLandscape:1
+113Wi:1
+114PoweringOff:1
+114Text:1
+114Using:1
+118Alarm:1
+118Important:1
+119WWarranty:1
+11Lock:1
+11On:1
+11Phone:1
+11Privacy:1
+11Travel:1
+121Movies:1
+122Getting:1
+122Overview:1
+122Shake:1
+122Tilt:1
+124running:1
+125Adding:1
+125stay:1
+126Lock:1
+126System:1
+127226Web:1
+127Dual:1
+127Home:1
+127International:1
+127MMaps:1
+127SS:1
+127Safe:1
+127Say:1
+127Shortcuts:1
+127Taking:1
+127Ticker:1
+127Weather:1
+128Note:1
+129trusted:1
+12Note:1
+130Service:1
+130Unknown:1
+131Keyboard:1
+131Latitude:1
+132GPS:1
+132Google:1
+132KeypadChanging:1
+132Tethering:1
+132see:1
+135QQWERTY:1
+135Responsible:1
+136Developer:1
+136The:1
+136Timer:1
+137Display:1
+137News:1
+138Bluetooth:1
+138Dialing:1
+138GGallery:1
+138Motion:1
+138USB:1
+138managing:1
+13Gmail:1
+13Voice:1
+140About:1
+140Accounts:1
+140Pictures:1
+141Speakerphone:1
+142Entering:1
+142JJoining:1
+142Section:1
+142Using:1
+143Navigating:1
+144Adding:1
+144Create:1
+144Exit:1
+144Information:1
+144Mono:1
+145Deleting:1
+145VVideo:1
+146Creating:1
+146Deleting:1
+146Editing:1
+148Advanced:1
+149using:1
+14Accessing:1
+14From:1
+14Setup:1
+14TT9:1
+151World:1
+152Hotspots:1
+155BooksPlay:1
+156Note:1
+156PhoneFront:1
+157OOperating:1
+158Configuring:1
+158Section:1
+159Group:1
+15Samsung:1
+160ApplicationsUsing:1
+160Swap:1
+160Web:1
+161Group:1
+161Sharing:1
+162BBack:1
+162Calendar:1
+162Negative:1
+164AllShare:1
+164Contacts:1
+165Software:1
+166Applications:1
+166Automatic:1
+166SugarSync:1
+166World:1
+166YYouTube:1
+168EEmail:1
+168Font:1
+168For:1
+169Flipboard:1
+169Location:1
+169Settings:1
+16Features:1
+16Front:1
+16Section:1
+170Sharing:1
+171Google:1
+171Market:1
+172Media:1
+173microSD:1
+173myAT:1
+174NNavigation:1
+174Note:1
+174command:1
+175Navigator:1
+176NFC:1
+176News:1
+176Play:1
+176ŒTerms:1
+177BrowserPower:1
+177Portable:1
+178S:1
+17Rear:1
+17icons:1
+180S:1
+181Set:1
+181Video:1
+182Video:1
+182Volume:1
+182YouTube:1
+183YPmobile:1
+184Note:1
+185Downloads:1
+185FFCC:1
+185Home:1
+186The:1
+188Reject:1
+188The:1
+18Switching:1
+18Unmute:1
+190Standard:1
+1920x1080:1
+192Snooze:1
+192which:1
+193Bigger:1
+195Screen:1
+196Do:1
+196Follow:1
+196Understanding:1
+197GroupAdding:1
+198Making:1
+199Changing:1
+1Table:1
+200Responsible:1
+200Restricting:1
+202Operating:1
+202Other:1
+2048x1152:1
+2048x1536:1
+205Ripple:1
+206Featured:1
+206Keep:1
+206PPC:1
+208Section:1
+208Stopwatch:1
+208Weather:1
+20Icons:1
+20In:1
+20Rear:1
+20SIM:1
+20Using:1
+210What:1
+212You:1
+214property:1
+2162You:1
+216THIRD:1
+218Arbitration:1
+220Index:1
+221CCalculator:1
+222Connections:1
+223KKeyboard:1
+225SD:1
+22Displays:1
+23120Display:1
+23Indicator:1
+24Camera:1
+24Email:1
+25Gmail:1
+26Google:1
+28Play:1
+29Message:1
+29Voice:1
+29Wi:1
+29th:1
+2D:1
+2G:1
+2M:1
+2Using:1
+30Batterycharging:1
+30Command:1
+30Hotspot:1
+30Menu:1
+30Navigation:1
+30context:1
+30terms:1
+30touch:1
+31Screen:1
+320x240:1
+3264x1836:1
+3264x2448:1
+38As:1
+3ABCONOFF663:1
+3M:1
+3Section:1
+3rd:1
+3x4:1
+43Installing:1
+43Memory:1
+43Mobile:1
+43Security:1
+44Unmounting:1
+45Internet:1
+45Making:1
+45Manual:1
+45Options:1
+46Dialing:1
+46Ending:1
+46Entering:1
+46International:1
+46With:1
+46Without:1
+48Adjusting:1
+48Call:1
+48Making:1
+49Call:1
+49Camcorder:1
+49Display:1
+49Viewing:1
+4Flipboard:1
+4G:1
+4M:1
+50Call:1
+50Searching:1
+512436Understanding:1
+51Reset:1
+52Answering:1
+52Call:1
+52Incognito:1
+52Putting:1
+53Saving:1
+53USB:1
+54Address:1
+54SWYPE:1
+55Specific:1
+55Viewing:1
+56Correcting:1
+56My:1
+56Using:1
+58Sending:1
+58Touch:1
+5Emergency:1
+5GB:1
+5GHz:1
+5T3:1
+5X:1
+5mm:1
+61UUL:1
+62Smart:1
+62Use:1
+63Changing:1
+63Language:1
+63RReducing:1
+63numeric:1
+64About:1
+64GB:1
+64Kies:1
+64Methods:1
+65Exposure:1
+65Synchronization:1
+65Time:1
+65Using:1
+65symbol:1
+66Google:1
+66Symbol:1
+66Using:1
+67Adding:1
+67CookiesEmptying:1
+68Adding:1
+68Address:1
+6SIP:1
+6Section:1
+6Setting:1
+6Voice:1
+70Address:1
+70Copying:1
+70Favorites:1
+71Group:1
+720p:1
+720x480:1
+72Joining:1
+74Airplane:1
+75Editing:1
+75Managing:1
+76Group:1
+76HHealth:1
+76Removing:1
+77Deleting:1
+77Finding:1
+77Service:1
+78Dialing:1
+79Deleting:1
+79Settings:1
+79Using:1
+7Installing:1
+7Low:1
+7Menu:1
+80Memory:1
+80Music:1
+80Section:1
+82224WMA:1
+82M4A:1
+82MP3:1
+82MP4:1
+82adding:1
+82eAAC:1
+83AT:1
+83DDate:1
+83removing:1
+84Google:1
+84Mute:1
+84Play:1
+84creating:1
+85Voice:1
+86Gallery:1
+86Multimedia:1
+86Note:1
+86Places:1
+86Play:1
+86viewing:1
+87All:1
+87GesturesBrowse:1
+87viewing:1
+88Camercorder:1
+88World:1
+89Lock:1
+8M:1
+8Removing:1
+8data:1
+8microSDHC:1
+8ﬂ:1
+91Exposure:1
+92Using:1
+92Viewing:1
+93Care:1
+93Shooting:1
+94Flash:1
+95Camera:1
+95Viewing:1
+96Deleting:1
+96Messenger:1
+96Section:1
+97Message:1
+97Settings:1
+9ChatON:1
+9Installing:1
+9M:1
+9TTY:1
+9Using:1
+A90:1
+AAbc:1
+ABC:1
+ABCEntering:1
+ADAPTOR:1
+ADVICE:1
+ALITY:1
+ALTER:1
+ANRs:1
+ANTICIPATED:1
+ANTIES:1
+APPR:1
+ASSUMES:1
+ATMs:1
+AVAILABLEﬂ:1
+A_recyle_your_phone_page:1
+Academy:1
+Accessories1:1
+AccessoriesSteps:1
+Acco:1
+Accountsﬂ:1
+Addi:1
+Additi:1
+Additionally:1
+Adjusting:1
+Adobe:1
+Adolescence:1
+Af:1
+Airpla:1
+Airplane:1
+AllShareŽ:1
+Alternatively:1
+Amer:1
+Analog:1
+Android_49ba:1
+Anniversary:1
+Applicatio:1
+Assisted:1
+Authorization:1
+BOUND:1
+BREACH:1
+BSD:1
+Bandwidth:1
+Barﬂ:1
+Batteries:1
+Batteries1:1
+Bcc:1
+Beach:1
+Beauty:1
+Bethesda:1
+Bicycling:1
+Bing:1
+Biography:1
+Birthday:1
+Blueto:1
+Bluetoot:1
+BluetoothBluetooth:1
+Booksﬂ:1
+Briefing:1
+Brilliant:1
+Burst:1
+ButtonUnderstanding:1
+CLICKING:1
+CONSENT:1
+CONSEQUENTIAL:1
+CORRECTED:1
+COSMOS:1
+CRT:1
+CS:1
+CallYour:1
+Callﬂ:1
+Camcorderﬂ:1
+CameraCharger:1
+Candlelight:1
+Capturing:1
+Cardﬂ:1
+Categories:1
+Cc:1
+Certi:1
+Chatting:1
+Checking:1
+Childhood:1
+Children:1
+Choi:1
+CitySetting:1
+Classic:1
+Clearing:1
+Cohort:1
+Composers:1
+ConnectionsYou:1
+Consul:1
+ContactsDialing:1
+ContactsYou:1
+Contactﬂ:1
+Controller:1
+Convention:1
+Cooperate:1
+Corporate:1
+Correcting:1
+Council:1
+Cream:1
+Critical:1
+Customizable:1
+DC:1
+DEEMED:1
+DFAR:1
+DISCLOSURE:1
+DNA:1
+DOWNL:1
+DST:1
+DTMF:1
+Dance:1
+Dawn:1
+Deafness:1
+Defaultﬂ:1
+Defense:1
+Department:1
+Devicesﬂ:1
+Dialﬂ:1
+Disorders:1
+Dynamic:1
+EFS:1
+ENCLOSED:1
+ERI:1
+EU:1
+EXEMPLARY:1
+EffectLock:1
+Electric:1
+EmittingProducts:1
+Emptying:1
+Enterprise:1
+Eraser:1
+Erasing:1
+Europe:1
+Excha:1
+Extreme:1
+FILIATES:1
+FLOOR:1
+FRP:1
+Facilities:1
+Faulty:1
+Featuring:1
+Finding:1
+Fine:1
+Firework:1
+Flip:1
+GEMENT:1
+GHz:1
+GOODWILL:1
+GPL:1
+GPU:1
+GSM:1
+Galaxy:1
+Galaxy_S_III_xxxx:1
+Galaxyﬂ:1
+Gently:1
+Getting:1
+Global:1
+GmailGmail:1
+Going:1
+Goog:1
+Grasp:1
+Guru:1
+Gyroscope:1
+HCO:1
+HORIZONTAL:1
+HQ:1
+Headquarters:1
+HeadsetHeadsetHeadsetCall:1
+Heal:1
+HelpFrom:1
+HoldUnholdHold54Switching:1
+HoldUnholdSpeakerSpeakerSpeaker56Switching:1
+Holster90:1
+HomeBusinessandEntertainment:1
+HomeHome70Adding:1
+Hospitals:1
+Howe:1
+Hub:1
+Huge:1
+Hybrid:1
+I747_UM_English_UCALEM_WC_061312_F5:1
+IBILITIES:1
+IIcons:1
+IMEI:1
+IMEISV:1
+INCLUDIN:1
+INCOMPAT:1
+INCONVENIENCE:1
+INFRIN:1
+INFRINGEMENT:1
+INTEGRATE:1
+INTENDED:1
+INTERRUPTIONS:1
+IP:1
+ISING:1
+ISﬂ:1
+Iconsﬂ:1
+Idle:1
+Incorrect:1
+Indoor:1
+Initiation:1
+InputAbc:1
+Instant:1
+Integration:1
+Intellec:1
+Intellectual:1
+Jazz:1
+John:1
+Journal:1
+Judgment:1
+KB:1
+KID:1
+Keytones:1
+Kingdom:1
+Klein:1
+Korea:1
+Korean:1
+LA:1
+LACK:1
+LDAP:1
+LGPL:1
+LOSSES:1
+Landscape:1
+Lesser:1
+Li:1
+Lice:1
+Lift:1
+Limi:1
+Listeningﬂ:1
+Locale:1
+M4A:1
+M5:1
+MD:1
+MOBI:1
+MP3:1
+MP4:1
+MPEG:1
+MSC:1
+ManualPlease:1
+MapsDepending:1
+Matrix:1
+MemoCreating:1
+MemoThe:1
+Memoﬂ:1
+Menusﬂ:1
+Metering:1
+Methodsﬂ:1
+MobileContacts:1
+MobileŽ:1
+Mode1:1
+ModeMode:1
+Monday:1
+Moreover:1
+Mouse:1
+MusicPlaylists:1
+MusicWith:1
+MySpace:1
+NCI:1
+NCRP:1
+NFPA:1
+NORTH:1
+Navigatorﬂ:1
+Nickname:1
+NoticeThe:1
+Notifies:1
+NowCustomize:1
+Numbersﬂ:1
+OADING:1
+OCT:1
+ODUCT:1
+OFFConnections:1
+OFFON154Note:1
+OMISSIONS:1
+ON1161:1
+ON122:1
+ON126Removing:1
+ON1505:1
+ON1524:1
+ON58Auto:1
+ON744:1
+ONConnections:1
+ONON112The:1
+ONONONChanging:1
+ONSEQUENTIAL:1
+ONTap:1
+OPPORTUNITY:1
+ORIENTED:1
+OS:1
+OUTLINED:1
+OVED:1
+Occupation:1
+OpenSSL:1
+Opting:1
+Optionsﬂ:1
+PERTAINING:1
+PIN2:1
+PIP:1
+POSSIBILITY:1
+PPLICATIONS:1
+PRICE:1
+PSK:1
+Pager:1
+Panorama:1
+Paragraph:1
+Patriots:1
+Phone1:1
+PhoneThe:1
+Phonetic:1
+Picasa:1
+Picks:1
+Picturesﬂ:1
+PlacesPlaces:1
+Plano:1
+PlayŽ:1
+Playﬂ:1
+PowerTOP:1
+Practices:1
+Precipitation:1
+Prolonged:1
+Protecti:1
+Protoc:1
+QU:1
+RAM:1
+RECT:1
+REGISTRY:1
+REPUTATION:1
+RESERVATION:1
+RESPECTING:1
+RESPONSIBILITIES:1
+RITY:1
+ROM:1
+ROPERABILITY:1
+RSA:1
+Radia:1
+RadiationEmittingProductsandProcedures:1
+Rearranges:1
+Recapture:1
+Recorderﬂ:1
+Recoveryﬂ:1
+Recy:1
+Redo:1
+Reducing:1
+Registering:1
+Reorient:1
+Repositioning:1
+Resetﬂ:1
+Restaurant:1
+Reston:1
+Restoring:1
+Rough:1
+Router:1
+SATISFACTORY:1
+SDK:1
+SDN:1
+SECU:1
+SERVICING:1
+SGH:1
+SIG:1
+SLTC:1
+SUPPLY:1
+Sa:1
+SafeSearch:1
+Sams:1
+Sandwich:1
+Saturday:1
+Screenﬂ:1
+Scribbles:1
+SecurityThe:1
+Seizures:1
+SendBuddy:1
+SendMessaging:1
+Seoul:1
+Settings1:1
+Settings64Changing:1
+SettingsStorage:1
+ShareViaWifi:1
+Since:1
+Snow:1
+Solid:1
+SoundAlive:1
+Sparks:1
+Specifying:1
+Spell:1
+Sports:1
+Standa:1
+Stat:1
+Stewart:1
+Storeﬂ:1
+Strict:1
+Studies:1
+Sugar:1
+SugerSync:1
+Suggestﬂ:1
+Sunday:1
+Sunset:1
+SuperAMOLED:1
+Surveillance:1
+Synchronizing:1
+Systemﬂ:1
+T2:1
+T3:1
+TDD:1
+THEREIN:1
+THERETO:1
+TIMELINESS:1
+TMterms:1
+TORT:1
+TabŽ:1
+TalkŽ:1
+Technologies:1
+Tel:1
+Terrain:1
+Tilting:1
+Timeline:1
+Tiny:1
+Toll:1
+Toolbar:1
+Trad:1
+Trojan:1
+Trusted:1
+Tunneling:1
+Twitter:1
+Tﬂ:1
+UI:1
+UIPMENT:1
+UN:1
+UNINTERRUPTED:1
+Unicode:1
+Unjoining:1
+Unknown:1
+Updateﬂ:1
+VALIDITY:1
+VCO:1
+VENDOR:1
+VERTICAL:1
+VIOLATION:1
+VIRUSES:1
+VSuite:1
+Videosﬂ:1
+VoIP:1
+W0:1
+W2:1
+W6M:1
+WARE:1
+WARR:1
+WEP:1
+WLAN:1
+WMA:1
+WORKMANLIKE:1
+WOW:1
+Wake:1
+Wallpaperﬂ:1
+Washington:1
+Whereas:1
+Wikipedia:1
+Windowsﬂ:1
+XXXX:1
+Yellowpages:1
+YouTubeŽ:1
+ZZ1662:1
+Zooming:1
+ab:1
+aboutsamsung:1
+absorbed:1
+academia:1
+accelerate:1
+acceleration:1
+accelerometer:1
+acceptance:1
+accompanies:1
+accurate:1
+accurately:1
+acoustic:1
+acquired:1
+acquiring:1
+acquisition:1
+acrylic:1
+acters:1
+actively:1
+actual:1
+actually:1
+adapt:1
+addressbook:1
+adeq:1
+adhe:1
+adjusted:1
+advertised:1
+advertisement:1
+affecting:1
+affiliated:1
+affiliation:1
+agai:1
+agent:1
+ailable:1
+aim:1
+ain:1
+ained:1
+airKies:1
+airtime:1
+algorithm:1
+align:1
+alleged:1
+allo:1
+aloud:1
+alphabetic:1
+alphabetically:1
+alternate:1
+alternative:1
+ambient:1
+amicably:1
+analyzes:1
+ancillary:1
+andard:1
+angled:1
+anonymous:1
+anyway:1
+appearing:1
+append:1
+appliance:1
+applic:1
+applies:1
+apportion:1
+approval:1
+arithmetic:1
+arm:1
+arrange:1
+arti:1
+asking:1
+aspx:1
+assessed:1
+asso:1
+assure:1
+assured:1
+asterisk:1
+ate:1
+ation:1
+ational:1
+attack:1
+attempting:1
+attention:1
+ature:1
+atwww:1
+audible:1
+audiology:1
+auditory:1
+auth:1
+authentication:1
+authorized:1
+authorship:1
+av:1
+availa:1
+avoiding:1
+awake:1
+backgrou:1
+backspace:1
+bad:1
+base:1
+baseband:1
+batte:1
+becoming:1
+beginning:1
+behalf:1
+behaves:1
+behavior:1
+belief:1
+belonging:1
+belt:1
+beneath:1
+benefi:1
+betwee:1
+beyond:1
+bias:1
+bigger:1
+bile:1
+bill:1
+binding:1
+bitration:1
+blackout:1
+blasting:1
+ble:1
+blocked:1
+blogging:1
+blood:1
+blown:1
+boarding:1
+boat:1
+bodily:1
+bookmarked:1
+breakdown:1
+breast:1
+brief:1
+brought:1
+buffered:1
+build:1
+building:1
+bundled:1
+buzzing:1
+bypassing:1
+calculates:1
+calibration:1
+call2recycle:1
+camcorde:1
+cancellation:1
+capitalization:1
+capitalizes:1
+carbon:1
+cardioverter:1
+careful:1
+cat:1
+cation:1
+cautioned:1
+ccessories:1
+ccount:1
+cdc:1
+cdcinfo:1
+cease:1
+ceiver:1
+cellula:1
+cert:1
+certifiedŽ:1
+char:1
+charac:1
+characteristic:1
+chargeable:1
+chart:1
+ciated:1
+cinema:1
+circuitry:1
+circumstan:1
+citizenship:1
+cl:1
+cle:1
+clean:1
+cleared:1
+cling:1
+clog:1
+closed:1
+closely:1
+closer:1
+closure:1
+cloth:1
+clothing:1
+cm:1
+coin:1
+cold:1
+collision:1
+colon:1
+colored:1
+combine:1
+comfort:1
+commencing:1
+committed:1
+commonly:1
+communicate:1
+comparable:1
+compared:1
+compartm:1
+compartment:1
+competent:1
+completing:1
+complex:1
+complies:1
+compressed:1
+compromised:1
+concentrate:1
+concept:1
+concern:1
+concert:1
+conclusion:1
+concurrently:1
+condit:1
+conduct:1
+confidence:1
+confident:1
+config:1
+configurin:1
+conflict:1
+confused:1
+conn:1
+connec:1
+connectio:1
+connectivity:1
+connecto:1
+consequence:1
+consignment:1
+consistent:1
+consisting:1
+consolidated:1
+constitu:1
+cont:1
+contacting:1
+container:1
+contemporaneous:1
+context:1
+continued:1
+continuously:1
+controlled:1
+controversy:1
+conveniently:1
+conver:1
+corrosion:1
+corruption:1
+cosmetic:1
+cost:1
+counterfeit:1
+coupons:1
+course:1
+cove:1
+covering:1
+cracked:1
+craftsmanship:1
+crease:1
+credit:1
+crush:1
+ctia:1
+cu:1
+customize:1
+cycle:1
+da:1
+dama:1
+damp:1
+dampened:1
+dampness:1
+dark:1
+deaf:1
+deal:1
+death:1
+deci:1
+deck:1
+declined:1
+decrease:1
+decrypt:1
+defaced:1
+defibrillator:1
+degree:1
+delivered:1
+delivering:1
+denial:1
+dent:1
+dependent:1
+deployment:1
+depot:1
+derived:1
+describes:1
+descriptio:1
+designates:1
+destructiv:1
+dete:1
+detector:1
+detergent:1
+determin:1
+determining:1
+deve:1
+developing:1
+deviceﬂ:1
+dialog:1
+dictionary:1
+difference:1
+difficulty:1
+dim:1
+disabled:1
+disassemble:1
+disc:1
+discard:1
+discharged:1
+disclose:1
+discovered:1
+discovery:1
+discus:1
+disk:1
+displaye:1
+disposed:1
+dist:1
+distinctly:1
+distinguishes:1
+distortion:1
+distraction:1
+doctor:1
+document:1
+downloadsSign:1
+dr:1
+draft:1
+dragging:1
+draw:1
+drinking:1
+dropped:1
+drying:1
+dust:1
+e2fsp:1
+eAAC:1
+eac:1
+ead:1
+eadphones:1
+ealth:1
+earSmartŽ:1
+earthquake:1
+eating:1
+ec:1
+ecial:1
+eckmark:1
+ect:1
+ections:1
+eight:1
+electr:1
+electromag:1
+electromechanical:1
+electron:1
+electrostatic:1
+eligibility:1
+eligible:1
+eliminate:1
+eliminated:1
+emarks:1
+emf:1
+emoticon:1
+emotional:1
+employ:1
+employing:1
+empt:1
+en_projectes:1
+encouraged:1
+encourages:1
+encyclopedia:1
+endorsement:1
+enforce:1
+enforceability:1
+enforced:1
+engineering:1
+enhancement:1
+enlarged:1
+ent:1
+entertaining:1
+entr:1
+envi:1
+eos:1
+epawaste:1
+equalization:1
+equalizer:1
+equalizes:1
+equi:1
+equipped:1
+er:1
+ering:1
+erty:1
+erved:1
+es:1
+especially:1
+essing:1
+establishes:1
+establishment:1
+et:1
+evaluate:1
+evaluated:1
+examine:1
+excellent:1
+exception:1
+excessive:1
+excessively:1
+exchanged:1
+excluded:1
+exclusive:1
+expandable:1
+expired:1
+explained:1
+explicit:1
+explore:1
+explos:1
+explosion:1
+expose:1
+expressed:1
+expressl:1
+extSdcard:1
+extensive:1
+externally:1
+facial:1
+fact:1
+factor:1
+faith:1
+family:1
+faster:1
+fastest:1
+fatal:1
+fe:1
+feel:1
+feesScan:1
+fferent:1
+fication:1
+fied:1
+figure:1
+filtering:1
+finally:1
+fingernail:1
+fingertip:1
+five:1
+flag:1
+flammable:1
+flashing:1
+flooding:1
+flow:1
+fluid:1
+followi:1
+foot:1
+forbidden:1
+forced:1
+forget:1
+forgot:1
+formed:1
+forth:1
+forwardingﬂ:1
+fr:1
+frame:1
+freeze:1
+freeﬂ:1
+frequent:1
+frozen:1
+fu:1
+fulfill:1
+functi:1
+fuse:1
+gain:1
+gal:1
+gality:1
+gamma:1
+gap:1
+gateway:1
+gathered:1
+gation:1
+generally:1
+genetic:1
+genuine:1
+gestur:1
+gigahertz:1
+giving:1
+glass:1
+glioma:1
+gnificant:1
+govern:1
+governing:1
+gr:1
+grain:1
+gray:1
+greater:1
+grid:1
+grip:1
+grounded:1
+guaranteed:1
+gyro:1
+hair:1
+half:1
+halt:1
+handwriti:1
+hang:1
+happens:1
+happy:1
+harsh:1
+haven:1
+healthy:1
+heardŽ:1
+heaviest:1
+heavy:1
+hidden:1
+highly:1
+hitting:1
+hnology:1
+homescreen:1
+horse:1
+hosting:1
+household:1
+hpa:1
+humidity:1
+humming:1
+hurt:1
+hypersensitivity:1
+iarc:1
+ica:1
+ications:1
+identification:1
+identify:1
+ider:1
+ield:1
+ience:1
+ilation:1
+ildren:1
+iles:1
+ille:1
+illegible:1
+illumination:1
+immediate:1
+impaired:1
+implantable:1
+implemente:1
+imply:1
+importance:1
+improved:1
+inaccurate:1
+inadequately:1
+incidence:1
+incomplete:1
+incorporated:1
+increas:1
+increased:1
+independent:1
+indicated:1
+indirectly:1
+inductive:1
+indust:1
+inform:1
+informational:1
+infrared:1
+infri:1
+inguish:1
+inquiry:1
+inspection:1
+installa:1
+instantaneously:1
+instru:1
+intensity:1
+intensive:1
+interfering:1
+introduced:1
+introduces:1
+introduction:1
+invalid:1
+invalidate:1
+invention:1
+investigating:1
+ioned:1
+ire:1
+iron:1
+ision:1
+isolates:1
+issued:1
+isting:1
+ited:1
+items36Tap:1
+ith:1
+iv:1
+ivacy:1
+iving:1
+ize:1
+ized:1
+jewelry:1
+jot:1
+jsp:1
+jump:1
+justify:1
+kly:1
+knock:1
+knowingly:1
+labor:1
+landline:1
+laptop:1
+larg:1
+largest:1
+laterally:1
+lay:1
+layed:1
+lease:1
+leaving:1
+lect:1
+lected:1
+lend:1
+lens:1
+leŽ:1
+licensors:1
+lightning:1
+lim:1
+lique:1
+liquefied:1
+lit:1
+literature:1
+little:1
+lligent:1
+llows:1
+lo:1
+loca:1
+lockscreen:1
+loose:1
+lopments:1
+lost:1
+loud:1
+louder:1
+lowercase:1
+lowest:1
+lso:1
+lues:1
+lume:1
+ly:1
+ma:1
+machine:1
+maiden:1
+mailing:1
+mainder:1
+majority:1
+mana:1
+managed:1
+manner:1
+manufactured:1
+margin:1
+marketed:1
+marking:1
+markup:1
+married:1
+mass:1
+match:1
+matched:1
+materi:1
+matter:1
+mbps:1
+measured:1
+meeting:1
+megapixel:1
+meningioma:1
+messag:1
+mild:1
+mimic:1
+mind:1
+mineral:1
+minor:1
+minus:1
+mis:1
+misplace:1
+misspelling:1
+mistyped:1
+mmunications:1
+modern:1
+moisture:1
+monthly:1
+mory:1
+moun:1
+movable:1
+mpered:1
+msung:1
+mu:1
+muffled:1
+musi:1
+n't:1
+na:1
+named:1
+naturally:1
+navi:1
+navigati:1
+navigational:1
+nctions:1
+ne:1
+nearly:1
+negl:1
+nerate:1
+netic:1
+networ:1
+networked:1
+networking:1
+newsfeed:1
+nger:1
+nidcd:1
+nidcdinfo:1
+nnection:1
+nning:1
+noisiest:1
+notify:1
+nse:1
+nst:1
+nstall:1
+ntial:1
+ntinue:1
+ntrol:1
+numberSend:1
+numerical:1
+numerous:1
+obile:1
+obstruct:1
+occasional:1
+occurred:1
+ocedure:1
+offender:1
+ogle:1
+ogramming:1
+ol:1
+onally:1
+onics:1
+onlin:1
+ons:1
+oogle:1
+ookmarked:1
+oost:1
+oot:1
+op:1
+opensource:1
+operly:1
+opinion:1
+optout:1
+ordered:1
+ordinance:1
+ordinary:1
+orient:1
+originally:1
+orized:1
+orn:1
+ot:1
+oth:1
+oups:1
+ouraged:1
+ousands:1
+outbo:1
+outbound:1
+outcome:1
+outwardsto:1
+oven:1
+overal:1
+overheated:1
+overheating:1
+override:1
+overwritten:1
+pacemaker:1
+page11:1
+page110:1
+page131:1
+page132:1
+page149:1
+page200:1
+page29:1
+page31:1
+page33:1
+page34:1
+page55:1
+page68:1
+page73:1
+page85:1
+page86:1
+page87:1
+panoramic:1
+parking:1
+partition:1
+partner:1
+passcode:1
+passenger:1
+patent:1
+patentable:1
+path:1
+peh:1
+penalty:1
+perfor:1
+peripheral:1
+permit:1
+personalize:1
+personally:1
+pert:1
+pertains:1
+pertinent:1
+pet:1
+phon:1
+php:1
+physically:1
+piece:1
+plant:1
+plugging:1
+plugin:1
+pointing:1
+popular:1
+popup:1
+port:1
+portable:1
+positioned:1
+post:1
+postponing:1
+pot:1
+pote:1
+potentia:1
+potentially:1
+powder:1
+powering:1
+pped:1
+pr200_E:1
+precautionary:1
+precious:1
+predefined:1
+predic:1
+predict:1
+prefer:1
+preference:1
+prefix:1
+prepare:1
+prepend:1
+presentation:1
+presently:1
+pressed:1
+pressure:1
+prevail:1
+prevailing:1
+preventable:1
+prevented:1
+preventing:1
+priva:1
+probably:1
+proceed:1
+prod:1
+produced:1
+professional:1
+programes:1
+programmed:1
+prohibit:1
+promoting:1
+prop:1
+proposal:1
+protecting:1
+provider:1
+publication:1
+pull:1
+punctuate:1
+puncture:1
+pur:1
+purcha:1
+puzzle:1
+pyright:1
+qualified:1
+quic:1
+radi:1
+radiate:1
+radiator:1
+radiofrequencyradiation:1
+radto:1
+rapidly:1
+rate:1
+rather:1
+ratio:1
+reached:1
+reactivated:1
+readable:1
+reader:1
+readout:1
+real:1
+realizing:1
+reasonable:1
+receipt:1
+recerca:1
+recognizer:1
+recommends:1
+reconnect:1
+reconnection:1
+recordﬂ:1
+recycled:1
+recycler:1
+redialing:1
+reduced:1
+reduction:1
+reflect:1
+refueling:1
+regain:1
+regard:1
+region:1
+registerGet:1
+regulatory:1
+rejoin:1
+relate:1
+relaxed:1
+released:1
+reliance:1
+relief:1
+relocate:1
+rely:1
+reminded:1
+remotely:1
+rendering:1
+renting:1
+repairing:1
+repeating:1
+repetitive:1
+repetitively:1
+replaced:1
+replacement:1
+replay:1
+replicate:1
+replicated:1
+reposition:1
+reproduction:1
+reputable:1
+requ:1
+requesting:1
+requiremen:1
+researcher:1
+reseller:1
+reserve:1
+residential:1
+resized:1
+resolution:1
+resolving:1
+respected:1
+respective:1
+respon:1
+responding:1
+restarting:1
+restoration:1
+retail:1
+retailer:1
+returning:1
+reuse:1
+reverse:1
+riety:1
+ringt:1
+rious:1
+rks:1
+roaming:1
+rogs:1
+role:1
+ronment:1
+rotating:1
+rotation:1
+rounded:1
+row:1
+rrent:1
+rtable:1
+rtified:1
+ru:1
+rvals:1
+safely:1
+said:1
+sample:1
+samsungchaton:1
+samsungusa:1
+satisfied:1
+sc:1
+scanned:1
+scientist:1
+scratch:1
+scratching:1
+sdcard:1
+secret:1
+segment:1
+seller:1
+selling:1
+semi:1
+semicolon:1
+sense:1
+sensitivity:1
+separated:1
+separately:1
+separating:1
+series:1
+sett:1
+settin:1
+settled:1
+shadow:1
+shoot:1
+shorter:1
+shoulder:1
+shutdown:1
+shutter:1
+si:1
+sideways:1
+similarly:1
+sitions:1
+skin:1
+sky:1
+slight:1
+slightly:1
+slower:1
+slowly:1
+smaller:1
+smiley:1
+smooth:1
+soap:1
+socket:1
+softer:1
+solution:1
+solvent:1
+something:1
+sounding:1
+sp:1
+spare:1
+specia:1
+specificatio:1
+spelling:1
+splayed:1
+sponsored:1
+sponsorship:1
+ssign:1
+stage:1
+stand:1
+statement:1
+static:1
+stationary:1
+statistic:1
+stock:1
+stolen:1
+streamer:1
+stress:1
+stressful:1
+strictest:1
+strictly:1
+strip:1
+stripped:1
+stroke:1
+strong:1
+stronger:1
+studio:1
+stunning:1
+sturdy:1
+stylized:1
+stylus:1
+su:1
+suant:1
+sublicense:1
+submit:1
+substantial:1
+substitute:1
+successful:1
+succession:1
+suggested:1
+sun:1
+superficial:1
+superior:1
+supersedes:1
+supplement:1
+surround:1
+susceptibility:1
+suspend:1
+suspension:1
+swer:1
+swiped:1
+synced:1
+synchron:1
+synchroniz:1
+ta:1
+tamp:1
+team:1
+tear:1
+tec:1
+tech:1
+technical:1
+technician:1
+television:1
+tempered:1
+temporaril:1
+terminated:1
+testis:1
+tethered:1
+theater:1
+theft:1
+thin:1
+thir:1
+thirty:1
+thoroughly:1
+thumb:1
+ting:1
+tinnitus:1
+tional:1
+tive:1
+toggle:1
+toggling:1
+tory:1
+touched:1
+towel:1
+toy:1
+trackpad:1
+trade:1
+transaction:1
+transcribe:1
+transf:1
+transitioning:1
+transmitter:1
+transmitting:1
+treated:1
+troubleshoot:1
+trust:1
+tual:1
+tw:1
+tweet:1
+twenty:1
+ty:1
+typical:1
+typographical:1
+uate:1
+uch:1
+uct:1
+uk:1
+ukcosmos:1
+uld:1
+unable:1
+unanswered:1
+unctionality:1
+und:1
+underdeveloped:1
+undesirable:1
+undesired:1
+undone:1
+unenforceability:1
+ung:1
+uninstalling:1
+unintended:1
+unique:1
+unjoin:1
+unknowingly:1
+unlink:1
+unlocked:1
+unmarked:1
+unnecessary:1
+unpainted:1
+unpatentable:1
+unplug:1
+unreachable:1
+unresponsive:1
+unsafe:1
+unsatisfac:1
+unsecured:1
+unsure:1
+unt:1
+unused:1
+unusual:1
+updating:1
+upgra:1
+upgrad:1
+upgrading:1
+uppercase:1
+upright:1
+upward:1
+ured:1
+urged:1
+usable:1
+usactivities_environment_samsungrecyclingdirect:1
+usactivities_environment_samsungrecyclingdirect_locations:1
+variable:1
+variation:1
+vate:1
+vating:1
+ved:1
+velopers:1
+vent:1
+ver:1
+verbal:1
+versa:1
+vice:1
+vid:1
+violate:1
+vision:1
+visual:1
+visually:1
+vo:1
+voluntary:1
+waiting:1
+walking:1
+ward:1
+warn:1
+warran:1
+warranted:1
+watch:1
+water:1
+wave:1
+wealth:1
+wear:1
+weighted:1
+whatever:1
+whenever:1
+wher:1
+whining:1
+whole:1
+wholly:1
+whose:1
+wider:1
+windshield:1
+windstorm:1
+withou:1
+wn:1
+won:1
+workers:1
+worm:1
+worn:1
+worrying:1
+x4:1
+young:1
+youve:1
+zero:1
+ŒAT:1
+ŒATMs:1
+ŒContacts:1
+ŒDefault:1
+ŒFree:1
+ŒGas:1
+ŒIf:1
+ŒIn:1
+ŒLimit:1
+ŒList:1
+ŒMemo:1
+ŒNoise:1
+ŒOnly:1
+ŒParking:1
+ŒPinch:1
+ŒRecording:1
+ŒRestaurants:1
+ŒRestricted:1
+ŒSatellite:1
+ŒScreen:1
+ŒSend:1
+ŒService:1
+ŒSorry:1
+ŒStorage:1
+ŒTraffic:1
+ŒWarning:1
+ﬁAT:1
+ﬁActivating:1
+ﬁAdding:1
+ﬁAdvanced:1
+ﬁAllShare:1
+ﬁArbitration:1
+ﬁBrowser:1
+ﬁCalculatorﬂ:1
+ﬁCamera:1
+ﬁClockﬂ:1
+ﬁCloudﬂ:1
+ﬁCopying:1
+ﬁDECLINEﬂ:1
+ﬁDeleting:1
+ﬁDeviceHelpﬂ:1
+ﬁDownloadsﬂ:1
+ﬁEULAﬂ:1
+ﬁEditing:1
+ﬁFactory:1
+ﬁFlipboardﬂ:1
+ﬁFront:1
+ﬁHi:1
+ﬁIndicator:1
+ﬁKeyboards:1
+ﬁLarge:1
+ﬁLatitudeﬂ:1
+ﬁMaking:1
+ﬁMapsﬂ:1
+ﬁMarking:1
+ﬁMessaging:1
+ﬁMounting:1
+ﬁNavigating:1
+ﬁNavigationﬂ:1
+ﬁPairing:1
+ﬁPhone:1
+ﬁPlacesﬂ:1
+ﬁPrimary:1
+ﬁProductsﬂ:1
+ﬁResponsible:1
+ﬁSAMSUNGﬂ:1
+ﬁSamsung:1
+ﬁSettings:1
+ﬁSmall:1
+ﬁSoftware:1
+ﬁSoftwareﬂ:1
+ﬁSound:1
+ﬁSynchronizing:1
+ﬁVoice:1
+ﬁYPmobileﬂ:1
+ﬁYouTubeﬂ:1
+ﬁcell:1
+ﬁconnection:1
+ﬁdefaultﬂ:1
+ﬁdiscoverabilityﬂ:1
+ﬁhands:1
+ﬁm:1
+ﬁmyAT:1
+ﬁonlineﬂ:1
+ﬁshieldsﬂ:1

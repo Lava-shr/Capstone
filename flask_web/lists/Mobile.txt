@@ -1,0 +1,49 @@
+Evolution
+NETWORK -> Technology -> GSM / HSPA / LTE
+LAUNCH -> Announced -> 2012, September
+LAUNCH -> Status -> Available. Released 2012, September
+BODY -> Dimensions -> 136.6 x 70.6 x 8.6 mm (5.38 x 2.78 x 0.34 in)
+BODY -> Weight -> 131 g (4.62 oz)
+BODY -> SIM -> Micro-SIM
+DISPLAY -> Type -> Super AMOLED capacitive touchscreen, 16M colors
+DISPLAY -> Size -> 4.8 inches (~65.9% screen-to-body ratio)
+DISPLAY -> Resolution -> 720 x 1280 pixels (~306 ppi pixel density)
+DISPLAY -> Multitouch -> 
+DISPLAY -> Protection -> Corning Gorilla Glass 2 TouchWiz UI
+PLATFORM -> OS -> Android OS, v4.1.1 (Jelly Bean), v4.3 (Jelly Bean), upgradable to v4.4.4 (KitKat)
+PLATFORM -> Chipset -> Exynos 4412 Quad
+PLATFORM -> CPU -> Quad-core 1.4 GHz Cortex-A9
+PLATFORM -> GPU -> Mali-400MP4
+MEMORY -> Card slot -> microSD, up to 64 GB (dedicated slot)
+MEMORY -> Internal -> 16 GB, 2 GB RAM
+CAMERA -> Primary -> 8 MP, f/2.6, autofocus, LED flash
+CAMERA -> Features -> 1/3" sensor size, geo-tagging, touch focus, face/smile detection
+CAMERA -> Video -> 1080p@30fps
+CAMERA -> Secondary -> 1.9 MP, f/2.6, 720p@30fps
+SOUND -> Alert types -> Vibration; MP3, WAV ringtones
+SOUND -> 3.5mm jack -> 
+COMMS -> WLAN -> Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot
+COMMS -> Bluetooth -> v4.0, A2DP, EDR, aptX
+COMMS -> GPS -> Yes, with A-GPS, GLONASS
+COMMS -> NFC -> Yes
+COMMS -> Radio -> 
+COMMS -> USB -> microUSB v2.0 (MHL TV-out), USB Host
+FEATURES -> Sensors -> Accelerometer, gyro, proximity, compass, barometer
+FEATURES -> Messaging -> SMS(threaded view), MMS, Email, Push Mail, IM
+FEATURES -> Browser -> HTML, Adobe Flash
+FEATURES -> Java -> No
+BATTERY -> Stand-by -> Up to 580 h (2G) / Up to 390 h (LTE)/ 510 h (3G)
+BATTERY -> Talk time -> Up to 16 h (2G) / Up to 11 h (3G)
+BATTERY -> Music play -> 
+MISC -> Colors -> Titanium Gray, Sapphire Black
+MISC -> SAR US -> 0.41 W/kg (head)     0.87 W/kg (body)    
+MISC -> SAR EU -> 0.24 W/kg (head)    
+MISC -> Price group -> 7/10
+TESTS -> Loudspeaker -> 
+TESTS -> Performance -> 
+TESTS -> Display -> 
+TESTS -> Camera -> 
+TESTS -> Audio quality -> 
+TESTS -> Battery life -> 
+Revolution-G1
+Revolution-G2

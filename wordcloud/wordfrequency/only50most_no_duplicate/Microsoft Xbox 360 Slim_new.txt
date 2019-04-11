@@ -1,0 +1,32 @@
+0:console-82
+1:device-43
+2:use-41
+3:connect-39
+4:microsoft-38
+5:may-37
+6:xbox-36
+7:disc-34
+8:xbox console-32
+9:hard drive-31
+10:controller-30
+11:tv-25
+12:xbox liv-24
+13:play-20
+14:will-19
+15:information-18
+16:warranty-16
+17:manual-15
+18:set-14
+19:video game-13
+20:cable-12
+21:av-11
+22:video-10
+23:playing-9
+24:accessory-8
+25:system-7
+26:keep-6
+27:take-5
+28:online-4
+29:setup-3
+30:register-2
+31:explore-1

@@ -1,0 +1,70 @@
+0:camera-492
+1:image-231
+2:function-161
+3:set-146
+4:subject-118
+5:select-116
+6:use-114
+7:lens-112
+8:smart phone-107
+9:memory card-105
+10:autofocus-102
+11:battery-96
+12:option-94
+13:screen-84
+14:video-83
+15:setting-80
+16:using-75
+17:shutter speed-74
+18:shooting-64
+19:shooting mode-62
+20:press-60
+21:adjust-57
+22:mode-56
+23:time-56
+24:light-48
+25:size-48
+26:white balance-47
+27:automatically-47
+28:color-47
+29:capture image-45
+30:auto-44
+31:aperture value-44
+32:iso sensitivity-43
+33:exposure-43
+34:capture-42
+35:information-41
+36:computer-39
+37:device-38
+38:image video-38
+39:mode press-38
+40:press shutter-38
+41:change-36
+42:connected-35
+43:network-35
+44:type-34
+45:autofocus area-32
+46:quality-32
+47:playback mode-31
+48:aperture-31
+49:number-31
+50:scene-31
+51:shot-31
+52:pc-30
+53:connect-30
+54:navigation key-30
+55:wi fi-29
+56:allow-29
+57:exposure value-29
+58:recommended-29
+59:ap-28
+60:flash-28
+61:high-27
+62:rotate navigation-26
+63:example-26
+64:focal length-26
+65:normal-26
+66:press select-25
+67:usb cable-25
+68:second-25
+69:amount light-24

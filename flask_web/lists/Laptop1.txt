@@ -1,0 +1,56 @@
+Evolution
+DISPLAY -> Image Aspect Ratio -> 0.6729166666666666
+DISPLAY -> Monitor Features -> 10-point multi-touch
+DISPLAY -> Diagonal Size (metric) -> 29.5 cm
+MEMORY -> Max Supported Size -> 8 GB
+MEMORY -> Slots Qty -> 
+MEMORY -> Empty Slots -> 
+BATTERY -> Capacity -> 
+SYSTEM -> Platform -> Windows
+SYSTEM -> Hard Drive Capacity -> 256 GB
+Revolution-G1
+PROCESSOR / CHIPSET -> CPU -> Intel Core i5 (3rd Gen) 3339Y / 1.5 GH
+PROCESSOR / CHIPSET -> Max Turbo Speed -> 2 GHz
+PROCESSOR / CHIPSET -> Number of Cores -> Dual-Core
+PROCESSOR / CHIPSET -> Cache -> 
+PROCESSOR / CHIPSET -> 64-bit Computing -> 
+STORAGE -> Interface -> Serial ATA-300
+STORAGE -> Optical Drive -> 
+STORAGE -> Read Speed -> 
+ENVIRONMENTAL PARAMETERS -> Humidity Range Operating -> 
+HARD DRIVE -> Spindle Speed -> 
+AUDIO & VIDEO -> Integrated Webcam -> Yes
+AUDIO & VIDEO -> Capture Resolutions -> 1280 x 720
+INPUT -> type -> keyboard, touchpad
+COMMUNICATIONS -> Features -> Intel Turbo Boost Technology 2.0
+COMMUNICATIONS -> Wireless Protocol -> 802.11b/g/n, Bluetooth 4.0
+COMMUNICATIONS -> Wired Protocol -> 
+PROCESSOR -> Processor Number -> i5-3339Y
+PROCESSOR -> Generation -> 3.0
+PROCESSOR -> Manufacturer -> Intel
+PROCESSOR -> Clock Speed -> 1.5 GHz
+OPTICAL STORAGE -> Drive Type -> no  optical drive
+OPTICAL STORAGE -> Load Type -> 
+CARD READER -> Type -> 
+CARD READER -> Supported Flash Memory -> 
+CONNECTIONS & EXPANSION -> Interfaces -> USB 2.0
+USB 3.0
+Headphone/microphone combo jack
+HDMI
+CONNECTIONS & EXPANSION -> Memory Card Reader -> 2 in 1 (SD Card, MultiMediaCard)
+
+MONITOR -> Diagonal Size -> 11.6 in
+MAINBOARD -> Chipset Type -> 
+VIDEO OUTPUT -> Multi-GPU Configuration -> 
+VIDEO OUTPUT -> Graphics Processor -> Intel HD Graphics 4000
+VIDEO OUTPUT -> Discrete Graphics Processor -> 
+VIDEO MEMORY -> Installed Size -> 3 MB
+VIDEO MEMORY -> Technology -> 
+Revolution-G2
+NETWORKING -> Data Link Protocol -> Bluetooth 4.0, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n
+
+DISPLAY -> LCD Backlight Technology -> LED backlight
+DISPLAY -> Widescreen Display -> 
+DISPLAY -> Display Resolution Abbreviation -> HD
+SOFTWARE -> Microsoft Office Preloaded -> 
+BATTERY -> Cells -> 4-cell

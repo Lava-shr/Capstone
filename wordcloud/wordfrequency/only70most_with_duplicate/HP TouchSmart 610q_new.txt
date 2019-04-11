@@ -1,0 +1,70 @@
+0:computer-170
+1:screen-48
+2:use-40
+3:system recovery-39
+4:getting started-38
+5:software-38
+6:using-37
+7:tap-33
+8:mouse-31
+9:tap start-29
+10:start key-28
+11:window-27
+12:key tap-27
+13:press-26
+14:power-26
+15:system-24
+16:device-24
+17:select-24
+18:information-23
+19:setting-23
+20:hp touchsmart-22
+21:program-22
+22:hard disk-21
+23:recovery medium-19
+24:see-19
+25:recovery manager-18
+26:application-18
+27:file-18
+28:flash drive-18
+29:update-18
+30:internet-17
+31:note-17
+32:usb flash-17
+33:back-17
+34:connect-17
+35:disk drive-17
+36:driver-17
+37:tap program-17
+38:programs tap-16
+39:cable-16
+40:disc-16
+41:support-16
+42:turn computer-16
+43:audio-15
+44:hp com-15
+45:tap next-15
+46:www hp-15
+47:check-14
+48:keyboard-14
+49:wireless-14
+50:beat-13
+51:ensure-13
+52:touchsmart pc-13
+53:clean-13
+54:mode-13
+55:new-13
+56:one-13
+57:page-13
+58:restart computer-13
+59:set-13
+60:dvd-12
+61:microsoft windows-12
+62:troubleshooting maintenance-12
+63:doe-12
+64:image-12
+65:keyboard mouse-12
+66:model-12
+67:network-12
+68:step-12
+69:volume-11

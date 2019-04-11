@@ -1,0 +1,70 @@
+0:product-653
+1:fax-278
+2:setting-269
+3:use-265
+4:print-235
+5:printer-178
+6:network-168
+7:control panel-153
+8:using-144
+9:note-138
+10:computer-129
+11:page-126
+12:set-119
+13:information-118
+14:option-117
+15:paper-114
+16:scan-106
+17:window-104
+18:copy-103
+19:printing-102
+20:setup menu-101
+21:ink cartridge-101
+22:color-99
+23:tray-93
+24:make sure-91
+25:feature-91
+26:device-89
+27:key touch-88
+28:hp-86
+29:printer driver-85
+30:fax setup-84
+31:software-84
+32:home screen-81
+33:hp com-80
+34:service-79
+35:number-77
+36:open-76
+37:select-76
+38:change-76
+39:th-73
+40:wireless-73
+41:screen touch-72
+42:software program-72
+43:www hp-72
+44:list-68
+45:might-68
+46:touch setup-64
+47:mac-63
+48:cartridge-63
+49:job-63
+50:installed-61
+51:used-60
+52:ip address-57
+53:touch fax-57
+54:click print-57
+55:ha-57
+56:name-56
+57:time-56
+58:wireless network-56
+59:menu touch-55
+60:paper size-54
+61:print job-53
+62:connected-52
+63:image-51
+64:one-51
+65:file menu-50
+66:fax number-50
+67:setup key-49
+68:driver-48
+69:wireless direct-47

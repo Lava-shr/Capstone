@@ -1,0 +1,47 @@
+Evolution
+Display -> Resolution -> 240x432
+BATTERY -> Battery Enclosure Type -> 
+Revolution-G1
+GENERAL -> Interface Supported -> 
+GENERAL -> Available Body Colors -> 
+GENERAL -> Voice recording capable -> 
+GENERAL -> Digital Player Type -> 
+GENERAL -> Digital Player Functions -> 
+GENERAL -> Included Accessories -> USB
+GENERAL -> Software type -> 
+GENERAL -> Manufacturer -> 
+DIGITAL MEDIA & NETWORK PLAYERS -> Digital Player Features -> 
+DIGITAL MEDIA & NETWORK PLAYERS -> Supported Digital video Standards -> H.264 video, up to 1.5 Mbps, 640 by 480 pixels, 30 frames per second, Low-Complexity version of the H.264 Baseline Profile with AAC-LC audio up to 160 Kbps, 48kHz, stereo audio in .m4v, .mp4, and .mov file formats; H.264 video, up to 2.5 Mbps, 640 by 480 pixels, 30 frames per second, Baseline Profile up to Level 3.0 with AAC-LC audio up to 160 Kbps, 48kHz, stereo audio in .m4v, .mp4, and .mov file formats; MPEG-4 video, up to 2.5 Mbps, 640 by 480 pixels, 30 frames per second, Simple Profile with AAC-LC audio up to 160 Kbps, 48kHz, stereo audio in .m4v, .mp4, and .mov file formats
+AUDIO SYSTEM -> Supported Digital Audio Standards -> AAC (8 to 320 Kbps), Protected AAC (from iTunes Store), HE-AAC, MP3 (8 to 320 Kbps), MP3 VBR, Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+), Apple Lossless, AIFF, and WAV."
+AUDIO SYSTEM -> Additional Features -> 
+CD -> Playback Modes -> 
+SYSTEM REQUIREMENTS -> Additional Requirements -> 
+SYSTEM REQUIREMENTS -> OS Required -> Mac OS X 10.6.8, Windows XP SP3/Vista
+HEADER -> Brand -> 
+HEADER -> Product Line -> 
+HEADER -> Model -> 
+HEADER -> Country Kits -> 
+HEADER -> Packaged Quantity -> 
+BUILT-IN DISPLAY -> Diagonal Size -> 
+MISCELLANEOUS -> Color -> 
+MISCELLANEOUS -> Microsoft Certifications -> 
+MISCELLANEOUS -> Timer -> 
+MISCELLANEOUS -> Color Category -> 
+RADIO -> Tuner Type -> 
+RADIO -> Tuner Bands -> 
+RADIO -> Tuning Display -> 
+RADIO -> FM Preset Station Qty -> 
+MICROPHONE -> Microphone Form Factor -> 
+FLASH MEMORY -> Supported Flash Memory Cards -> 
+HEADPHONES -> Sound Output Mode -> 
+BATTERY / POWER -> Run Time (Up To) -> 30 Hours
+CONNECTIONS -> Type -> 
+CONNECTIONS -> Qty -> 
+CONNECTIONS -> Connector Type -> 
+DIMENSIONS & WEIGHT -> Weight -> 1.1 ounces
+DIMENSIONS & WEIGHT -> Width -> 1.56
+DIMENSIONS & WEIGHT -> Depth -> 3.01
+DIMENSIONS & WEIGHT -> Height -> 0.21
+Revolution-G2
+Display -> Feature -> 
+BATTERY -> Rechargeable Battery -> 

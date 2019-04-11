@@ -1,0 +1,60 @@
+Evolution
+Revolution-G1
+Picture/Display  -> LCD panel type -> LED-backlit LCD monitor /
+TFT active matrix
+Picture/Display  -> Backlight type -> WLED
+Picture/Display  -> PANEL SURFACE -> 
+Picture/Display  -> Panel Size -> 23.0
+Picture/Display  -> Effective viewing area -> 
+Picture/Display  -> Aspect ratio -> 0.6729166666666666
+Picture/Display  -> Optimum resolution -> Full HD 1920 x 1080 at 60 Hz
+Picture/Display  -> SmartResponse (typical) -> 
+Picture/Display  -> Response time (typical) -> 
+Picture/Display  -> Brightness -> 250 cd/m2
+Picture/Display  -> Contrast ratio (typical) -> 1000:1
+Picture/Display  -> SmartContrast -> 25000:1
+Picture/Display  -> Pixel pitch -> 0.265 mm
+Picture/Display  -> Viewing angle -> 176 horizental
+170 vertical
+Picture/Display  -> Picture enhancement -> 
+Picture/Display  -> Display colours -> 16.7 m
+Picture/Display  -> Scanning Frequency -> 
+Picture/Display  -> sRGB -> 
+Stand -> Tilt -> 35.0
+Power -> On mode -> 
+Power -> Standby mode -> 
+Power -> Off mode -> 
+Power -> Power LED indicator -> 
+Power -> Power supply -> AC 120/230 V
+Operating Conditions -> Temperature range (operation) -> 41-95 F
+Operating Conditions -> Temperature range (storage) -> 
+Operating Conditions -> Relative humidity -> 20-80%
+Operating Conditions -> MTBF -> 
+Compliance and Standards -> Regulatory Approvals -> 
+Connectivity -> Signal Input -> DVI-I
+Display Port
+USB upstream
+USB downstream
+Connectivity -> Sync Input -> 
+Connectivity -> Audio (In/Out) -> 
+Convenience -> Built-in Speakers -> 
+Convenience -> User convenience -> 
+Convenience -> OSD Languages -> 
+Convenience -> Other convenience -> security lock
+Convenience -> Plug and Play Compatibility -> Compatible with Windows 7
+Dimension -> Product with stand (mm) -> 21.3 in x 8.5 in x 15.8 in 
+Dimension -> Product without stand (mm) -> 21.3*1.9*12.5 in
+Dimension -> Packaging in mm (W x H x D) -> 
+Weight -> Product with stand (kg) -> 6.2 lbs
+Weight -> Product without stand (kg) -> 9 lbs
+Weight -> Product with packaging (kg) -> 
+Sustainability -> Environmental and energy -> Class A+
+EPEAT Gold
+Sustainability -> Recyclable packaging material -> 
+Cabinet -> Color -> black
+Cabinet -> Finish -> 
+Connectors -> USB 2.0 Type A -> 
+Connectors -> USB 2.0 Type B -> 
+Connectors -> VGA -> 
+Connectors -> DVI-D -> 
+Revolution-G2

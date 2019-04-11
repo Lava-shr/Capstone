@@ -1,0 +1,70 @@
+0:computer-77
+1:screen-52
+2:window-25
+3:charm-25
+4:press-24
+5:using-23
+6:device-22
+7:note-19
+8:key-19
+9:operating system-16
+10:lenovo-15
+11:problem-15
+12:connect-14
+13:application-14
+14:memory card-14
+15:getting know-13
+16:starting use-13
+17:use windows-13
+18:know computer-12
+19:open-12
+20:battery-11
+21:edge-11
+22:network-11
+23:power adapter-11
+24:user-11
+25:ac power-10
+26:setting-10
+27:click-10
+28:data-10
+29:function-10
+30:guide-10
+31:left-10
+32:power key-10
+33:sleep mode-10
+34:system-10
+35:windows key-9
+36:computer sleep-9
+37:right-9
+38:see-9
+39:wireless-9
+40:automatically-8
+41:desktop-8
+42:driver-8
+43:find-8
+44:one following-8
+45:operation-8
+46:screen panel-8
+47:support-8
+48:touchpad-8
+49:ac adapter-7
+50:airplane mode-7
+51:chapter-7
+52:start screen-7
+53:disable-7
+54:mouse-7
+55:one-7
+56:page-7
+57:turn-7
+58:two-7
+59:chapter starting-6
+60:connecting-6
+61:help support-6
+62:otherwise-6
+63:start-6
+64:troubleshooting-6
+65:usb-6
+66:usb device-6
+67:apps-6
+68:currently-6
+69:external device-6

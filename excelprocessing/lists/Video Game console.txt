@@ -1,0 +1,35 @@
+Evolution
+Display  -> Diagonal Size -> 
+Display  -> Color Support -> 
+Display  -> Native Resolution -> 
+Revolution-G1
+GENERAL -> Internal Memory -> 250 GB, 4 GB
+GENERAL -> CPU -> PowerPC Xenon 3.2 GHz 3 Cores
+
+GENERAL -> Video Memory -> 
+GENERAL -> Network -> 802.11n, 802.11g, 802.11b, Ethernet
+GENERAL -> Graphics Controller -> ATI Xenos
+
+GENERAL -> Software Included -> 
+GENERAL -> Features -> 
+GAME CONTROLLER -> Connectivity Technology -> Wireless, Wired
+GAME CONTROLLER -> Controls -> Proprietary, HDMI, Digital optical, USB
+CONNECTIONS -> Type -> 
+CONNECTIONS -> Qty -> 
+VIDEO OUTPUT -> Graphics Processor -> 
+VIDEO OUTPUT -> Video Modes -> 1080p, 1080i, 720p, 480p
+VIDEO OUTPUT -> TV Connection -> 
+MISCELLANEOUS -> Color -> 
+MISCELLANEOUS -> Color Category -> 
+MISCELLANEOUS -> Included Game Console Accessories -> 
+MEDIA PLAYER -> Supported Video Formats -> MPEG4, AVI, WMV, DivX, Xvid, MOV
+MEDIA PLAYER -> Supported Audio Formats -> 
+VIDEO MEMORY -> Technology -> 
+POWER DEVICE -> Power Consumption -> 
+DIMENSIONS & WEIGHT -> Width -> 12.4 in
+DIMENSIONS & WEIGHT -> Depth -> 11.9 in
+DIMENSIONS & WEIGHT -> Height -> 7.4 in
+DIMENSIONS & WEIGHT -> Weight -> 10.4 pounds
+Revolution-G2
+Display  -> 3D Display -> 
+Display  -> 2nd Display -> 

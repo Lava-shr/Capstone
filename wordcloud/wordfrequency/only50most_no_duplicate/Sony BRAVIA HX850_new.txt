@@ -1,0 +1,32 @@
+0:tv-107
+1:tv set-50
+2:may-35
+3:screen-34
+4:users ming-33
+5:kdl hx955-31
+6:manual-30
+7:top stand-28
+8:use-27
+9:press-26
+10:set-25
+11:video-24
+12:setting-21
+13:sony-20
+14:hx953 hx855-19
+15:information-18
+16:power cord-17
+17:image-15
+18:place-14
+19:network-13
+20:product-12
+21:instruction-11
+22:operating-10
+23:wall-9
+24:service-8
+25:please-7
+26:logo-6
+27:model-5
+28:40hx855-4
+29:name-3
+30:65hx953-2
+31:gb01cov-1

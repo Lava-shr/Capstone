@@ -1,0 +1,1862 @@
+product*Tablet Computers
+Setting:182
+tablet:172
+Touch:169
+NEXUS GUIDEBOOK:159
+app:132
+Google Now:129
+screen:116
+application:76
+open:71
+account:67
+change:65
+turn:64
+icon:63
+information:60
+re:58
+USE GOOGLE:55
+Wi Fi:54
+device:54
+Google Play:53
+Home screen:52
+data:52
+go Settings:51
+add:50
+option:50
+key:49
+use:48
+user:47
+back:46
+set:46
+time:45
+want:45
+card:43
+SEARCH:42
+GUIDEBOOK USE:40
+Gmail:40
+location:40
+one:39
+text:39
+NOW SEARCH:38
+connect:38
+see:37
+widget:37
+TalkBack:36
+list:36
+Google Account:35
+name:35
+Google:34
+Check:33
+Android:32
+content:32
+control:31
+screen touch:31
+show:31
+type:31
+Manage:30
+detail:30
+double tap:30
+using:30
+view:29
+ACCESSIBILITY:28
+Touch hold:28
+Wireless network:28
+delete:28
+image:28
+available:27
+email:27
+location history:27
+lock screen:27
+location access:26
+need:26
+sound:26
+DEVICE SETTING:25
+go:25
+help:25
+let:25
+new:25
+GUIDEBOOK ACCESSIBILITY:24
+GUIDEBOOK DEVICE:24
+VPN:24
+keyboard:24
+next:24
+touch Menu:24
+work:24
+Now screen:23
+choose:23
+contact:23
+way:23
+Voice Action:22
+automatically:22
+feature:22
+remove:22
+service:22
+start:22
+Explore Touch:21
+NEXUS:21
+battery:21
+sync:21
+word:21
+move:20
+network:20
+password:20
+suggestion:20
+top screen:20
+ve:20
+adjust:19
+allow:19
+bottom:19
+edit:19
+just:19
+EXPLORE TABLET:18
+NETWORK SETTING:18
+Security:18
+access:18
+appear:18
+data usage:18
+enter:18
+swipe:18
+turned:18
+Calendar:17
+Fi network:17
+GUIDEBOOK EXPLORE:17
+Shown:17
+different:17
+example:17
+input:17
+share:17
+system:17
+tablet ha:17
+GET STARTED:16
+current:16
+download:16
+encryption:16
+get:16
+ha multiple:16
+item:16
+lock:16
+multiple user:16
+stop:16
+volume:16
+Bluetooth:15
+People:15
+Settings Personal:15
+computer:15
+drag:15
+like:15
+top right:15
+turn location:15
+Chrome:14
+GUIDEBOOK GET:14
+Menu Settings:14
+Settings Wireless:14
+address:14
+google com:14
+ll:14
+main:14
+make:14
+message:14
+place:14
+sign:14
+slide:14
+switch:14
+tab:14
+tion:14
+used:14
+Clock:13
+GUIDEBOOK WIRELESS:13
+Menu:13
+additional:13
+displayed:13
+don:13
+including:13
+left:13
+recent:13
+screen lock:13
+select:13
+source:13
+speak:13
+video:13
+GPS:12
+Voice Search:12
+event:12
+flight:12
+left right:12
+near:12
+page:12
+product:12
+right corner:12
+speech:12
+wallpaper:12
+without:12
+zoom:12
+Bluetooth device:11
+Daydream:11
+IMPORTANT:11
+Map:11
+TIP:11
+book:11
+hear:11
+icon top:11
+make sure:11
+modify:11
+music:11
+must:11
+receive:11
+space:11
+spoken feedback:11
+support:11
+swipe right:11
+well:11
+Android Beam:10
+Find:10
+Gesture Typing:10
+Movie:10
+Play Store:10
+Quick Settings:10
+TRY APPS:10
+USE KEYBOARD:10
+Unlock:10
+Weather:10
+across:10
+alarm:10
+box:10
+gesture:10
+include:10
+learn:10
+location reporting:10
+mouse:10
+read:10
+running:10
+secure:10
+single motion:10
+touching:10
+two:10
+update:10
+using single:10
+viewing:10
+web:10
+Face Unlock:9
+GUIDEBOOK TRY:9
+OK:9
+Power key:9
+based:9
+connected:9
+dictionary:9
+enable:9
+ing:9
+install:9
+navigate:9
+number:9
+part:9
+reporting history:9
+second:9
+synced:9
+usage:9
+GUIDEBOOK APPENDIX:8
+GUIDEBOOK PERSONAL:8
+Home:8
+NFC:8
+PIN:8
+PIN password:8
+Search Voice:8
+Set tings:8
+Web History:8
+able:8
+already:8
+anywhere:8
+charge:8
+charging unit:8
+con:8
+connection:8
+give:8
+ha separate:8
+history:8
+icon Home:8
+info:8
+letter:8
+lower:8
+mobile:8
+previous:8
+range:8
+stored:8
+swipe left:8
+tab let:8
+take:8
+tap:8
+user ha:8
+Airplane mode:7
+Auto sync:7
+Display:7
+Encrypt:7
+Favorites tray:7
+Micro USB:7
+Microphone:7
+Note:7
+Now us:7
+Personal Security:7
+Power:7
+Typing:7
+USB cable:7
+ac:7
+access reporting:7
+activate:7
+along:7
+browser:7
+corner screen:7
+default:7
+downloaded:7
+graph:7
+installed:7
+isn:7
+just right:7
+keep:7
+level:7
+look:7
+memory:7
+mobile device:7
+non Google:7
+panel:7
+process:7
+purchase:7
+related:7
+return:7
+right:7
+say ﬁGoogleﬂ:7
+sleep:7
+slide switch:7
+status:7
+storage:7
+tablet owner:7
+via:7
+webpage:7
+within:7
+won:7
+Browse:6
+Device Display:6
+Jelly Bean:6
+Navigation:6
+Recommended:6
+Save:6
+Swipe using:6
+Turning:6
+administrator:6
+another:6
+center:6
+checked:6
+come:6
+continue:6
+date:6
+day:6
+decide:6
+detail see:6
+doesn:6
+easily:6
+feedback:6
+folder:6
+following:6
+harmful:6
+hold:6
+know:6
+magazine:6
+medium:6
+much:6
+net work:6
+order:6
+others:6
+pair:6
+perform:6
+playing:6
+provide:6
+reach:6
+reading:6
+relevant:6
+reset:6
+restaurant:6
+right side:6
+section:6
+selected:6
+shortcut:6
+sport:6
+stopwatch:6
+subject:6
+timer:6
+uncheck:6
+useful:6
+want type:6
+web accessibility:6
+working:6
+Android Jelly:5
+Bluetooth turned:5
+Gallery:5
+Language input:5
+Launch:5
+Microphone icon:5
+Plus:5
+Privacy:5
+San Francisco:5
+Shop:5
+Stock:5
+Store:5
+Talk:5
+Turning location:5
+USB port:5
+YouTube:5
+always:5
+away:5
+backed:5
+backup:5
+battery life:5
+bring:5
+browsing:5
+business:5
+calendar event:5
+card appear:5
+commute:5
+conversation:5
+currently:5
+cursor:5
+customize:5
+de vice:5
+dialog open:5
+don need:5
+edge:5
+existing:5
+follow:5
+free:5
+game:5
+go sleep:5
+hour:5
+left side:5
+many:5
+matter:5
+month:5
+music video:5
+nearby:5
+onscreen keyboard:5
+organize:5
+owner see:5
+past:5
+pause:5
+period:5
+permission:5
+prevent:5
+proxy setting:5
+quickly:5
+reading level:5
+restore:5
+restrict background:5
+result:5
+sample:5
+score:5
+scroll:5
+server:5
+several:5
+shortcut gesture:5
+speaking:5
+stay:5
+team:5
+text size:5
+third party:5
+thumbnail:5
+top:5
+unless:5
+verify apps:5
+vi:5
+visible:5
+whether:5
+window:5
+word phrase:5
+Action:4
+Credential storage:4
+Dismiss:4
+Extend battery:4
+Face:4
+Favorite:4
+However:4
+IP address:4
+Inbox:4
+Incognito tab:4
+Internet:4
+Personal Language:4
+Pressing:4
+Shift key:4
+Sort:4
+Speech output:4
+Stocks card:4
+Translate:4
+Travel:4
+ability:4
+alert:4
+amount:4
+apply:4
+around:4
+assume turned:4
+avoid:4
+beside:4
+brightness:4
+calendar entry:4
+case:4
+charged:4
+charging:4
+click:4
+common:4
+complete:4
+contain:4
+create:4
+depending:4
+detailed:4
+determine:4
+different language:4
+dis play:4
+doe:4
+either:4
+end:4
+ensure:4
+every Home:4
+getting:4
+global:4
+guest:4
+individual:4
+initiate Voice:4
+instruction assume:4
+interest:4
+internal storage:4
+kind information:4
+label:4
+later:4
+likely:4
+located:4
+manually:4
+mobile hotspot:4
+mode:4
+municipal waste:4
+owner:4
+periodically:4
+person:4
+portion:4
+portrait mode:4
+position:4
+previously:4
+prompted enter:4
+provided:4
+recently:4
+recommendation:4
+release:4
+require:4
+required:4
+rotate:4
+sage:4
+saved:4
+send message:4
+sent:4
+setup:4
+setup process:4
+size:4
+something:4
+step:4
+still:4
+strength:4
+sure Bluetooth:4
+switch position:4
+syncing:4
+system administrator:4
+term:4
+thing:4
+toggle:4
+toward:4
+trademark:4
+transfer:4
+trusted credential:4
+uninstall:4
+us:4
+virtual private:4
+visit:4
+visit support:4
+whose:4
+Ac cessibility:3
+Actions basic:3
+Actions command:3
+Area code:3
+Chrome omnibox:3
+Detachable:3
+Disable:3
+Enhance web:3
+Enhanced Web:3
+Ex plore:3
+File Transfer:3
+Force:3
+Forget:3
+Geological Survey:3
+Hotel:3
+ID:3
+Identify:3
+Improve:3
+Library:3
+Loca tion:3
+MAC:3
+Magnify:3
+Movies TV:3
+Note instruction:3
+OS:3
+Optimize:3
+Pictures:3
+Play:3
+Protect:3
+Public Alert:3
+Quick:3
+RAM:3
+Rename:3
+Samsung:3
+Suggest:3
+Take screenshot:3
+URL:3
+Visit http:3
+WARNING:3
+Zip code:3
+addition:3
+advanced:3
+affect:3
+among:3
+analyzes:3
+apart:3
+appointment:3
+arrow:3
+associated:3
+attempt:3
+automati cally:3
+automatic:3
+avail:3
+backup reset:3
+bar:3
+best:3
+block:3
+blue:3
+brings together:3
+camera:3
+carefully:3
+cer:3
+certain:3
+chance:3
+color:3
+completely:3
+completing:3
+continuous:3
+correctly:3
+count:3
+cycle:3
+der:3
+describe:3
+described:3
+designed:3
+dialog:3
+easy:3
+entering:3
+entry:3
+equivalent touching:3
+er:3
+estimate:3
+even:3
+ex:3
+factory:3
+follow instruction:3
+font size:3
+forward:3
+friend:3
+front:3
+future:3
+given:3
+going:3
+group:3
+hand:3
+harm:3
+headset jack:3
+hide:3
+immediately:3
+indicate:3
+input method:3
+installation:3
+kind:3
+latest:3
+le:3
+line:3
+listed:3
+long:3
+looking:3
+lose:3
+low vision:3
+made:3
+manually collect:3
+mean:3
+motion Transition:3
+navigating:3
+necessary:3
+nickname:3
+notice:3
+offline:3
+online:3
+orientation:3
+paired:3
+pattern:3
+percentage:3
+phone:3
+phrase:3
+plan:3
+possible:3
+pre:3
+press Power:3
+preview:3
+prompted:3
+re signed:3
+reading block:3
+ready:3
+recorded:3
+refers:3
+reinstall:3
+resource:3
+ringtone:3
+satellite:3
+say:3
+scan:3
+schedule:3
+screenshot:3
+see ﬁUse:3
+ser:3
+sharing:3
+site:3
+slowly:3
+snap:3
+space bar:3
+special:3
+specify:3
+speed:3
+task:3
+tell:3
+three:3
+throw:3
+together favorite:3
+trigger:3
+tutorial:3
+typically:3
+underlined:3
+upper:3
+usual:3
+ve added:3
+version:3
+waiting:3
+ﬁControl:3
+ﬁSend:3
+ﬁUse Voice:3
+5mm:2
+APPENDIX:2
+Adjusting:2
+Airline:2
+Alternatively:2
+Bat tery:2
+Beam:2
+CPU:2
+Clear:2
+Compose:2
+Currency:2
+Cut copy:2
+Drive:2
+Dual:2
+Exchange:2
+Field Communication:2
+Finder window:2
+Front facing:2
+GPU:2
+General:2
+HDMI:2
+Hardware reference:2
+Hotword detection:2
+Inc:2
+Large:2
+Light:2
+Mexican food:2
+Micro:2
+Mike:2
+National:2
+PC:2
+Per sonal:2
+Photo Frame:2
+Photo Table:2
+Pinch:2
+Protocol:2
+Public:2
+Recommends:2
+Removing:2
+SIM:2
+SSID:2
+Specs:2
+Standard:2
+Synchronize:2
+TV:2
+Trash:2
+USB:2
+Un:2
+Welcome:2
+accelerometer:2
+accept:2
+accessing:2
+adapter:2
+added:2
+af:2
+affecting:2
+alternate transcription:2
+ambient:2
+ample:2
+approximate:2
+area:2
+artist:2
+asked:2
+aspect:2
+assign:2
+associ ated:2
+attraction:2
+audible:2
+authentication:2
+background:2
+backing:2
+backward:2
+behavior:2
+birthday:2
+blocked:2
+cached:2
+cal:2
+called:2
+came:2
+cation:2
+cause:2
+caution:2
+central:2
+changing:2
+character:2
+compared:2
+concert:2
+conserve:2
+consult:2
+continuously:2
+copy paste:2
+core:2
+corresponding:2
+crossed wheeled:2
+cur:2
+delay:2
+deleted:2
+dentist:2
+detect:2
+differ:2
+direction send:2
+disabled:2
+disappears:2
+discarded analysis:2
+disconnect:2
+displaying:2
+docked:2
+dot fade:2
+dragging:2
+dur:2
+earlier:2
+easier:2
+electronic:2
+en:2
+enabled:2
+entertainment:2
+erase:2
+even originally:2
+even wa:2
+every:2
+everyone:2
+exception:2
+expand:2
+experience:2
+extend:2
+extension:2
+external:2
+facing camera:2
+fade away:2
+family friend:2
+far:2
+faster:2
+food:2
+formation:2
+formatted:2
+forth:2
+ful:2
+full advantage:2
+fully:2
+generic:2
+ger:2
+global context:2
+googleplay:2
+headset:2
+holding:2
+hope:2
+http www:2
+immediately discarded:2
+increasing:2
+informa:2
+installing:2
+instead:2
+interrupt:2
+interval:2
+joystick:2
+landscape:2
+language:2
+last:2
+latitude:2
+least:2
+leave:2
+life:2
+link:2
+load:2
+local:2
+locationhistory:2
+longer:2
+low:2
+lowercase:2
+mark ﬁexclamation:2
+matching Liveness:2
+measurement:2
+meeting:2
+minute:2
+moment:2
+morning:2
+mu:2
+nect:2
+needed:2
+ner:2
+obtain:2
+occur:2
+offensive:2
+often:2
+ongoing:2
+organization:2
+originally purchased:2
+outlet:2
+output:2
+outside:2
+overlay:2
+package:2
+pairing:2
+pan:2
+passcode:2
+permanent:2
+picked:2
+pitch:2
+placed municipal:2
+playback hour:2
+point:2
+popular:2
+port:2
+pre cise:2
+precise:2
+prefer:2
+press:2
+private:2
+prompt:2
+protection:2
+punctuation:2
+purchased:2
+purpose:2
+put:2
+query:2
+rate:2
+rather:2
+reappear:2
+recognition:2
+recognizable:2
+recording:2
+reduce:2
+regulatory mark:2
+reliable:2
+remains:2
+remember:2
+report:2
+requires four:2
+resize:2
+restart:2
+rough:2
+router:2
+row:2
+run:2
+saying:2
+scaling:2
+scheduled:2
+scrolling:2
+se:2
+searched:2
+secured local:2
+sensor:2
+separate:2
+shoe:2
+short:2
+shrink dot:2
+sighted:2
+signal:2
+simply:2
+since:2
+slider:2
+slightly:2
+snippet:2
+spot:2
+square:2
+still permitting:2
+stream:2
+strip:2
+supported:2
+symbol crossed:2
+tact:2
+temporary:2
+today:2
+ton:2
+topic:2
+tory:2
+touched:2
+touchﬂ tutorial:2
+tracking:2
+transcribed:2
+trick:2
+triple:2
+triple tapping:2
+trust:2
+tween:2
+typi:2
+unauthorized:2
+unlocked:2
+username:2
+varies:2
+various:2
+verifying:2
+vice:2
+vision:2
+walked cycled:2
+wheeled bin:2
+worked recently:2
+worry:2
+zooming:2
+ﬁCreate:2
+ﬁDirections:2
+ﬁGo:2
+ﬁGoogleﬂ:2
+ﬁListen:2
+ﬁMap:2
+ﬁNavigate:2
+ﬁSet:2
+ﬁnote self:2
+ﬁtimeﬂ:2
+ﬂAddress:2
+055ﬂ:1
+100VŒ240V:1
+10Other:1
+10Personal:1
+12at:1
+16GB:1
+16NEXUS:1
+16Swipe:1
+19Bluetooth:1
+20Touch:1
+22Relax:1
+23All:1
+24Shop:1
+25you:1
+26Google:1
+27Reorder:1
+2A:1
+2Charge:1
+2Explore:1
+2GB:1
+2Turn:1
+30Settings:1
+31You:1
+32GB:1
+32Mice:1
+33NEXUS:1
+35Use:1
+37Personal:1
+39To:1
+3Get:1
+3Use:1
+40While:1
+41If:1
+42Manage:1
+45Manage:1
+46When:1
+47About:1
+47NEXUS:1
+49to:1
+4Browse:1
+4Try:1
+51you:1
+52Edit:1
+54at:1
+56vices:1
+57IMPORTANT:1
+59Search:1
+5Open:1
+5Use:1
+5V:1
+603g:1
+61Food:1
+62Some:1
+63Say:1
+64Contact:1
+65Google:1
+67Gmail:1
+69Gmail:1
+6Accessibility:1
+6Recent:1
+70Movies:1
+71News:1
+720p:1
+72Places:1
+73Public:1
+74Stocks:1
+76Travel:1
+77About:1
+7Browse:1
+7Touch:1
+7Wireless:1
+8Device:1
+90Feedback:1
+91Enhance:1
+94The:1
+95You:1
+99email:1
+9Security:1
+9To:1
+9Type:1
+A15:1
+Accessi:1
+Actionsﬂ:1
+AdWords:1
+Agen:1
+Although:1
+Alto:1
+American:1
+Anto:1
+Ascend:1
+Auto:1
+Avenue:1
+Berkeley:1
+Bikes:1
+Briss:1
+Bue:1
+Calculator:1
+Californiaﬂ:1
+Celsius:1
+Chicago:1
+Choosing:1
+Clicking:1
+Colusa:1
+Coming:1
+Compass:1
+Connectivity:1
+Convert:1
+Copyright:1
+Corning:1
+Corporations:1
+Coverage:1
+Crop:1
+DC:1
+Defend:1
+Dinner:1
+Edition:1
+Encryp:1
+Escape:1
+Fahrenheit:1
+Finance:1
+Flash:1
+Followed:1
+Foster:1
+Gate:1
+Giants:1
+Glass:1
+Gmailﬂ:1
+Golden:1
+Gorilla:1
+Gyroscope:1
+HD:1
+Hardware:1
+Horse:1
+Hugh:1
+IP:1
+Illinois:1
+Incognito:1
+LED:1
+LeBeauﬂ:1
+Leaving:1
+Lithium:1
+Live:1
+London:1
+MP:1
+MTP:1
+Magnetic:1
+Mali:1
+Manual:1
+Marcus:1
+Media:1
+Mes:1
+Messaging:1
+Mouth:1
+Night:1
+None:1
+OpenTable:1
+PLS:1
+Palace:1
+Palo:1
+Park:1
+Pending:1
+Photo:1
+Please:1
+Plug:1
+Pressure:1
+Protected:1
+Quad:1
+ROM:1
+Rearrange:1
+Relax:1
+Rotation:1
+Saturday:1
+Similarly:1
+Simplify:1
+Smells:1
+Spanish:1
+Speakers:1
+Spiritﬂ:1
+Standby:1
+States:1
+Subsequently:1
+T604:1
+TM:1
+Teen:1
+Translation:1
+Unchecking:1
+Uninstalling:1
+Union:1
+United:1
+Urbana:1
+Vox:1
+WPS:1
+WQXGA:1
+Wallet:1
+WeatherDetroit:1
+Week:1
+Weight:1
+Wid:1
+accessible:1
+accessory:1
+accompany:1
+accompanying:1
+activated:1
+active:1
+activity:1
+actual:1
+actually:1
+ad:1
+addedŠfor:1
+admin:1
+admini:1
+administration:1
+advantage:1
+advisory:1
+age:1
+agree:1
+alarmﬂ:1
+album:1
+allowing:1
+analog:1
+animated:1
+anything:1
+approach:1
+appropriate:1
+approxima:1
+approximation:1
+ar:1
+aren:1
+ary:1
+aside:1
+ask:1
+assigned:1
+assistance:1
+ating:1
+attach:1
+attached:1
+avid:1
+basic:1
+beep:1
+beeping:1
+begin:1
+behalf:1
+behind:1
+ber:1
+better:1
+beyond:1
+bile:1
+bility:1
+birthdate:1
+ble:1
+blink:1
+booking:1
+bookmark:1
+bration:1
+breakdown:1
+brief:1
+bright:1
+bringing:1
+broadcast:1
+bump:1
+bus:1
+button:1
+cable:1
+cache:1
+cafe:1
+calculate:1
+cally:1
+campus:1
+cap:1
+capacity:1
+capi:1
+capital:1
+capture:1
+car:1
+cast:1
+cat:1
+cates:1
+cell:1
+cess:1
+cessfully:1
+changed:1
+chapter:1
+char:1
+charg:1
+chase:1
+checkbox:1
+checkboxes:1
+checkout:1
+chive:1
+choice:1
+chose:1
+chosen:1
+chronized:1
+chronological:1
+clearing:1
+client:1
+cludes:1
+cluding:1
+collection:1
+com:1
+combine:1
+command:1
+commonly:1
+completed:1
+complex:1
+component:1
+compre:1
+connecting:1
+consume:1
+containing:1
+convenience:1
+convenient:1
+conversion:1
+cooky:1
+country:1
+credential:1
+cropping:1
+crt:1
+cryption:1
+custom:1
+cycling:1
+da:1
+damage:1
+dashboard:1
+dateﬂ:1
+decrypt:1
+dedicated:1
+defense:1
+degree:1
+deliver:1
+descending:1
+describing:1
+descrip:1
+description:1
+desk:1
+destination:1
+detach:1
+dicates:1
+diction:1
+dicts:1
+digging:1
+digital:1
+dimmed:1
+direc:1
+directional:1
+directly:1
+discharge:1
+discharging:1
+discoverable:1
+disposal:1
+divided:1
+document:1
+documentation:1
+domain:1
+done:1
+double:1
+downloading:1
+draft:1
+drain:1
+drawing:1
+driver:1
+droid:1
+drop:1
+earthquake:1
+ed:1
+editing:1
+elaborate:1
+electrical:1
+emailﬂ:1
+emergency:1
+encounter:1
+encrypting:1
+engine:1
+entered:1
+entire:1
+equipment:1
+era:1
+erence:1
+ested:1
+et:1
+evening:1
+eventﬂ:1
+everything:1
+exactly:1
+exceeds:1
+excep:1
+excepting:1
+expanded:1
+explain:1
+explicitly:1
+exploration:1
+export:1
+extra:1
+extreme:1
+fact:1
+fect:1
+fecting:1
+fee:1
+feel:1
+fer:1
+flavor:1
+fleetingly:1
+floating:1
+fore:1
+full:1
+fun:1
+fy:1
+gamepads:1
+gently:1
+gift:1
+giving:1
+good:1
+got:1
+grant:1
+guarantee:1
+guard:1
+guidelines:1
+happening:1
+happens:1
+heading:1
+headphone:1
+hensive:1
+highlight:1
+homepage:1
+horizontally:1
+html:1
+hub:1
+ible:1
+idea:1
+identifying:1
+iiNEXUS:1
+iiiTable:1
+impaired:1
+impairment:1
+import:1
+inactive:1
+included:1
+increase:1
+independently:1
+individually:1
+infor:1
+informed:1
+initial:1
+initiate:1
+insertion:1
+institu:1
+intelligently:1
+inter:1
+interact:1
+interesting:1
+intermittent:1
+internal:1
+interpreted:1
+introduction:1
+invited:1
+involved:1
+irreversible:1
+isting:1
+istrator:1
+ivChange:1
+ized:1
+jack:1
+keeping:1
+kept:1
+known:1
+lap:1
+laptop:1
+larger:1
+largest:1
+laundryﬂ:1
+layered:1
+lays:1
+lect:1
+lection:1
+lens:1
+less:1
+lift:1
+limit:1
+limited:1
+loaded:1
+loca:1
+locked:1
+log:1
+logo:1
+lution:1
+mAh:1
+maga:1
+mail:1
+making:1
+managing:1
+manipulate:1
+manuallyŠfor:1
+mark:1
+marketer:1
+matching:1
+material:1
+math:1
+mation:1
+mea:1
+meaning:1
+mercury:1
+method:1
+middle:1
+milkﬂ:1
+mind:1
+minimize:1
+misbehaving:1
+misplace:1
+mixture:1
+mo:1
+mounted:1
+movement:1
+multi:1
+nearest:1
+nearly:1
+neath:1
+ness:1
+networksﬂ:1
+never:1
+noise:1
+non:1
+noti:1
+numeric:1
+occasional:1
+occupied:1
+occupy:1
+offer:1
+onscreen:1
+onto:1
+opening:1
+oper:1
+operating:1
+operation:1
+opt:1
+opted:1
+optimization:1
+optional:1
+organiza:1
+original:1
+orﬁNavigate:1
+ous:1
+overview:1
+p12:1
+par:1
+permanently:1
+permis:1
+pfx:1
+physical:1
+pinching:1
+ping:1
+platform:1
+plore:1
+plugged:1
+pointﬂ:1
+policy:1
+polymer:1
+poor:1
+pop:1
+poten:1
+pow:1
+powered:1
+ppi:1
+predetermined:1
+predict:1
+preference:1
+preloaded:1
+prepare:1
+present:1
+prevention:1
+previ:1
+price:1
+priority:1
+problem:1
+processing:1
+progress:1
+prop:1
+proper:1
+property:1
+proxy:1
+publicalerts:1
+pur:1
+quality:1
+quired:1
+raise:1
+reader:1
+reason:1
+reattach:1
+rec:1
+receiv:1
+reconnect:1
+record:1
+recycling:1
+ref:1
+reflects:1
+region:1
+regular:1
+regulation:1
+relying:1
+remem:1
+reminder:1
+remotely:1
+removed:1
+rent:1
+rental:1
+rently:1
+reopen:1
+replace:1
+requested:1
+reservation:1
+reserved:1
+resetting:1
+respective:1
+respond:1
+restored:1
+retrieve:1
+reuse:1
+reveal:1
+revert:1
+round:1
+scanned:1
+scanning:1
+scatter:1
+scene:1
+school:1
+script:1
+secu:1
+securely:1
+selection:1
+selfﬂ:1
+send:1
+sep:1
+serial:1
+series:1
+seums:1
+shade:1
+shaped:1
+shipping:1
+shoesﬂ:1
+shopping:1
+shorter:1
+showing:1
+sic:1
+side:1
+similar:1
+simple:1
+simultaneously:1
+sion:1
+sit:1
+sleeping:1
+slideshow:1
+small:1
+smiley:1
+social:1
+soft:1
+software:1
+song:1
+soon:1
+spe:1
+specialized:1
+spoke:1
+spoken:1
+spread:1
+spreading:1
+spreadsheet:1
+stalled:1
+star:1
+starting:1
+static:1
+station:1
+stolen:1
+strator:1
+streaming:1
+string:1
+strong:1
+stuff:1
+style:1
+successful:1
+successfully:1
+supplied:1
+surements:1
+switcher:1
+symbol:1
+syn:1
+synchro:1
+sys:1
+taken:1
+taking:1
+tal:1
+target:1
+technology:1
+tem:1
+tend:1
+textual:1
+thus:1
+tial:1
+ticular:1
+ties:1
+timeout:1
+tings:1
+tionﬂ:1
+title:1
+tom:1
+tone:1
+tonight:1
+tool:1
+tooth:1
+total:1
+toﬂ:1
+track:1
+trackball:1
+traf:1
+train:1
+tran:1
+transferred:1
+transit:1
+transmission:1
+transmit:1
+transport:1
+tray:1
+triggered:1
+trol:1
+trolled:1
+tures:1
+twice:1
+typ:1
+typical:1
+unconnected:1
+underline:1
+understand:1
+uninstalled:1
+unit:1
+unlocking:1
+unpair:1
+unplugging:1
+unsafe:1
+upcom:1
+updated:1
+uploaded:1
+ured:1
+vSearch:1
+variety:1
+vary:1
+vent:1
+veri:1
+verti:1
+vertical:1
+vertically:1
+vibration:1
+vicinity:1
+viewed:1
+viewﬂ:1
+vii:1
+violator:1
+visual:1
+visually:1
+volt:1
+voltage:1
+wait:1
+wake:1
+walking:1
+wall:1
+ward:1
+ware:1
+warn:1
+wasn:1
+whatever:1
+wheel:1
+wherever:1
+white:1
+wide:1
+write:1
+yet:1
+zines:1
+zone:1
+zoomed:1
+zoomﬂ:1
+ﬁ10:1
+ﬁ20:1
+ﬁAbout:1
+ﬁAccessibility:1
+ﬁBccﬂ:1
+ﬁCcﬂ:1
+ﬁChapter:1
+ﬁCon:1
+ﬁConnect:1
+ﬁEvent:1
+ﬁEx:1
+ﬁExplore:1
+ﬁForce:1
+ﬁGoogle:1
+ﬁLabelﬂ:1
+ﬁMessageﬂ:1
+ﬁMike:1
+ﬁNote:1
+ﬁOpen:1
+ﬁOpenﬂ:1
+ﬁPre:1
+ﬁSearch:1
+ﬁShare:1
+ﬁSubjectﬂ:1
+ﬁToﬂ:1
+ﬁbike:1
+ﬁcomma:1
+ﬁday:1
+ﬁforﬂ:1
+ﬁpairﬂ:1
+ﬁperiod:1
+ﬁquestion:1
+ﬁsandboxesﬂ:1
+ﬂOne:1
+ﬂSearch:1
+ﬂVoice:1
+ﬂﬁSend:1

@@ -1,0 +1,93 @@
+Evolution
+Display -> Display Format -> 921,000 pixels (3.2″)
+BATTERY -> Details -> 1 x Nikon EN-EL15 Li-ion rechargeable battery ( included )
+Revolution-G1
+Image/ Sensor Resolution -> 36.3 (36) Megapixel (mp) -> 
+Enclosure Material -> magnesium alloy -> 
+Enclosure Material -> Optical Sensor Type -> CMOS
+Enclosure Material -> Optical Sensor Size -> 24 x 35.9mm
+Enclosure Material -> Sensor Dust Reduction -> 
+Enclosure Material -> Sensor Features -> Self Cleaning Sensor Unit
+Enclosure Material -> System -> TTL contrast and phase detection
+Enclosure Material -> Auto Focus Points (Zones) Qty -> 51.0
+Enclosure Material -> AE/AF Control -> 3D-tracking AF, Auto-area AF, Dynamic-area AF, Face-priority AF, Subject-tracking AF
+Enclosure Material -> Manufacturer -> Nikon Inc.
+ENVIRONMENTAL PARAMETERS -> Humidity Range Operating -> 0 - 85% (non-condensing)
+EXPOSURE & WHITE BALANCE -> Exposure Metering -> 3D color matrix III, center-weighted, spot
+EXPOSURE & WHITE BALANCE -> Exposure Modes -> aperture-priority, automatic, bulb, manual, shutter-priority
+EXPOSURE & WHITE BALANCE -> White Balance -> automatic, custom, presets
+EXPOSURE & WHITE BALANCE -> White Balance Presets -> 2500K - 10000K, cloudy, flash, fluorescent, incandescent, shade, sunlight
+EXPOSURE & WHITE BALANCE -> Exposure Compensation -> ±5 EV range, in 1, 1/2 or 1/3 EV steps
+EXPOSURE & WHITE BALANCE -> Auto Exposure Bracketing -> 9 steps in 1/3, 1/2, 2/3 or 1 EV steps
+EXPOSURE & WHITE BALANCE ->  White Balance Bracketing -> 
+EXPOSURE & WHITE BALANCE -> Exposure Range -> EV 0-20 ( ISO 100 )
+FLASH -> Guide Number (m / ISO 100) -> 12.0
+FLASH -> Red Eye Reduction -> 
+FLASH -> Flash Modes -> fill-in mode, flash OFF mode, rear curtain sync, red-eye reduction, slow synchro
+LENS SYSTEM -> Lens Included -> body only
+MISCELLANEOUS -> Microsoft Certification -> Compatible with Windows 7
+MEMORY / STORAGE -> Supported Memory Cards -> CompactFlash, SD Memory Card, SDHC UHS-I Memory Card, SDXC UHS-I Memory Card
+MEMORY / STORAGE -> Image Storage -> 7360 x 4912 - FX format
+5520 x 3680 - FX format
+3680 x 2456 - FX format
+6144 x 4080 - 1.2x crop
+4608 x 3056 - 1.2x crop
+3072 x 2040 - 1.2x crop
+4800 x 3200 - DX format
+3600 x 2400 - DX format
+2400 x 1600 - DX format
+6144 x 4912 - 5:4
+4608 x 3680 - 5:4
+3072 x 2456 - 5:4
+6720 x 3776 - FX-format in movie live view mode (16:9)
+5040 x 2832 - FX-format in movie live view mode (16:9)
+3360 x 1888 - FX-format in movie live view mode (16:9)
+4800 x 2704 - DX-format in movie live view mode (3:2)
+3600 x 2024 - DX-format in movie live view mode (3:2)
+2400 x 1352 - DX-format in movie live view mode (3:2)
+MEMORY / STORAGE -> Video Capture -> MOV - 1920 x 1080 - 30 fps
+MOV - 1920 x 1080 - 25 fps
+MOV - 1920 x 1080 - 24 fps
+MOV - 1280 x 720 - 60 fps
+MOV - 1280 x 720 - 50 fps
+MOV - 1280 x 720 - 30 fps
+MOV - 1280 x 720 - 25 fps
+ADDITIONAL FEATURES -> Features -> 
+VIEWFINDER -> Viewfinder Type -> Optical - fixed eye-level pentaprism
+VIEWFINDER -> Viewfinder Colour Support -> Color
+VIEWFINDER -> Optical Viewfinder Field Coverage -> 
+VIEWFINDER -> Optical Viewfinder Magnification -> 0.70x
+VIEWFINDER -> Optical Viewfinder Dioptric Correction Range -> -3 to +1
+VIEWFINDER -> Viewfinder Frames -> Autofocus frame
+CONNECTIONS -> Memory Card Slot -> CompactFlash Card, SD card
+CONNECTIONS -> Qty -> 
+CONNECTIONS -> Connector Type -> mini-phone stereo 3.5 mm, mini-phone stereo 3.5 mm
+SHUTTER -> X-sync Speed -> 1/250 sec
+MICROPHONE -> Microphone Operation Mode -> mono
+SYSTEM REQUIREMENTS FOR PC CONNECTION -> Peripheral Devices -> CD-ROM drive, USB port
+HEADER -> Brand -> 
+HEADER -> Product Line -> Nikon
+HEADER -> Model -> D800
+HEADER -> Packaged Quantity -> 1.0
+VIDEO INPUT -> Image Processor -> EXPEED 3
+VIDEO INPUT -> Face Detection Detalis -> face-priority AF function
+VIDEO INPUT -> Digital Video Format -> H.264, MOV
+VIDEO INPUT -> Image Recording Format -> JPEG, NEF (RAW), RAW + JPEG, TIFF
+VIDEO INPUT -> AV Interfaces -> HDMI, USB 3.0
+VIDEO INPUT -> Light Sensitivity -> ISO 100-6400, ISO 50-100, ISO 6400-25600, ISO auto
+VIDEO INPUT -> Special Effects -> Black & White, Blue, Miniature, Monochrome, Neutral, Portrait, Red, Selective Color, Sepia, Skylight Filter, Soft, Vivid, Color outline, Warm Filter, Color sketch, Cross Screen, Cyanotype, Fisheye, Green, Image Overlay, Landscape
+VIDEO INPUT -> Type -> 
+VIDEO INPUT -> Continuous Shooting Speed -> 4 frames per second
+VIDEO INPUT -> Self Timer Delay -> 10 sec, 2 sec, 20 sec, 5 sec
+VIDEO INPUT -> Flash Terminal -> PC terminal, hot shoe
+VIDEO INPUT -> Digital Camera Type -> SLR
+VIDEO INPUT -> SLR Enhanced Functionality -> Live View mode, movie recording
+VIDEO INPUT -> ISO (Max) -> 25600.0
+VIDEO INPUT -> High Definition Video Support -> 1080p
+VIDEO INPUT -> Face Detection -> Yes
+VIDEO INPUT -> Lens Mounting Type -> Nikon F
+Revolution-G2
+Display -> Display Form Factor -> built-in
+BATTERY -> Battery Type -> 
+BATTERY -> Battery Form Factor -> manufacturer specific
+BATTERY -> Manufacturer Battery Name -> Nikon EN-EL15
